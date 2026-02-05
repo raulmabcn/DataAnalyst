@@ -16,7 +16,7 @@ USE biblioteca;
     INNER JOIN libros AS l
     ON a.autor_id = l.autor_id
     WHERE l.año_publicacion < 1927
-    GROUP BY l.autor_id
+    GROUP BY a.autor_id, a.nombre
     ORDER BY COUNT(l.libro_id) DESC
     LIMIT 1;
     
@@ -28,11 +28,11 @@ USE biblioteca;
     FROM libros AS l
     INNER JOIN prestamos AS p
     ON l.libro_id = p.libro_id 
-    GROUP BY p.libro_id;   
+    GROUP BY l.libro_id, l.titulo;   
         
     
     -- 4.Mostra la quantitat d'usuaris que no han realitzat cap préstec.
-
+    
 	SELECT u.usuario_id
 	FROM USUARIOS AS u
 	WHERE NOT EXISTS(
@@ -40,20 +40,25 @@ USE biblioteca;
 		FROM prestamos AS p 
 		WHERE p.usuario_id = u.usuario_id
 	);
-      
+    
+    SELECT COUNT(*)
+    FROM usuarios AS u
+    LEFT JOIN prestamos AS p ON u.usuario_id = p.usuario_id
+    WHERE p.usuario_id is NULL;
+    
     -- 5.Mostra el nom dels 3 usuaris que han fet més préstecs.
     
-    SELECT u.nombre, COUNT(p.prestamo_id), u.usuario_id
+    SELECT u.nombre, COUNT(p.prestamo_id) AS n_prestamos
     FROM prestamos AS p
     INNER JOIN usuarios AS u
     ON p.usuario_id = u.usuario_id
-    GROUP BY p.usuario_id
-    ORDER BY COUNT( p.prestamo_id ) DESC
+    GROUP BY u.usuario_id, u.nombre 
+    ORDER BY n_prestamos DESC
     LIMIT 3;
     
     -- 6.Mostra el nom i l'ID dels usuaris estrangers i que han hagut de pagar una multa per retard en la devolució del préstec superior a 10 euros.
     
-    SELECT u.nombre, u.usuario_id
+    SELECT DISTINCT u.usuario_id, u.nombre
     FROM usuarios AS u
     INNER JOIN prestamos AS p ON p.usuario_id = u.usuario_id
     INNER JOIN multas AS m ON m.prestamo_id = p.prestamo_id
@@ -61,7 +66,7 @@ USE biblioteca;
     
     -- 7.Mostra l'autor nascut després de 1980 que ha generat més préstecs en usuaris espanyols. A més, només s'han de comptabilitzar els préstecs finalitzats (ok o amb retard).
     
-    SELECT a.*
+    SELECT a.nombre
     FROM autores AS a
     INNER JOIN libros AS l ON a.autor_id = l.autor_id  
     INNER JOIN prestamos AS p ON p.libro_id = l.libro_id  
@@ -69,18 +74,18 @@ USE biblioteca;
     WHERE a.año_nacimiento > 1980
     AND p.estado_prestamo IN ( 'finalizado ok', 'finalizado con retraso' )
     AND u.nacionalidad = 'española'
-    GROUP BY a.autor_id
+    GROUP BY a.autor_id, a.nombre
     ORDER BY COUNT(p.prestamo_id) DESC
     LIMIT 1;
     
     -- 8.Quina és la categoria de llibres que més demanen en préstec les persones que tenen targeta de fidelitat?
     
-    SELECT c.nombre
+    SELECT c.categoria_id, c.nombre
     FROM categorias AS c
     INNER JOIN libros AS l ON c.categoria_id = l.categoria_id
     INNER JOIN prestamos AS p ON l.libro_id = p.libro_id
     INNER JOIN usuarios AS u ON p.usuario_id = u.usuario_id 
     WHERE u.tarjeta_fidelidad = 'SI'
-    GROUP BY c.categoria_id
+    GROUP BY c.categoria_id,c.nombre
     ORDER BY COUNT(p.prestamo_id) DESC
     LIMIT 1;
