@@ -10,7 +10,7 @@ Si el nombre està entre 5 i 8 (ambdós inclosos), el programa ha d'imprimir: "D
 Si el nombre és superior a 8, el programa ha d'imprimir: "Dorms molt! Potser és hora de plantejar-te si és necessari."
  """
 
-average_hours_sleep = int( input('Quantes hores dorm de mitjana? ') )
+average_hours_sleep = float( input('Quantes hores dorm de mitjana?: ') )
 
 if average_hours_sleep < 0:
     print("Un nombre negatiu d'hores no és possible.")
