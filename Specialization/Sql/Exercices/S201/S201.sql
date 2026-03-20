@@ -62,19 +62,64 @@ WHERE NOT EXISTS (
 -- Identifica els cinc dies que es va generar la quantitat més gran d'ingressos a l'empresa per vendes. 
 -- Mostra la data de cada transacció juntament amb el total de les vendes.
 
+-- Els 5 dies que mes ingresos tenen sense tenit en compte la empresa.
+SELECT DATE(timestamp) AS date_transaction, SUM(amount) AS total_sales
+FROM transaction 
+GROUP BY DATE(timestamp)
+ORDER BY SUM(amount) DESC
+LIMIT 5;
 
-
+-- Dies amb mes ingresos per empresa, limitat a 5 resultats máxim per empresa
+SELECT *
+FROM (
+    SELECT company_id, DATE(timestamp) AS date_transaction, SUM(amount) AS total_sales,
+           ROW_NUMBER() OVER (
+               PARTITION BY company_id
+               ORDER BY SUM(amount) DESC
+           ) AS rn
+    FROM transaction
+    GROUP BY company_id, DATE(timestamp)
+) t
+WHERE rn <= 5
+ORDER BY company_id, rn;
 
 -- Exercici 2 --------------------------------------------------------
 -- Quina és la mitjana de vendes per país? Presenta els resultats ordenats de major a menor mitjà.
 
+SELECT c.country, AVG(t.amount) AS avg_sales
+FROM company AS c
+INNER JOIN transaction AS t ON c.id = t.company_id
+GROUP BY c.country
+ORDER BY AVG(t.amount) DESC;
 
 -- Exercici 3 --------------------------------------------------------
 -- En la teva empresa, es planteja un nou projecte per a llançar algunes campanyes publicitàries per a fer competència a la companyia "Non Institute". 
 -- Per a això, et demanen la llista de totes les transaccions realitzades per empreses que estan situades en el mateix país que aquesta companyia.
+
 -- (Mostra el llistat aplicant JOIN i subconsultes.)
+
+SELECT t.*
+FROM company AS c
+INNER JOIN transaction AS t ON c.id = t.company_id
+WHERE c.country = (
+	SELECT country 
+    FROM company 
+    WHERE company_name = "Non Institute" 
+);
+
 -- (Mostra el llistat aplicant solament subconsultes.)
 
+SELECT *
+FROM transaction
+WHERE company_id IN (
+	SELECT id
+    FROM company
+    WHERE country IN (
+		SELECT country 
+        FROM company
+        WHERE company_name = "Non Institute"
+	)
+);
 
 -- Nivell 3 ------------------------------------------------------------------------------------------------------
 
@@ -82,12 +127,30 @@ WHERE NOT EXISTS (
 -- Presenta el nom, telèfon, país, data i amount, d'aquelles empreses que van realitzar transaccions amb un valor comprès entre 100 i 200 euros 
 -- i en alguna d'aquestes dates: 29 d'abril del 2021, 20 de juliol del 2021 i 13 de març del 2022. Ordena els resultats de major a menor quantitat.
 
+SELECT c.company_name, c.phone, c.country, DATE(t.timestamp) AS date, t.amount
+FROM company AS c
+INNER JOIN transaction AS t ON t.company_id = c.id
+WHERE DATE(t.timestamp) IN ('2021-04-29','2021-07-20','2022-03-13')
+AND t.amount BETWEEN 100 AND 200
+ORDER BY t.amount DESC;
 
 -- Exercici 2 --------------------------------------------------------
 -- Necessitem optimitzar l'assignació dels recursos i dependrà de la capacitat operativa que es requereixi, 
 -- per la qual cosa et demanen la informació sobre la quantitat de transaccions que realitzen les empreses, 
 -- però el departament de recursos humans és exigent i vol un llistat de les empreses on especifiquis si tenen més de 4 transaccions o menys.
 
+SELECT c.*, t.n_transactions
+FROM company AS c
+INNER JOIN (
+SELECT
+	company_id,
+	CASE 
+		WHEN COUNT(id) >= 4 THEN '4 o més'
+        ELSE 'menys de 4'
+	END AS n_transactions
+FROM transaction
+GROUP BY company_id
+) AS t ON c.id = t.company_id;
 
 
 
