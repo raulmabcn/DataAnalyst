@@ -134,10 +134,22 @@ WHERE DATE(t.timestamp) IN ('2021-04-29','2021-07-20','2022-03-13')
 AND t.amount BETWEEN 100 AND 200
 ORDER BY t.amount DESC;
 
+/*
+SELECT c.company_name, c.phone, c.country, DATE(t.timestamp) AS date, t.amount
+FROM company AS c
+INNER JOIN transaction AS t ON t.company_id = c.id
+WHERE (( t.timestamp >= '2021-04-29 00:00:00' AND t.timestamp < '2021-04-30 00:00:00' ) 
+OR ( t.timestamp >= '2021-07-20 00:00:00' AND t.timestamp < '2021-07-21 00:00:00' )
+OR ( t.timestamp >= '2022-03-13 00:00:00' AND t.timestamp < '2022-03-14 00:00:00' ))
+AND t.amount BETWEEN 100 AND 200
+ORDER BY t.amount DESC;
+*/
+
 -- Exercici 2 --------------------------------------------------------
 -- Necessitem optimitzar l'assignació dels recursos i dependrà de la capacitat operativa que es requereixi, 
 -- per la qual cosa et demanen la informació sobre la quantitat de transaccions que realitzen les empreses, 
 -- però el departament de recursos humans és exigent i vol un llistat de les empreses on especifiquis si tenen més de 4 transaccions o menys.
+
 
 SELECT c.*, t.n_transactions
 FROM company AS c
@@ -152,6 +164,21 @@ FROM transaction
 GROUP BY company_id
 ) AS t ON c.id = t.company_id;
 
+/*
+SELECT c.*, t.n_transactions
+FROM company AS c
+INNER JOIN (
+	SELECT company_id, '4 o més' AS n_transactions
+	FROM transaction
+	GROUP BY company_id
+	HAVING COUNT(id) >= 4 
+	UNION 
+	SELECT company_id, 'menys de 4' AS n_transactions
+	FROM transaction
+	GROUP BY company_id
+	HAVING COUNT(id) < 4 
+) AS t ON c.id = t.company_id;
+*/
 
 
 
