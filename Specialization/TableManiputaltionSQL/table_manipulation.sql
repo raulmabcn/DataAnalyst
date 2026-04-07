@@ -123,6 +123,7 @@ FROM company AS c
 INNER JOIN (
 	SELECT company_id, AVG(amount) as avg_buy
 	FROM transaction
+    WHERE declined = 0
 	GROUP BY company_id
 ) AS t ON c.id = t.company_id
 ORDER BY t.avg_buy DESC;
