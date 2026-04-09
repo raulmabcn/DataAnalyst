@@ -53,10 +53,23 @@ db.movies.find({
 // Ejercicio 1
 
 // Cuenta cuántos comentarios escribe un usuario/aria que utiliza "GAMEOFTHRON.ES" como dominio de correo electrónico.
+// Número de comentarios totales de usuarios/as con  "GAMEOFTHRON.ES" como dominio de correo electrónico.
 
 db.comments.countDocuments({ 
 	email:{ $regex: /@GAMEOFTHRON\.ES$/, $options: 'i' }
 })
+
+// Número de comentarios de cada usuario/a con "GAMEOFTHRON.ES" como dominio de correo electrónico.
+
+db.comments.aggregate(
+	{
+		$match:{ email:{ $regex: /@GAMEOFTHRON\.ES$/, $options: 'i' }}
+	},
+	{
+		$group:{_id: "$email", count:{$sum:1}}
+	}
+)
+
 
 
 // Ejercicio 2
