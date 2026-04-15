@@ -69,7 +69,7 @@ CREATE TABLE IF NOT EXISTS transaction (
 -- Csv fields:		company_id,	company_name,	phone,	email,	country,	website
 -- Table fields:	id, 		name, 			phone, 	email,	country,	website
 
-LOAD DATA INFILE 'D:\\DataAnalyst\\Specialization\\DatabaseCreation\\Data\\companies.csv' 
+LOAD DATA LOCAL INFILE 'C:\\Users\\raulm\\Desktop\\DataAnalyst\\Specialization\\DatabaseCreationSQL\\Data\\companies.csv' 
 INTO TABLE company
 FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'
@@ -79,7 +79,7 @@ IGNORE 1 ROWS;
 -- Csv fields:		id, user_id, iban, pan,	pin, cvv, track1, track2, expiring_date
 -- Table fields:	id, user_id, iban, pan,	pin, cvv, track1, track2, espiring_date
 
-LOAD DATA INFILE 'D:\\DataAnalyst\\Specialization\\DatabaseCreation\\Data\\credit_cards.csv' 
+LOAD DATA LOCAL INFILE 'C:\\Users\\raulm\\Desktop\\DataAnalyst\\Specialization\\DatabaseCreationSQL\\Data\\credit_cards.csv' 
 INTO TABLE credit_card
 FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'
@@ -89,7 +89,7 @@ IGNORE 1 ROWS;
 -- Csv fields:		id, name, surname, phone, email, birth_date, country, city, postal_code, address
 -- Table fields:	id, name, surname, phone, email, birth_date, country, city, postal_code, address, region
 
-LOAD DATA INFILE 'D:\\DataAnalyst\\Specialization\\DatabaseCreation\\Data\\american_users.csv' 
+LOAD DATA LOCAL INFILE 'C:\\Users\\raulm\\Desktop\\DataAnalyst\\Specialization\\DatabaseCreationSQL\\Data\\american_users.csv' 
 INTO TABLE user
 FIELDS TERMINATED BY ','
 OPTIONALLY ENCLOSED BY '"'
@@ -98,7 +98,7 @@ IGNORE 1 ROWS
 ( id, name, surname, phone, email, birth_date, country, city, postal_code, address )
 SET region = "NORTH_AMERICA";
 
-LOAD DATA INFILE 'D:\\DataAnalyst\\Specialization\\DatabaseCreation\\Data\\european_users.csv' 
+LOAD DATA LOCAL INFILE 'C:\\Users\\raulm\\Desktop\\DataAnalyst\\Specialization\\DatabaseCreationSQL\\Data\\european_users.csv' 
 INTO TABLE user
 FIELDS TERMINATED BY ','
 OPTIONALLY ENCLOSED BY '"'
@@ -112,7 +112,7 @@ SET region = "EUROPE";
 -- Csv fields:		id,	card_id,		business_id,	timestamp, amount, declined, product_ids, user_id, lat, longitude
 -- Table fields:	id,	credit_card_id, company_id, 	timestamp, amount, declined, product_ids, user_id, lat, longitude
 
-LOAD DATA INFILE 'D:\\DataAnalyst\\Specialization\\DatabaseCreation\\Data\\transactions.csv' 
+LOAD DATA LOCAL INFILE 'C:\\Users\\raulm\\Desktop\\DataAnalyst\\Specialization\\DatabaseCreationSQL\\Data\\transactions.csv' 
 INTO TABLE transaction
 FIELDS TERMINATED BY ';'
 LINES TERMINATED BY '\n'
@@ -120,6 +120,28 @@ IGNORE 1 ROWS
 ( id, credit_card_id, company_id, timestamp, amount, declined, product_ids, user_id, lat, longitude );
 
 -- END Load data.
+
+-- Begin Data Cleaning 
+
+ALTER TABLE credit_card
+	ADD COLUMN exp_date_format DATE;
+    
+UPDATE credit_card SET exp_date_format = STR_TO_DATE( expiring_date, '%m/%d/%y' );
+
+ALTER TABLE credit_card
+	DROP COLUMN expiring_date,
+    RENAME COLUMN exp_date_format TO expiring_date;
+    
+ALTER TABLE user
+	ADD COLUMN birth_date_format DATE;
+    
+UPDATE user SET birth_date_format = STR_TO_DATE( birth_date, '%b %d, %Y' ); 
+
+ALTER TABLE user
+	DROP COLUMN birth_date,
+    RENAME COLUMN birth_date_format TO birth_date;
+
+-- End Data Cleaning
 
 -- Nivel 1 -----------------------------------------------------------
 -- Ejercicio 1
@@ -203,13 +225,13 @@ CREATE TABLE product (
 -- Csv fields:		id,	product_name, price, colour, weight, warehouse_id
 -- Table fields:	id,	name,		  price, colour, weight, warehouse_id
 
-LOAD DATA INFILE 'D:\\DataAnalyst\\Specialization\\DatabaseCreation\\Data\\products_nivel3.csv' 
+LOAD DATA LOCAL INFILE 'C:\\Users\\raulm\\Desktop\\DataAnalyst\\Specialization\\DatabaseCreationSQL\\Data\\products_nivel3.csv' 
 INTO TABLE product
 FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS
 ( id, name, @val1, color, weight, warehouse_id )
-SET price = SUBSTRING( @val1, 2); -- Remove the prefix $ from the column values. 
+SET price = CAST( SUBSTRING( @val1, 2) AS DECIMAL(10,2)); -- Remove the prefix $ from the column values. 
 
 
 CREATE TABLE transaction_product (
