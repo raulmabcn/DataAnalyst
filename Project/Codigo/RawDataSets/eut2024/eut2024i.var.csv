@@ -1,0 +1,526 @@
+Variable	DescrCA	DescrES	DescrEN	Valor_Value	LabelCA	LabelES	LabelEN
+IDLLAR	Identificador únic de la llar	Identificador único de hogar	Unique household identifier				
+IDPERSONA	Identificador únic de la  persona dins de la llar	Identificador único de la persona dentro del hogar	Unique identifier of the person within the household				
+DEGURBA	Grau d'urbanització	Grado de urbanización	Degree of urbanisation				
+DEGURBA				1	Centres urbans o àrees densament poblades	Centros urbanos o áreas densamente pobladas	Urban centres or densely populated areas
+DEGURBA				2	Localitats i àrees semidenses o àrees de densitat intermèdia	Localidades y áreas semidensas o áreas de densidad intermedia	Towns and semi-dense areas or intermediate density areas
+DEGURBA				3	Àrees rurals o àrees escassament poblades	Áreas rurales o áreas escasamente pobladas	Rural areas or thinly populated areas
+NAC	Quina nacionalitat té?	¿Cuál es su nacionalidad?	What is your nationality?				
+NAC				1	Espanyola	Española	Spanish
+NAC				2	Estrangera	Extranjera	Foreign
+ESTAT_CIVIL	Estat civil legal	Estado civil legal	 Legal marital status				
+ESTAT_CIVIL				1	Soter/a	Soltero/a	Single
+ESTAT_CIVIL				2	Casat/ada	Casado/a	Married
+ESTAT_CIVIL				3	Vidu/Vídua	Viudo/a	Widow/widower
+ESTAT_CIVIL				4	Divorciat que no s'ha tornat a casar	Divorciado que no se ha vuelto a casar	Divorced and not remarried
+VIVINT	Actualment viu en parella?	¿Actualmente vive en pareja?	Do you currently live as a couple?				
+VIVINT				1	Si	Sí	Yes
+VIVINT				6	No	No	No
+FILLS_VIUEN	"Té fills/filles menors de 18 anys que no conviuen amb vostè amb els quals manté el contacte?
+[Edat de la persona >=18]"	"Tiene hijos/as menores de 18 años que no conviven con usted con los que se mantiene el contacto?
+[Edad de la persona>=18]"	"Have you children under 18 who do not live with you but with whom you keep in contact?
+[Person's age >=18]"				
+FILLS_VIUEN				1	Si	Sí	Yes
+FILLS_VIUEN				6	No	No	No
+ESTUDI_ALT	"Quin és l’estudi de més alt nivell que ha assolit?
+[Edat membre de la llar > 15 anys]"	"¿Cuáles son los estudios de mayor nivel que ha alcanzado?
+[Edad miembro del hogar > 15 años]"	"What is the highest educational level you have achieved?
+[Household member age > 15 years]"				
+ESTUDI_ALT				1	Educació primària o inferior	Educación primaria o inferior 	Primary education or lower
+ESTUDI_ALT				2	Primera etapa d'educació secundària i similar	Primera etapa de educación secundaria y similar	1st-cycle of compulsory secondary education and equivalent
+ESTUDI_ALT				3	Segona etapa d'educació secundària i similar	Segunda etapa de educación secundaria y similar	2nd-cycle of compulsory secondary education and equivalent
+ESTUDI_ALT				4	Educació superior	Educación superior	Higher education
+TRAM_EDAT	Tram d'edat de l'enquestat/ada	Tramo de edad del encuestado/a	Age group of the respondent				
+TRAM_EDAT				1	De 10 a 24 anys	De 10 a 24 años	From 10 to 24 years
+TRAM_EDAT				2	De 25 a 44 anys	De 25 a 44 años	From 25 to 44 years
+TRAM_EDAT				3	De 45 a 64 anys	De 45 a 64 años	From 45 to 64 years
+TRAM_EDAT				4	65 anys o més	65 años o más	65 years or over
+TRAM_EDAT_INTERNET	Tram edat de la persona enquestada per l'ús d'internet o dispositiu electrònic	Tramo edad de la persona encuestada por el uso de internet o dispositivo electrónico	Age range of the person surveyed for internet or electronic device use				
+TRAM_EDAT_INTERNET				1	De 10 a 24 anys	De 10 a 24 años	From 10 to 24 years
+TRAM_EDAT_INTERNET				2	De 25 a 44 anys	De 25 a 44 años	From 25 to 44 years
+TRAM_EDAT_INTERNET				3	De 45 a 64 anys	De 45 a 64 años	From 45 to 64 years
+TRAM_EDAT_INTERNET				4	De 65 a 79 anys	De 65 a 79 años	From  65 to 79 years
+TRAM_EDAT_INTERNET				5	80 anys o més	80 años o más	80 years or over
+SEXE	Sexe	Sexo	Sex				
+SEXE				1	Home	Hombre	Man
+SEXE				6	Dona	Mujer	Woman
+TREBALL	"La setmana passada, de dilluns a diumenge, va realitzar alguna feina remunerada (en metàl·lic o en espècies) per compte d’altri, per compte propi o com a ajuda al negoci familiar durant almenys una hora?
+
+FILTRE:
+[Edat membre de la llar > 15 anys]"	"¿La semana pasada, de lunes a domingo, realizó algún trabajo remunerado (en metálico o en especies) por cuenta ajena, por cuenta propia o como ayuda al negocio familiar durante almenos una hora?
+
+FILTRO:
+[Edad miembro del hogar > 15 años]"	"Last week, from Monday to Sunday, did you do any paid work (in cash or in kind) as an employee, on a self-employed basis or as help in the family business for at least one hour?
+
+FILTER:
+[Household member age > 15 years]"				
+TREBALL				1	Si	Sí	Yes
+TREBALL				6	No	No	No
+TREBALL_ABSENT	"Encara que no treballés la setmana passada, tenia alguna feina de la qual estigués absent per algun motiu?
+
+FILTRE:
+[Edat membre de la llar > 15 anys] + [TREBALL=6]"	"Aunque no trabajara la semana pasada, ¿tenía algún trabajo del cual estuviera ausente por algún motivo?
+
+FILTRO:
+[Edad miembro del hogar > 15 años] + [TREBALL=6]"	"Even though you did not work last week, did you have a job that you were absent from for some reason?
+
+FILTER:
+[Household member age > 15 years] + [TREBALL=6]"				
+TREBALL_ABSENT				1	Si		
+TREBALL_ABSENT				6	No		
+MOTIU_ABSENT	"Quin és el principal motiu pel qual no va treballar?
+
+FILTER:
+[Edat membre de la llar > 15 anys] + [TREBALL=6] + [TREBALL_ABSENT=1]"	"¿Cuál es el principal motivo por el que no trabajó?
+
+FILTRO:
+[Edad miembro del hogar > 15 años] + [TREBALL=6] + [TREBALL_ABSENT=1]"	"What is the main reason you did not work?
+
+FILTER:
+[Household member age > 15 years] + [TREBALL=6] + [TREBALL_ABSENT=1]"				
+MOTIU_ABSENT				1	Vacances	Vacaciones	Holidays
+MOTIU_ABSENT				2	Malaltia, accident o incapacitat temporal	Enfermedad, accidente o incapacidad temporal	Illness, accident or temporary disability
+MOTIU_ABSENT				3	Estudis	Estudios	Studying
+MOTIU_ABSENT				4	Permís de maternitat o paternitat	Permiso de maternidad o paternidad	Maternity or paternity leave
+MOTIU_ABSENT				5	Conflicte laboral	Conflicto laboral	Labour dispute
+MOTIU_ABSENT				6	Altre motiu	Otro motivo	Another reason
+SECTOR_ACT	"Codi del sector d'activitat de l'establiment de la seva feina principal
+
+FILTRE:
+[Edat membre de la llar > 15 anys] 
++ 
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] )"	"Código del sector de actividad del establecimiento de su trabajo principal
+
+FILTRO:
+[Edad miembro del hogar > 15 años] 
++ 
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] )"	"Code of the activity sector of the establishment of your main job
+
+FILTER:
+[Household member age > 15 years] 
++ 
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] )"				
+SECTOR_ACT				1	Agricultura	Agricultura	Agriculture
+SECTOR_ACT				2	Indústria	Industria	Industry
+SECTOR_ACT				3	Construcció	Construcción	Construction
+SECTOR_ACT				4	Seveis	Servicios	Services
+MINUTS_TREBALL	"Nombre de minuts setmanals habitualment treballats en la seva feina principal
+
+FILTER:
+[Edat membre de la llar > 15 anys]
++ 
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] "	"Número de minutos semanales habitualmente trabajados en su trabajo principal
+
+FILTRO:
+[Edad miembro del hogar > 15 años]
++ 
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] )"	"Number of weekly minutes usually worked in your main job
+
+FILTER:
+[Household member age > 15 years]
++ 
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] )"				
+TELETREBALL	"La setmana anterior va teletreballar en algun moment?
+
+FILTRE:
+[Edat membre de la llar > 15 anys]
++ 
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] )"	"¿La semana anterior teletrabajó en algún momento?
+
+FILTRO:
+[Edad miembro del hogar > 15 años]
++ 
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] )"	"Did you telework at any time during the previous week?
+
+FILTER:
+[Household member age > 15 years]
++ 
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] )"				
+TELETREBALL				1	Tota la setmana	Toda la semana	All week
+TELETREBALL				2	Algun dia	Algún día	Some day
+TELETREBALL				3	En cap moment	En ningún momento	At no time
+MINUTS_TELETREBALL	"Nombre de minuts totals de teletreball que va realitzar la setmana anterior
+
+FILTRE:
+[Edat membre de la llar > 15 anys]
++ 
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] )
++
+[TELETREBALL =1 or 2]"	"Número de minutos totales de teletrabajo que realizó la semana anterior
+
+FILTRO:
+[Edad miembro del hogar > 15 años]
++ 
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] )
++
+[TELETREBALL =1 or 2]"	"Total number of minutes of remote working carried out last week
+
+FILTER:
+[Household member age > 15 years]
++ 
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] )
++
+[TELETREBALL =1 or 2]"				
+SIT_PROF	"Situació professional a la feina principal
+
+FILTRE:
+[Edat membre de la llar > 15 anys]
++
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] )"	"Situación profesional en el trabajo principal
+
+FILTRO:
+[Edad miembro del hogar > 15 años]
++
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] )"	"Employment status in your main job
+
+FILTER:
+[Household member age > 15 years]
++
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] )"				
+SIT_PROF				1	Treballador per compte propi	Trabajador por cuenta propia	Self-employed worker
+SIT_PROF				2	Treballador per compte d'altri en el sector privat	Trabajador por cuenta ajena en el sector privado	Employee in the private sector
+SIT_PROF				3	Treballador per compte d'altri en el sector públic	Trabajador por cuenta ajena en el sector público	Employee in the public sector
+CONTRACTE	"Té un contracte de treball fix o temporal?
+
+FILTRE:
+[Edat membre de la llar > 15 anys]
++ 
+[SIT_PROF=2 or 3]
++
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] )"	"¿Tiene un contrato de trabajo fijo o temporal?
+
+FILTRO:
+[Edad miembro del hogar > 15 años]
++ 
+[SIT_PROF=2 or 3]
++
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] )"	"Do you have a permanent or temporary work contract?
+
+FILTER:
+[Household member age > 15 years]
++ 
+[SIT_PROF=2 or 3]
++
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] )"				
+CONTRACTE				1	Contracte de treball fix o per temps indefinit	Contrato de trabajo fijo o tiempo indefinido	Permanent or indefinite work contract
+CONTRACTE				2	Contracte de treball temporal o de duració determinada	Contrato de trabajo temporal o de duración determinada	Temporary or fixed-term work contract
+JORNADA	"Quin tipus de jornada té a la feina principal?
+
+FILTRE:
+[Edat membre de la llar > 15 anys]
++ 
+[SIT_PROF=2 or 3]
++
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] )"	"¿Qué tipo de jornada tiene en su trabajo principal?
+
+FILTRO:
+[Edad miembro del hogar > 15 años]
++ 
+[SIT_PROF=2 or 3]
++
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] )"	"What type of working day do you have at your main job?
+
+FILTER:
+[Household member age > 15 years]
++ 
+[SIT_PROF=2 or 3]
++
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] )"				
+JORNADA				1	Completa	Completa	Full-time
+JORNADA				2	Parcial	Parcial	Part-time
+FLEXIBLE	"Té un horari flexible a la seva feina principal?
+
+[Edat membre de la llar > 15 anys]
++ 
+[SIT_PROF=2 or 3]
++
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] )"	"¿Tiene un horario flexible en su trabajo principal?
+
+[Edat membre de la llar > 15 anys]
++ 
+[SIT_PROF=2 or 3]
++
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] )"	"Do you have a flexible timetable at your main job?
+
+[Edat membre de la llar > 15 anys]
++ 
+[SIT_PROF=2 or 3]
++
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] )"				
+FLEXIBLE				1	Si	Sí	Yes
+FLEXIBLE				6	No	No	No
+HORARI	"Com és la seva jornada?
+
+FILTER:
+[Edat membre de la llar > 15 anys]
++ 
+[SIT_PROF=2 or 3]
++
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] )"	"¿Cómo es su jornada?
+
+FILTRO:
+[Edat membre de la llar > 15 anys]
++ 
+[SIT_PROF=2 or 3]
++
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] )"	"What is your working day like?
+
+FILTER:
+[Edat membre de la llar > 15 anys]
++ 
+[SIT_PROF=2 or 3]
++
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] )"				
+HORARI				1	Contínua	Continua	Continuous shift
+HORARI				2	Partida	Partida	Split shift
+REDUCCIO_JORNADA	"La setmana passada, va tenir algun tipus de reducció de jornada laboral per tenir cura d'infants o de persones grans?
+
+FILTRE:
+[Edat membre de la llar > 15 anys]
++ 
+[SIT_PROF=2 or 3]
++
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] )"	"La semana pasada, ¿tuvo algún tipo de reducción de jornada laboral para cuidar de niños o de personas mayores?
+
+FILTRO:
+[Edad miembro del hogar > 15 años]
++ 
+[SIT_PROF=2 or 3]
++
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] )"	"Last week, did you have any reduction in working hours to care for children or elderly people?
+
+FILTER:
+[Household member age > 15 years]
++ 
+[SIT_PROF=2 or 3]
++
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] )"				
+REDUCCIO_JORNADA				1	Si	Sí	Yes
+REDUCCIO_JORNADA				6	No	No	No
+TREBALL_SEC	" La setmana passada, de dilluns a diumenge, a part de la seva feina principal, va fer alguna altra feina remunerada (en metàl·lic o en espècies) per compte d’altri, per compte propi o com a ajuda al negoci familiar durant almenys una hora?
+
+FILTRE:
+[Edat membre de la llar > 15 anys]
++
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] )"	"¿La semana pasada, de lunes a domingo, aparte de su trabajo principal, realizó algún otro trabajo remunerado (en metálico o en especies) por cuenta ajena, por cuenta propia o como ayuda al negocio familiar durante al menos una hora?
+
+FILTRO:
+[Edad miembro del hogar > 15 años]
++
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] )"	"Last week, from Monday to Sunday, apart from your main job, did you do any other paid work (in cash or in kind) as an employee, on a self-employed basis or as help in the family business for at least one hour?
+
+FILTER:
+[Household member age > 15 years]
++
+[TREBALL=1] or ( [TREBALL=6] & [TREBALL_ABSENT=1] )"				
+TREBALL_SEC				1	Si	Sí	Yes
+TREBALL_SEC				6	No	No	No
+REL_ACT	"Relació amb l'activitat econòmica
+
+FILTRE:
+[Edat membre de la llar > 15 anys]"	"Relación con la actividad económica
+
+FILTRO
+[Edad miembro del hogar > 15 años]"	"Relationship with economic activity
+
+FILTER:
+[Household member age > 15 years]"				
+REL_ACT				1	Població ocupada	Población ocupada	Employed population
+REL_ACT				2	Població desocupada	Población desocupada	Unemployed population
+REL_ACT				3	Població pensionista de jubilació, prejubilació	Población pensionista de jubilación o prejubilación	Pensioners receiving retirement or early retirement pensions
+REL_ACT				4	Població amb una altra situació d'inactivitat	Población con otra situación de inactividad	Population in other inactivity situation
+AJ_MENJAR	Durant les darreres quatre setmanes, ha ajudat alguna persona de fora de la llar (amics, veïns, familiars que no viuen a la llar...)  en la preparació de menjars, sense tractar-se de feina remunerada?	Durante las últimas cuatro semanas, ¿ha ayudado a alguna persona ajena al hogar (amigos, vecinos, familiares que no viven en el hogar...) en el mantenimiento del hogar, sin tratarse de un trabajo remunerado?	During the last four weeks, have you helped any non-household member (friends, neighbours, relatives not living in the household...) with meal preparation, not as paid work?				
+AJ_MENJAR				1	Si	Sí	Yes
+AJ_MENJAR				2	No	No	No
+AJ_MANTENIMENT	Durant les darreres quatre setmanes, ha ajudat alguna persona de fora de la llar (amics, veïns, familiars que no viuen a la llar...) en el manteniment de la llar, sense tractar-se de feina remunerada?	Durante las últimas cuatro semanas ha prestado ayuda, sin tratarse de trabajo remunerado, a alguna persona ajena al hogar (amigos, vecinos, familiares que no viven en el hogar...) en el mantenimiento de la casa?	During the last four weeks, have you helped any non-household member (friends, neighbours, relatives not living in the household...) with house maintenance, not as paid work?				
+AJ_MANTENIMENT				1	Si	Sí	Yes
+AJ_MANTENIMENT				2	No	No	No
+AJ_ROBA	Durant les darreres quatre setmanes, ha ajudat alguna persona de fora de la llar (amics, veïns, familiars que no viuen a la llar...) en la confecció i preparació de la roba, sense tractar-se de feina remunerada?	Durante las últimas cuatro semanas, ¿ha ayudado a alguna persona ajena al hogar (amigos, vecinos, familiares que no viven en el hogar...) en la confección y preparación de la ropa, sin tratarse de un trabajo remunerado?	During the last four weeks, have you helped any non-household member (friends, neighbours, relatives not living in the household...) with sewing or preparing clothes, not as paid work?				
+AJ_ROBA				1	Si	Sí	Yes
+AJ_ROBA				2	No	No	No
+AJ_JARDINERIA	Durant les darreres quatre setmanes, ha ajudat alguna persona de fora de la llar (amics, veïns, familiars que no viuen a la llar...) en la jardineria i cura d'animals, sense tractar-se de feina remunerada? 	Durante las últimas cuatro semanas, ¿ha ayudado a alguna persona ajena al hogar (amigos, vecinos, familiares que no viven en el hogar...) en la construcción y reparaciones (incluidos los vehículos), sin tratarse de un trabajo remunerado?	During the last four weeks, have you helped any non-household member (friends, neighbours, relatives not living in the household...) with gardening or animal care, not as paid work?				
+AJ_JARDINERIA				1	Si	Sí	Yes
+AJ_JARDINERIA				2	No	No	No
+AJ_REPARACIO	Durant les darreres quatre setmanes, ha ajudat alguna persona de fora de la llar (amics, veïns, familiars que no viuen a la llar...) en la construcció i reparacions (inclosos els vehicles), sense tractar-se de feina remunerada?  	Durante las últimas cuatro semanas ha prestado ayuda, sin tratarse de trabajo remunerado, a alguna persona ajena al hogar (amigos, vecinos, familiares que no viven en el hogar...) en la construcción y reparaciones (incluidos los vehículos)	During the last four weeks, have you helped any non-household member (friends, neighbours, relatives not living in the household...) with construction or repairs (including vehicles), not as paid work?				
+AJ_REPARACIO				1	Si	Sí	Yes
+AJ_REPARACIO				2	No	No	No
+AJ_COMPRES	Durant les darreres quatre setmanes, ha ajudat alguna persona de fora de la llar (amics, veïns, familiars que no viuen a la llar...) en les compres, sense tractar-se de feina remunerada?   	Durante las últimas cuatro semanas, ¿ha ayudado a alguna persona ajena al hogar (amigos, vecinos, familiares que no viven en el hogar...) en las compras, sin tratarse de un trabajo remunerado?	During the last four weeks, have you helped any non-household member (friends, neighbours, relatives not living in the household...) with shopping, not as paid work?				
+AJ_COMPRES				1	Si	Sí	Yes
+AJ_COMPRES				2	No	No	No
+AJ_GESTIO	"Durant les darreres quatre setmanes ha ajudat alguna persona aliena a la llar (amics, veïns, familiars que no viuen a la llar...) en les gestions de la llar i serveis (inclosos els vehicles), sense tractar-se de feina remunerada?	"	Durante las últimas cuatro semanas, ¿ha ayudado a alguna persona ajena al hogar (amigos, vecinos, familiares que no viven en el hogar...) en las gestiones del hogar y servicios (incluidos los vehículos), sin tratarse de un trabajo remunerado?	During the last four weeks, have you helped any non-household member (friends, neighbours, relatives not living in the household...) with household management or services (including vehicles), not as paid work?				
+AJ_GESTIO				1	Si	Sí	Yes
+AJ_GESTIO				2	No	No	No
+AJ_INFANTS	Durant les darreres quatre setmanes ha ajudat alguna persona aliena a la llar (amics, veïns, familiars que no viuen a la llar...) en l'atenció  a infants, sense tractar-se de feina remunerada?	Durante las últimas cuatro semanas, ¿ha ayudado a alguna persona ajena al hogar (amigos, vecinos, familiares que no viven en el hogar...) en el cuidado de niños, sin tratarse de un trabajo remunerado?	During the last four weeks, have you helped any non-household member (friends, neighbours, relatives not living in the household...) with childcare, not as paid work?				
+AJ_INFANTS				1	Si	Sí	Yes
+AJ_INFANTS				2	No	No	No
+AJ_ADULTS	Durant les darreres quatre setmanes ha ajudat alguna persona aliena a la llar (amics, veïns, familiars que no viuen a la llar...) en l'atenció a adults, sense tractar-se de feina remunerada?	Durante las últimas cuatro semanas, ¿ha ayudado a alguna persona ajena al hogar (amigos, vecinos, familiares que no viven en el hogar...) en el cuidado de adultos, sin tratarse de un trabajo remunerado?	During the last four weeks, have you helped any non-household member (friends, neighbours, relatives not living in the household...) with adult care, not as paid work?				
+AJ_ADULTS				1	Si	Sí	Yes
+AJ_ADULTS				2	No	No	No
+VOL_JUVENIL	Durant les darreres quatre setmanes, ha fet alguna activitat com a feina no remunerada o voluntariat per alguna associació juvenil?	Durante las últimas cuatro semanas, ¿ha realizado alguna actividad como trabajo no remunerado o voluntariado para alguna asociación juvenil?	During the last four weeks, have you done any unpaid work or volunteer activity for a youth association?				
+VOL_JUVENIL				1	Si	Sí	Yes
+VOL_JUVENIL				2	No	No	No
+VOL_ESPORT	Durant les darreres quatre setmanes, ha fet alguna activitat com a feina no remunerada o voluntariat per a alguna associació esportiva?	Durante las últimas cuatro semanas, ¿ha realizado alguna actividad como trabajo no remunerado o voluntariado para alguna asociación deportiva?	During the last four weeks, have you done any unpaid work or volunteer activity for a sports association?				
+VOL_ESPORT				1	Si	Sí	Yes
+VOL_ESPORT				2	No	No	No
+VOL_RELIGIO	Durant les darreres quatre setmanes, ha fet alguna activitat com a feina no remunerada o voluntariat per alguna confessió religiosa?	Durante las últimas cuatro semanas, ¿ha realizado alguna actividad como trabajo no remunerado o voluntariado para alguna confesión religiosa?	During the last four weeks, have you done any unpaid work or volunteer activity for a religious organisation?				
+VOL_RELIGIO				1	Si	Sí	Yes
+VOL_RELIGIO				2	No	No	No
+VOL_POLITICA	Durant les darreres quatre setmanes, ha fet alguna activitat com a feina no remunerada o voluntariat per a alguna organització política, empresarial, professional o sindical?	Durante las últimas cuatro semanas, ¿ha realizado alguna actividad como trabajo no remunerado o voluntariado para alguna organización política, empresarial, profesional o sindical?	During the last four weeks, have you done any unpaid work or volunteer activity for a political, business, professional organisation or trade union?				
+VOL_POLITICA				1	Si	Sí	Yes
+VOL_POLITICA				2	No	No	No
+VOL_COOPERACIO	Durant les darreres quatre setmanes, ha fet alguna activitat com a feina no remunerada o voluntariat per alguna organització de cooperació per al desenvolupament?	Durante las últimas cuatro semanas, ¿ha realizado alguna actividad como trabajo no remunerado o voluntariado para alguna organización de cooperación al desarrollo?	During the last four weeks, have you done any unpaid work or volunteer activity for a development cooperation organisation?				
+VOL_COOPERACIO				1	Si	Sí	Yes
+VOL_COOPERACIO				2	No	No	No
+VOL_ASSISTENCIA	Durant les darreres quatre setmanes, ha fet alguna activitat com a feina no remunerada o voluntariat per alguna organització d'assistència social, ajut a la gent gran o primers auxilis?	Durante las últimas cuatro semanas, ¿ha realizado alguna actividad como trabajo no remunerado o voluntariado para alguna organización de asistencia social, ayuda a personas mayores o primeros auxilios?	During the last four weeks, have you done any unpaid work or volunteer activity for a social assistance, elderly aid or first-aid organisation?				
+VOL_ASSISTENCIA				1	Si	Sí	Yes
+VOL_ASSISTENCIA				2	No	No	No
+VOL_MEDIAMBIENTAL	Durant les darreres quatre setmanes, ha fet alguna activitat com a feina no remunerada o voluntariat per a alguna organització mediambiental?	Durante las últimas cuatro semanas, ¿ha realizado alguna actividad como trabajo no remunerado o voluntariado para alguna organización medioambiental?	During the last four weeks, have you done any unpaid work or volunteer activity for an environmental organisation?				
+VOL_MEDIAMBIENTAL				1	Si	Sí	Yes
+VOL_MEDIAMBIENTAL				2	No	No	No
+VOL_DRETS	Durant les darreres quatre setmanes, ha fet alguna activitat com a feina no remunerada o voluntariat per a alguna organització a favor dels drets humans, la justícia o els drets civils?	Durante las últimas cuatro semanas, ¿ha realizado alguna actividad como trabajo no remunerado o voluntariado para alguna organización a favor de los derechos humanos, la justicia o los derechos civiles?	During the last four weeks, have you done any unpaid work or volunteer activity for a human rights, justice or civil rights organisation?				
+VOL_DRETS				1	Si	Sí	Yes
+VOL_DRETS				2	No	No	No
+VOL_VEINS	Durant les darreres quatre setmanes, ha fet alguna activitat com a feina no remunerada o voluntariat per a alguna associació de ciutadans o veïns?	Durante las últimas cuatro semanas, ¿ha realizado alguna actividad como trabajo no remunerado o voluntariado para alguna asociación de ciudadanos o de vecinos?	During the last four weeks, have you done any unpaid work or volunteer activity for a citizens’ or neighbourhood association?				
+VOL_VEINS				1	Si	Sí	Yes
+VOL_VEINS				2	No	No	No
+VOL_ART	Durant les darreres quatre setmanes, ha fet alguna activitat com a feina no remunerada o voluntariat per a alguna associació d'art, recreativa o folklòrica?	Durante las últimas cuatro semanas, ¿ha realizado alguna actividad como trabajo no remunerado o voluntariado para alguna asociación artística, recreativa o folclórica?	During the last four weeks, have you done any unpaid work or volunteer activity for an arts, recreational or folk association?				
+VOL_ART				1	Si	Sí	Yes
+VOL_ART				2	No	No	No
+VOL_EDUCACIO	Durant les darreres quatre setmanes, ha fet alguna activitat com a feina no remunerada o volutnariat per a alguna organització educativa?	Durante las últimas cuatro semanas, ¿ha realizado alguna actividad como trabajo no remunerado o voluntariado para alguna organización educativa?	During the last four weeks, have you done any unpaid work or volunteer activity for an educational organisation?				
+VOL_EDUCACIO				1	Si	Sí	Yes
+VOL_EDUCACIO				2	No	No	No
+SALUT	Quin és, en general, el seu estat de salut?	¿Cuál es, en general, su estado de salud?	What is your general state of health?				
+SALUT				1	Molt bo	Muy bueno	Very good
+SALUT				2	Bo	Bueno	Good
+SALUT				3	Acceptable	Aceptable	Acceptable
+SALUT				4	Dolent	Malo	Poor
+SALUT				5	Molt dolent	Muy malo	Very poor
+MALALTIA_LLARGA	Té alguna malaltia o problema de salut de llarga durada (més de 6 mesos)?	¿Tiene alguna enfermedad o problema de salud de larga duración (más de 6 meses)?	Do you have any long-term illness or health problem (lasting more than 6 months)?				
+MALALTIA_LLARGA				1	Si	Sí	Yes
+MALALTIA_LLARGA				6	No	No	No
+LIMITACIONS	Té algun problema de salut que li impedeix fer les activitats que solen fer la resta de persones?	Tiene algún problema de salud que le impide realizar las actividades que suelen hacer las demás personas?	Do you have any health problem that prevents you from doing activities that most people usually do?				
+LIMITACIONS				1	Amb una limitació severa	Con una limitación severa	Severely limited
+LIMITACIONS				2	Amb una limitació, però no severa	Con una limitación, pero no severa	Limited but not severely
+LIMITACIONS				3	Sense cap mena de limitació	Sin ningún tipo de limitación	Not limited at all
+DUR_LIMITACIO	"Aquesta limitació, fa més de 6 mesos que dura?
+
+FILTRE:
+[LIMITACIO = 1 or 2 ]"	"¿Esta limitación dura desde hace más de 6 meses?
+
+FILTRO:
+[LIMITACIO = 1 or 2 ]"	"Has this limitation lasted more than 6 months?
+
+FILTER:
+[LIMITACIO = 1 or 2 ]"				
+DUR_LIMITACIO				1	Si	Sí	Yes
+DUR_LIMITACIO				6	No	No	No
+#N/D	"Nivell d'estrès
+
+FILTRE:
+[Edat membre de la llar >= 15 anys]"	"Nivel de estrés
+
+FILTRO:
+[Edad miembro del hogar >= 15 años]"	"Stress level
+
+FILTER:
+[Household member age >= 15 years]"				
+ESTRES				1	Sempre està estressat	Siempre está estresado	Always stressed
+ESTRES				2	Només a vegades està estressat	Sólo a veces está estresado	Only sometimes stressed
+ESTRES				3	Gairebé mai no està estressat	Casi nunca está estresado	Almost never stressed
+DINAR_SOPAR	"Qui està més pendent de planificar què es fa per dinar o sopar els dies laborables?
+
+FILTRE:
+[Edat >17]"	"¿Quién está más pendiente de planificar qué se hace para comer o cenar los días laborables?
+
+FILTRO:
+[Edad >17]"	"Who mainly keeps in mind what to have for lunch or dinner on working days?
+
+FILTER:
+[Age>17]"				
+DINAR_SOPAR				1	Majoritàriament l'enquest/ada	Mayoritariamente el encuestado/a	Mostly the respondent
+DINAR_SOPAR				2	Majoritàriament la parella de l'enquestat/ada	Mayoritariamente la pareja del encuestado/a	Mostly the respondent's partner
+DINAR_SOPAR				3	A parts iguals entre l'enquestat/ada i la parella	A partes iguales entre el encuestado/a y su pareja	Equally shared between the respondent and their partner
+DINAR_SOPAR				4	Un altre membre de la llar	Otro miembro del hogar	Another household member
+DINAR_SOPAR				5	Una persona de fora de la llar	Una persona de fuera del hogar	A non-household member
+DINAR_SOPAR				6	Altres situacions	Otras situaciones	Other situations
+COMPRAR	"Qui està més pendent de planificar què cal comprar en el dia a dia?
+
+FILTRE:
+[Edat >17]"	"¿Quién está más pendiente de planificar qué hay que comprar en el día a día?
+
+FILTRO:
+[Edad >17]"	"Who mainly keeps in mind what needs to be bought on a daily basis?
+
+FILTER:
+[Age>17]"				
+COMPRAR				1	Majoritàriament l'enquest/ada	Mayoritariamente el encuestado/a	Mostly the respondent
+COMPRAR				2	Majoritàriament la parella de l'enquestat/ada	Mayoritariamente la pareja del encuestado/a	Mostly the respondent's partner
+COMPRAR				3	A parts iguals entre l'enquestat/ada i la parella	A partes iguales entre el encuestado/a y su pareja	Equally shared between the respondent and their partner
+COMPRAR				4	Un altre membre de la llar	Otro miembro del hogar	Another household member
+COMPRAR				5	Una persona de fora de la llar	Una persona de fuera del hogar	A non-household member
+COMPRAR				6	Altres situacions	Otras situaciones	Other situations
+NETEJA	"Qui està més pendent de planificar  què cal fer una neteja a fons de la casa i ho proposa?
+
+FILTRE:
+[Edat >17]"	"¿Quién está más pendiente de planificar cuándo es necesario hacer una limpieza a fondo de la casa y lo propone?
+
+FILTRO:
+[Edad >17]"	"Who mainly keeps in mind when a thorough cleaning of the house should be done and who suggests doing it?
+
+FILTER:
+[Age>17]"				
+NETEJA				1	Majoritàriament l'enquest/ada	Mayoritariamente el encuestado/a	Mostly the respondent
+NETEJA				2	Majoritàriament la parella de l'enquestat/ada	Mayoritariamente la pareja del encuestado/a	Mostly the respondent's partner
+NETEJA				3	A parts iguals entre l'enquestat/ada i la parella	A partes iguales entre el encuestado/a y su pareja	Equally shared between the respondent and their partner
+NETEJA				4	Un altre membre de la llar	Otro miembro del hogar	Another household member
+NETEJA				5	Una persona de fora de la llar	Una persona de fuera del hogar	A non-household member
+NETEJA				6	Altres situacions	Otras situaciones	Other situations
+ROBA_INFANTS	"Qui està més pendent de planificar la roba que es posen els infants diàriament?
+
+FILTRE:
+[Edat >17] + [algun membre llar edat <10]"	"¿Quién está más pendiente de planificar la ropa que se ponen los niños a diario?
+
+FILTRO:
+[Edad >17] + [algun miembro hogar edad<10]"	"Who mainly keeps in mind what clothes the children should wear each day?
+
+FILTER:
+[Age >17] + [Any household member age<10]"				
+ROBA_INFANTS				1	Majoritàriament l'enquest/ada	Mayoritariamente el encuestado/a	Mostly the respondent
+ROBA_INFANTS				2	Majoritàriament la parella de l'enquestat/ada	Mayoritariamente la pareja del encuestado/a	Mostly the respondent's partner
+ROBA_INFANTS				3	A parts iguals entre l'enquestat/ada i la parella	A partes iguales entre el encuestado/a y su pareja	Equally shared between the respondent and their partner
+ROBA_INFANTS				4	Un altre membre de la llar	Otro miembro del hogar	Another household member
+ROBA_INFANTS				5	Una persona de fora de la llar	Una persona de fuera del hogar	A non-household member
+ROBA_INFANTS				6	Altres situacions	Otras situaciones	Other situations
+MEDIC	"Qui està més pendent de planificar el seguiment mèdic dels infants?
+
+FILTRE:
+[Edat >17] + [algun membre llar edat <10]"	"¿Quién está más pendiente de planificar el seguimiento médico de los niños?
+
+FILTRO:
+[Edad >17] + [algun miembro hogar edad<10]"	"Who mainly keeps in mind the children’s medical follow-up?
+
+FILTER:
+[Age >17] + [Any household member age<10]"				
+MEDIC				1	Majoritàriament l'enquest/ada	Mayoritariamente el encuestado/a	Mostly the respondent
+MEDIC				2	Majoritàriament la parella de l'enquestat/ada	Mayoritariamente la pareja del encuestado/a	Mostly the respondent's partner
+MEDIC				3	A parts iguals entre l'enquestat/ada i la parella	A partes iguales entre el encuestado/a y su pareja	Equally shared between the respondent and their partner
+MEDIC				4	Un altre membre de la llar	Otro miembro del hogar	Another household member
+MEDIC				5	Una persona de fora de la llar	Una persona de fuera del hogar	A non-household member
+MEDIC				6	Altres situacions	Otras situaciones	Other situations
+GRUPS	"Qui està més pendent de les comunicacions de l'escola dels infants?
+
+FILTRE:
+[Edat >17] + [algun membre llar edat <10]"	"¿Quién está más pendiente de las comunicaciones del colegio de los niños?
+
+FILTRO:
+[Edad >17] + [algun miembro hogar edad<10]"	"Who mainly keeps in mind the children’s school communications?
+
+FILTER:
+[Age >17] + [Any household member age<10]"				
+GRUPS				1	Majoritàriament l'enquest/ada	Mayoritariamente el encuestado/a	Mostly the respondent
+GRUPS				2	Majoritàriament la parella de l'enquestat/ada	Mayoritariamente la pareja del encuestado/a	Mostly the respondent's partner
+GRUPS				3	A parts iguals entre l'enquestat/ada i la parella	A partes iguales entre el encuestado/a y su pareja	Equally shared between the respondent and their partner
+GRUPS				4	Un altre membre de la llar	Otro miembro del hogar	Another household member
+GRUPS				5	Una persona de fora de la llar	Una persona de fuera del hogar	A non-household member
+GRUPS				6	Altres situacions	Otras situaciones	Other situations
+FE_IND	Factor d'elevació individual multiplicat per 100.000 (factor d'elevació real = FE_IND / 100.000)	Factor de elevación individual multiplicado por 100.000 (factor de elevación real = FE_IND / 100.000)	Individual weighting factor multiplied by 100.000 (Real Inflation factor = FE_IND / 100.000)				

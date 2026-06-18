@@ -1,0 +1,54 @@
+*eut2011l.data.tsv*
+Microdades del qüestionari de la llar
+Microdatos del cuestionario del hogar
+Microdata from the household questionnaire
+
+*eut2011l.var.tsv*
+Variables del qüestionari de la llar
+Variables del cuestionario del hogar
+Variables from the household questionnaire
+
+*eut2011i.data.tsv*
+Microdades del qüestionari individual
+Microdatos del cuestionario individual
+Microdata from the individual questionnaire
+
+*eut2011i.var.tsv*
+Variables del qüestionari individual
+Variables del cuestionario individual
+Variables from the individual questionnaire
+
+*eut2011d.data.tsv*
+Microdades del diari de l'ús del temps
+Microdatos del diario del uso del tiempo
+Microdata from the time use diary
+
+*eut2011d.var.tsv*
+Variables del diari de l'ús del temps 
+Variables del diario del uso del tiempo
+Variables from the time use diary
+
+*eut2011h.data.tsv*
+Microdades del full d'horari de treball remunerat
+Microdatos de la hoja de trabajo remunerado
+Microdata from the paid work sheet
+
+*eut2011h.var.tsv*
+Variables del full d'horari de treball remunerat
+Variables de la hoja de trabajo remunerado
+Variables from the paid work sheet
+
+*eut2011l.quest.pdf*
+Qüestionari de la llar
+Cuestionario del hogar
+Home questionnaire
+
+*eut2011i.quest.pdf*
+Qüestionari individual
+Cuestionario individual
+Individual questionnaire
+
+*eut2011dh.quest.pdf*
+Qüestionari del diari de l'ús del temps i de l'horari de treball
+Cuestionario del diario del uso del tiempo y del horario de trabajo
+Time use diary and work schedule questionnaire

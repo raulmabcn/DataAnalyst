@@ -1,0 +1,104 @@
+Variable,DescrCA,DescrES,DescrEN,Valor_Value,LabelCA,LabelES,LabelEN
+IDQUEST_HT,Identificador del qüestionari horari,Identificador del cuestionario horario,Timetable questionnaire identifier,,,,
+CODI_LLAR,Codi de la llar,Código del hogar,Home code,,,,
+CODI_PERSONA,Codi de la persona,Código de la persona,Person code,,,,
+CODI_PERSONA,,,,1,Persona 1,Persona 1,Person 1
+CODI_PERSONA,,,,2,Persona 2,Persona 2,Person 2
+CODI_PERSONA,,,,3,Persona 3,Persona 3,Person 3
+CODI_PERSONA,,,,4,Persona 4,Persona 4,Person 4
+CODI_PERSONA,,,,5,Persona 5,Persona 5,Person 5
+CODI_PERSONA,,,,6,Persona 6,Persona 6,Person 6
+CODI_PERSONA,,,,7,Persona 7,Persona 7,Person 7
+CODI_PERSONA,,,,8,Persona 8,Persona 8,Person 8
+CODI_PERSONA,,,,9,Persona 9,Persona 9,Person 9
+CODI_PERSONA,,,,10,Persona 10,Persona 10,Person 10
+CODI_PERSONA,,,,11,Persona 11,Persona 11,Person 11
+CODI_PERSONA,,,,12,Persona 12,Persona 12,Person 12
+CODI_PERSONA,,,,13,Persona 13,Persona 13,Person 13
+CODI_PERSONA,,,,14,Persona 14,Persona 14,Person 14
+CODI_PERSONA,,,,15,Persona 15,Persona 15,Person 15
+TEMPS_TREB_SET,Temps (en minuts) treballat total setmanal,Tiempo (en minutos) trabajado total semanal,Total time (in minutes) worked weekly,,,,
+TEMPS_DIA1,Temps (en minuts) treballat del dia 1,Tiempo (en minutos) trabajado del día 1,Time (in minutes) worked from day 1,,,,
+NOM_DIA1,Dia de la setmana del dia 1,Día de la semana del día 1,Day of the week of day 1,,,,
+NOM_DIA1,,,,1,Dilluns,Lunes,Monday
+NOM_DIA1,,,,2,Dimarts,Martes,Tuesday
+NOM_DIA1,,,,3,Dimecres,Miércoles,Wednesday
+NOM_DIA1,,,,4,Dijous,Jueves,Thursday
+NOM_DIA1,,,,5,Divendres,Viernes,Friday
+NOM_DIA1,,,,6,Dissabte,Sábado,Saturday
+NOM_DIA1,,,,7,Diumenge,Domingo,Sunday
+TREB_DIA1,Es va treballar el dia 1,Se trabajó el día 1,Worked on day 1,,,,
+TREB_DIA1,,,,1,Sí,Sí,Yes
+TREB_DIA1,,,,6,No,No,No
+TEMPS_DIA2,Temps (en minuts) treballat del dia 2,Tiempo (en minutos) trabajado del día 1,Time (in minutes) worked from day 2,,,,
+NOM_DIA2,Dia de la setmana del dia 2,Día de la semana del día 2,Day of the week of day 2,,,,
+NOM_DIA2,,,,1,Dilluns,Lunes,Monday
+NOM_DIA2,,,,2,Dimarts,Martes,Tuesday
+NOM_DIA2,,,,3,Dimecres,Miércoles,Wednesday
+NOM_DIA2,,,,4,Dijous,Jueves,Thursday
+NOM_DIA2,,,,5,Divendres,Viernes,Friday
+NOM_DIA2,,,,6,Dissabte,Sábado,Saturday
+NOM_DIA2,,,,7,Diumenge,Domingo,Sunday
+TREB_DIA2,Es va treballar el dia 2,Se trabajó el día 2,Worked on day 2,,,,
+TREB_DIA2,,,,1,Sí,Sí,Yes
+TREB_DIA2,,,,6,No,No,No
+TEMPS_DIA3,Temps (en minuts) treballat del dia 3,Tiempo (en minutos) trabajado del día 1,Time (in minutes) worked from day 3,,,,
+NOM_DIA3,Dia de la setmana del dia 3,Día de la semana del día 3,Day of the week of day 3,,,,
+NOM_DIA3,,,,1,Dilluns,Lunes,Monday
+NOM_DIA3,,,,2,Dimarts,Martes,Tuesday
+NOM_DIA3,,,,3,Dimecres,Miércoles,Wednesday
+NOM_DIA3,,,,4,Dijous,Jueves,Thursday
+NOM_DIA3,,,,5,Divendres,Viernes,Friday
+NOM_DIA3,,,,6,Dissabte,Sábado,Saturday
+NOM_DIA3,,,,7,Diumenge,Domingo,Sunday
+TREB_DIA3,Es va treballar el dia 3,Se trabajó el día 3,Worked on day 3,,,,
+TREB_DIA3,,,,1,Sí,Sí,Yes
+TREB_DIA3,,,,6,No,No,No
+TEMPS_DIA4,Temps (en minuts) treballat del dia 4,Tiempo (en minutos) trabajado del día 1,Time (in minutes) worked from day 4,,,,
+NOM_DIA4,Dia de la setmana del dia 4,Día de la semana del día 4,Day of the week of day 4,,,,
+NOM_DIA4,,,,1,Dilluns,Lunes,Monday
+NOM_DIA4,,,,2,Dimarts,Martes,Tuesday
+NOM_DIA4,,,,3,Dimecres,Miércoles,Wednesday
+NOM_DIA4,,,,4,Dijous,Jueves,Thursday
+NOM_DIA4,,,,5,Divendres,Viernes,Friday
+NOM_DIA4,,,,6,Dissabte,Sábado,Saturday
+NOM_DIA4,,,,7,Diumenge,Domingo,Sunday
+TREB_DIA4,Es va treballar el dia 4,Se trabajó el día 4,Worked on day 4,,,,
+TREB_DIA4,,,,1,Sí,Sí,Yes
+TREB_DIA4,,,,6,No,No,No
+TEMPS_DIA5,Temps (en minuts) treballat del dia 5,Tiempo (en minutos) trabajado del día 1,Time (in minutes) worked from day 5,,,,
+NOM_DIA5,Dia de la setmana del dia 5,Día de la semana del día 5,Day of the week of day 5,,,,
+NOM_DIA5,,,,1,Dilluns,Lunes,Monday
+NOM_DIA5,,,,2,Dimarts,Martes,Tuesday
+NOM_DIA5,,,,3,Dimecres,Miércoles,Wednesday
+NOM_DIA5,,,,4,Dijous,Jueves,Thursday
+NOM_DIA5,,,,5,Divendres,Viernes,Friday
+NOM_DIA5,,,,6,Dissabte,Sábado,Saturday
+NOM_DIA5,,,,7,Diumenge,Domingo,Sunday
+TREB_DIA5,Es va treballar el dia 5,Se trabajó el día 5,Worked on day 5,,,,
+TREB_DIA5,,,,1,Sí,Sí,Yes
+TREB_DIA5,,,,6,No,No,No
+TEMPS_DIA6,Temps (en minuts) treballat del dia 6,Tiempo (en minutos) trabajado del día 1,Time (in minutes) worked from day 6,,,,
+NOM_DIA6,Dia de la setmana del dia 6,Día de la semana del día 6,Day of the week of day 6,,,,
+NOM_DIA6,,,,1,Dilluns,Lunes,Monday
+NOM_DIA6,,,,2,Dimarts,Martes,Tuesday
+NOM_DIA6,,,,3,Dimecres,Miércoles,Wednesday
+NOM_DIA6,,,,4,Dijous,Jueves,Thursday
+NOM_DIA6,,,,5,Divendres,Viernes,Friday
+NOM_DIA6,,,,6,Dissabte,Sábado,Saturday
+NOM_DIA6,,,,7,Diumenge,Domingo,Sunday
+TREB_DIA6,Es va treballar el dia 6,Se trabajó el día 6,Worked on day 6,,,,
+TREB_DIA6,,,,1,Sí,Sí,Yes
+TREB_DIA6,,,,6,No,No,No
+TEMPS_DIA7,Temps (en minuts) treballat del dia 7,Tiempo (en minutos) trabajado del día 1,Time (in minutes) worked from day 7,,,,
+NOM_DIA7,Dia de la setmana del dia 7,Día de la semana del día 7,Day of the week of day 7,,,,
+NOM_DIA7,,,,1,Dilluns,Lunes,Monday
+NOM_DIA7,,,,2,Dimarts,Martes,Tuesday
+NOM_DIA7,,,,3,Dimecres,Miércoles,Wednesday
+NOM_DIA7,,,,4,Dijous,Jueves,Thursday
+NOM_DIA7,,,,5,Divendres,Viernes,Friday
+NOM_DIA7,,,,6,Dissabte,Sábado,Saturday
+NOM_DIA7,,,,7,Diumenge,Domingo,Sunday
+TREB_DIA7,Es va treballar el dia 7,Se trabajó el día 7,Worked on day 7,,,,
+TREB_DIA7,,,,1,Sí,Sí,Yes
+TREB_DIA7,,,,6,No,No,No

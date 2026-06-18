@@ -1,0 +1,70 @@
+Variable	DescrCA	DescrES	DescrEN	Valor_Value	LabelCA	LabelES	LabelEN
+IDLLAR	Identificador únic de la llar	Identificador único del hogar	Household unique identifier				
+DEGURBA	Grau d'urbanització	Grado de urbanización	Degree of urbanisation				
+DEGURBA				1	Centres urbans o àrees densament poblades	Centros urbanos o áreas densamente pobladas	Urban centres or densely populated areas
+DEGURBA				2	Localitats i àrees semidenses o àrees de densitat intermèdia	Localidades y áreas semidensas o áreas de densidad intermedia	Towns and semi-dense areas or intermediate density areas
+DEGURBA				3	Àrees rurals o àrees escassament poblades	Áreas rurales o áreas escasamente pobladas	Rural areas or thinly populated areas
+TRIM	Període d'enquestació trimestral final	Periodo de encuestación trimestral final	Final quarterly survey period				
+TRIM				1	De gener a març	De enero a marzo	From January to March
+TRIM				2	D'abril a juny	De abril a junio	From April to June
+TRIM				3	De juliol a setembre	De julio a septiembre	From July to September
+TRIM				4	D'octubre a desembre	De octubre a diciembre	From October to Desember
+TIPUS_LLAR	Composició de la llar	Composición del hogar	Household composition				
+TIPUS_LLAR				1	Unipersonal	Unipersonal	Single-person
+TIPUS_LLAR				2	Parella sense fills/filles	Pareja sin hijos/as	Couple without children
+TIPUS_LLAR				3	Pare sol o mare sola, amb algun fill/a menor de 25 anys	Padre solo o madre sola, con algún hijo/a menor de 25 años	Single parent with a child under 25 years old
+TIPUS_LLAR				4	Pare sol o mare sola, amb tots els fills/filles de 25 anys o més	Padre solo o madre sola, con todos los hijos/as de 25 años y más	Single parent with all children aged 25 and over
+TIPUS_LLAR				5	Parella amb algun fill/a menor de 25 anys	Pareja con algún hijo/a menor de 25 años	Couple with a child under 25 years old
+TIPUS_LLAR				6	Parella amb tots els fills/filles de 25 anys o més	Pareja con todos los hijos/as de 25 años y más	Couple with all children aged 25 and over
+TIPUS_LLAR				7	Altre tipus de llar	Otro tipo de hogar	Other type of household
+NUM_MEMBRES	Nombre de membres de la llar	Número de miembros del hogar	Number of household members				
+NUM_MEMBRES				1	1 membre	1 miembro	1 member
+NUM_MEMBRES				2	2 membres	2 miembros	2 members
+NUM_MEMBRES				3	3 membres	3 miembros	3 members
+NUM_MEMBRES				4	4 membres	4 miembros	4 members
+NUM_MEMBRES				5	5 membres o més	5 miembros o más	5 members or more
+MENORS_10	Llar amb infants menors de 10 anys	Hogar con niños menores de 10 años	Household with children under 10 years old				
+MENORS_10				1	Si	Sí	Yes
+MENORS_10				0	No	No	No
+TRAM_INGRESSOS	Trams d'ingressos mensuals nets de la llar 	Tramos de ingresos mensuales netos del hogar	Household net monthly income brackets				
+TRAM_INGRESSOS				1	900 € o menys	900 € o menos	900 € or less
+TRAM_INGRESSOS				2	De 901 €  a 1.500 €	De 901 € a 1.500 €	From 901 € to 1,500 €
+TRAM_INGRESSOS				3	De 1.501 € a 1.900 €	De 1.501 € a 1.900 €	From 1,501 € to 1,900 €
+TRAM_INGRESSOS				4	De 1.901 € a 2.500 €	De 1.901 € a 2.500 €	From 1,901 € to 2,500 €
+TRAM_INGRESSOS				5	Més de 2.500 €	Más de 2.500 €	More than 2,500 €
+TRAM_INGRESSOS				9	No ho sap / No contesta	No lo sabe / No contesta	Don't know / No answer
+AD_DEP	Adults en situació de dependència a la llar	Adultos en situación de dependencia en el hogar	Adults in a dependency situation in your household				
+AD_DEP				1	Si	Sí	Yes
+AD_DEP				6	No	No	No
+CURA	"Ha deixat habitualment els infants membres de la llar de fins a 10 anys a algun centre (extraescolars, menjador, llar d'infants...) o amb alguna persona que no forma part de la llar?
+
+FILTRE:
+[Llar amb membres de la llar amb edat < 10 anys]"	"¿Ha dejado habitualmente a los niños miembros del hogar de hasta 10 años en algún centro (extraescolares, comedor, guardería…) o con alguna persona que no forme parte del hogar?
+
+FILTRO:
+[Hogar con miembros del hogar con edad < 10 años]"	"Have you regularly left any children aged 10 or under in your household at a childcare facility (such as a kindergarten, after-school activity, school canteen...) or in the care of a non-household member?
+
+FILTER:
+[Household with household members aged < 10 years]"				
+CURA				1	Si	Sí	Yes
+CURA				6	No	No	No
+AJ_CURA_INF	"Durant les darreres quatre setmanes, la llar ha rebut ajuda d'alguna persona de fora de la llar per a la cura del infants menors de 18 anys?
+
+FILTRE:
+[Llar amb membres de la llar amb edat < 18 anys]"	"Durante las últimas cuatro semanas, ¿el hogar ha recibido ayuda de alguna persona ajena al hogar para el cuidado los niños (menores de 18 años)?
+
+FILTRO:
+[Hogar con miembros del hogar con edad < 18 años]"	"In the last four weeks, has your household received any help from a non-household member for the care of children (aged under 18)?
+
+FILTER:
+[Household with household members aged < 18 years]"				
+AJ_CURA_INF				1	Si	Sí	Yes
+AJ_CURA_INF				6	No	No	No
+AJ_CURA_MALALTS	Durant les darreres quatre setmanes, la llar ha rebut ajuda d'alguna persona de fora de la llar per a la cura de malalts o persones grans (18 anys o més)?	Durante las últimas cuatro semanas, ¿el hogar ha recibido ayuda de alguna persona ajena al hogar para el cuidado de enfermos o personas mayores (18 años o más)?	In the last four weeks, has your household received any help from a non-household memeber for the care of ill or elderly persons (aged 18 or over)?				
+AJ_CURA_MALALTS				1	Si	Sí	Yes
+AJ_CURA_MALALTS				6	No	No	No
+AJ_CURA_MALALTS				9	No procedeix	No procede	Not applicable
+AJ_DOM	Durant les darreres quatre setmanes, la llar ha rebut ajuda d'alguna persona de fora de la llar per a les tasques domèstiques?	Durante las últimas cuatro semanas, ¿el hogar ha recibido ayuda de alguna persona ajena al hogar para las tareas domésticas?	In the last four weeks, has your household received any help from a non-household member for domestic tasks?				
+AJ_DOM				1	Si	Sí	Yes
+AJ_DOM				6	No	No	No
+FE_LLAR	Factor d'elevació de les llars  multiplicat per 100.000 (factor d'elevació real = FE_LLAR / 100.000)	Factor de elevación de los hogares multiplicado por 100.000 (factor de elevación real = FE_LLAR / 100.000)	Household weighting factor multiplied by 100.000 (Real Inflation factor = FE_LLAR / 100.000)				

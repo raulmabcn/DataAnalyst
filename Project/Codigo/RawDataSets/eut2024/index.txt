@@ -1,0 +1,57 @@
+*eut2024l.data.csv*
+Microdades del qüestionari de la llar
+Microdatos del cuestionario del hogar
+Microdata from the household questionnaire
+
+*eut2024l.var.csv*
+Variables del qüestionari de la llar
+Variables del cuestionario del hogar
+Variables from the household questionnaire
+
+*eut2024i.data.csv*
+Microdades del qüestionari individual
+Microdatos del cuestionario individual
+Microdata from the individual questionnaire
+
+*eut2024i.var.csv*
+Variables del qüestionari individual
+Variables del cuestionario individual
+Variables from the individual questionnaire
+
+*eut2024da1.data.csv*
+Microdades del diari d'activitats (Descripcio i satisfacció)
+Microdatos del diario de actividades (Descripción y satisfacción)
+Microdata from the daily activity (Description and satisfaction)
+
+*eut2024da1.var.csv*
+Variables del diari d'activitats (Descripcio i satisfacció)
+Variables del diario de actividades (Descripción y satisfacción)
+Variables from the daily activity (Description and satisfaction)
+
+*eut2024da2.data.csv*
+**  NOTA: Degut al nombre de registres desats en aquest fitxer, no es pot obrir amb el programa Excel.
+**  Es pot obrir amb qualsevol paquet estadístic, la Llibreta de Windows o qualsevol altre editor de text
+Microdades del diari d'activitats (Diari)
+Microdatos del diario de actividades (Diario)
+Microdata from the daily activity (Daily)
+
+*eut2024da2.var.csv*
+Variables del diari d'activitats (Diari)
+Variables del diario de actividades (Diario)
+Variables from the daily activity (Daily)
+
+*eut2024l.quest_cat.pdf*
+Qüestionari de la llar (Català)
+Cuestionario del hogar (Catalán)
+Home questionnaire (Catalan)
+
+*eut2024i.quest_cat.pdf*
+Qüestionari individual (Català)
+Cuestionario individual (Catalán)
+Individual questionnaire (Catalan)
+
+*eut2024d.quest_cat.pdf*
+Qüestionari diari d'activitats (Català)
+Cuestionario diario de actividades (Catalán)
+Daily activity questionnaire (Catalan)
+

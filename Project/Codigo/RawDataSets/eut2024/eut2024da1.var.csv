@@ -1,0 +1,376 @@
+Variable	DescrCA	DescrES	DescrEN	Valor_Value	LabelCA	LabelES	LabelEN
+IDLLAR	Identificador únic de la llar	Identificador único del hogar	Unique household identifier				
+IDPERSONA	Identificador únic de la  persona dins de la llar	Identificador único de la persona dentro del hogar	Unique identifier of the person within the household				
+DEGURBA	Grau d'urbanització	Grado de urbanización	Degree of urbanisation				
+DEGURBA				1	Centres urbans o àrees densament poblades	Centros urbanos o áreas densamente pobladas	Urban centres or densely populated areas
+DEGURBA				2	Localitats i àrees semidenses o àrees de densitat intermèdia	Localidades y áreas semidensas o áreas de densidad intermedia	Towns and semi-dense areas or intermediate density areas
+DEGURBA				3	Àrees rurals o àrees escassament poblades	Áreas rurales o áreas escasamente pobladas	Rural areas or thinly populated areas
+TRIM	Període d'enquestació trimestral final	Periodo de encuestación trimestral final	Final quarterly survey period				
+TRIM				1	De gener a març	De enero a marzo	From January to March
+TRIM				2	D'abril a juny	De abril a junio	From April to June
+TRIM				3	De juliol a setembre	De julio a septiembre	From July to September
+TRIM				4	D'octubre a desembre	De octubre a diciembre	From October to December
+DIA_SETMANA	Dia de la setmana d'enquestació	Día de la semana de la encuestación	Day of the week of the survey				
+DIA_SETMANA				1	De dilluns a dijous	De lunes a jueves	From Monday to Thursday
+DIA_SETMANA				2	De divendres a diumenge	De viernes a domingo	From Friday to Sunday
+ACT_MES_GRAT	Quina ha estat l'activitat principal més gratificant descrita al diari?	¿Cuál ha sido la actividad principal más gratificante descrita en el diario?	Which main activity described in the diary has been the most rewarding?				
+ACT_MES_GRAT				011	Dormir	Dormir	Sleeping
+ACT_MES_GRAT				012	Malalt enllitat	Enfermo en cama	Sick in bed
+ACT_MES_GRAT				021	Menjar i beure	Comer y beber	Eating
+ACT_MES_GRAT				031	Higiene personal i vestir-se	Higiene personal y vestirse	Washing and dressing
+ACT_MES_GRAT				032	Salut i benestar	Salud y bienestar	Personal care services
+ACT_MES_GRAT				039	Altres cures personals no especificades	Otros cuidados personales no especificados	Other or unspecified personal care
+ACT_MES_GRAT				111	Treball principal i secundari (inclou petits descansos i desplaçaments o viatges per assumptes laborals) 	Trabajo principal y secundario (incluye pequeños descansos y desplazamientos o viajes por asuntos laborales)	Working time in main and second job (including short breaks and travel at work)
+ACT_MES_GRAT				121	Descans per menjar	Descanso para comer	Lunch break in main and second jobs
+ACT_MES_GRAT				129	Altres activitats relacionades amb el treball remunerat	Otras actividades relacionadas con el trabajo remunerado	Other or unspecified activities related to employment
+ACT_MES_GRAT				211	Classes, cursos i conferències	Clases, cursos y conferencias	Classes and lectures
+ACT_MES_GRAT				212	Deures, treballs i biblioteca	Deberes, trabajos y biblioteca	Homework
+ACT_MES_GRAT				213	Pràctiques	Prácticas	Internship
+ACT_MES_GRAT				214	Descansos entre classes	Descansos entre clases	Breaks at school/ university
+ACT_MES_GRAT				215	Classes extraescolars i extracurriculars	Clases extraescolares y extracurriculares	Extracurricular classes
+ACT_MES_GRAT				219	Altres activitats relacionades amb els estudis i la formació	Otras actividades relacionadas con los estudios y la formación	Other/ unspecified activities related to study
+ACT_MES_GRAT				221	Formació durant el temps lliure	Formación durante el tiempo libre	Free time study
+ACT_MES_GRAT				311	Cuinar i preparar el menjar	Cocinar y preparar la comida	Food preparation and baking
+ACT_MES_GRAT				312	Rentar els plats	Lavar los platos	Dish washing
+ACT_MES_GRAT				313	Endreçar i conservar aliments	Ordenar y conservar alimentos	Storing, arranging, preserving food stocks
+ACT_MES_GRAT				321	Netejar la casa	Limpiar la casa	Cleaning dwelling
+ACT_MES_GRAT				322	Netejar el pati i les zones exteriors	Limpiar el patio y las zonas exteriores	Cleaning garden
+ACT_MES_GRAT				323	Calefacció i subministrament d'aigua	Calefacción y suministro de agua	Heating dwelling and water
+ACT_MES_GRAT				324	Tasques d'organització 	Tareas de organización	Arranging household goods and materials
+ACT_MES_GRAT				325	Reciclatge i escombraries	Reciclaje y basura	Recycling and disposal of waste
+ACT_MES_GRAT				329	Altres tasques de manteniment de la llar	Otras tareas de mantenimiento del hogar	Other or unspecified household upkeep
+ACT_MES_GRAT				331	Rentar la roba	Lavar la ropa	Laundry
+ACT_MES_GRAT				332	Planxar la roba	Planchar la ropa	Ironing
+ACT_MES_GRAT				339	Altres tasques de confecció i cura de la roba	Otras tareas de confección y cuidado de la ropa	Other or unspecified textile care
+ACT_MES_GRAT				341	Jardineria	Jardinería	Gardening
+ACT_MES_GRAT				342	Cuidar animals de granja	Cuidar animales de granja	Tending domestic animals
+ACT_MES_GRAT				343	Cuidar animals de companyia	Cuidar animales de compañía	Caring for pets
+ACT_MES_GRAT				344	Passejar el gos	Pasear al perro	Walking the dog
+ACT_MES_GRAT				349	Altres activitats de jardineria i animals	Otras actividades de jardinería y animales	Other or unspecified gardening and pet care
+ACT_MES_GRAT				351	Construcció i reforma de l'habitatge	Construcción y reforma de la vivienda	House construction and renovation
+ACT_MES_GRAT				352	Reparacions de l'habitatge	Reparaciones de la vivienda	Repairs to dwelling
+ACT_MES_GRAT				353	Fabricació, reparació i manteniment de l'equipament de la llar	Fabricación, reparación y mantenimiento del equipamiento del hogar	Making, repairing and maintaining equipment
+ACT_MES_GRAT				354	Manteniment de vehicles	Mantenimiento de vehículos	Vehicle maintenance
+ACT_MES_GRAT				359	Altres activitats de construcció i reparacions	Otras actividades de construcción y reparaciones	Other or unspecified construction and repairs
+ACT_MES_GRAT				361	Compres	Compras	Shopping (including online/ e-shopping)
+ACT_MES_GRAT				362	Gestions comercials i administratives	Gestiones comerciales y administrativas	Commercial and administrative services
+ACT_MES_GRAT				369	Altres gestions relacionades amb les compres i els serveis	Otras gestiones relacionadas con las compras y los servicios	Other or unspecified shopping and services
+ACT_MES_GRAT				371	Gestions de la llar	Gestiones del hogar	Household management
+ACT_MES_GRAT				381	Cuidar i vigilar els infants	Cuidar y vigilar a los niños	Physical care and supervision of child
+ACT_MES_GRAT				382	Ensenyar coneixements als infants 	Enseñar conocimientos a los niños	Teaching the child
+ACT_MES_GRAT				383	Jugar, llegir i parlar amb els infants	Jugar, leer y hablar con los niños	Reading, playing and talking with child
+ACT_MES_GRAT				384	Acompanyar els infants a algun lloc	Acompañar a los niños a algún lugar	Accompanying child
+ACT_MES_GRAT				389	Altres tipus d'assitència als infants de la llar	Otros tipos de asistencia a los niños del hogar	Other or unspecified childcare
+ACT_MES_GRAT				391	Cuidar els adults de la llar	Cuidar a los adultos del hogar	Physical care of an adult household member
+ACT_MES_GRAT				392	Altres tipus d'assistència als adults  de la llar	Otros tipos de asistencia a los adultos del hogar	Other support to an adult household member
+ACT_MES_GRAT				411	Voluntariat a una organització (de forma directa o indirecta)	Voluntariado en una organización (de forma directa o indirecta)	Organisational work (work for or through an organisation)
+ACT_MES_GRAT				421	En la construcció i les reparacions	En la construcción y las reparaciones	Construction and repairs as help
+ACT_MES_GRAT				422	En feines agrícoles, ramaderes o d'oficina, etc.	En las tareas agrícolas, ganaderas o de oficina, etc.	Help in employment and farming
+ACT_MES_GRAT				423	En la cura dels fills que viuen a una altra llar	En el cuidado de los hijos que viven en otro hogar	Care of own children living in another household
+ACT_MES_GRAT				424	En la cura d'infants que viuen a altres llars	En el cuidado de niños que viven en otros hogares	Childcare as help to another household
+ACT_MES_GRAT				425	En la cura d'aduts d'altres llars	En el cuidado de los adultos de otros hogares	Help to an adult person of another household
+ACT_MES_GRAT				429	Altres ajudes informals a altres llars	Otras ayudas informales en otros hogares	Other/ unspecified informal help to another household
+ACT_MES_GRAT				431	Reunions i trobades	Reuniones y encuentros	Meetings
+ACT_MES_GRAT				432	Pràctiques religioses	Prácticas religiosas	Religious activities
+ACT_MES_GRAT				433	Visites al cementiri i cura de les tombes	Visitas al cementerio y cuidado de las tumbas	Visits to cemetery and grave care
+ACT_MES_GRAT				439	Altres activitats participatives i religioses	Otras actividades participativas y religiosas	Other or unspecified participatory activities
+ACT_MES_GRAT				511	Vida social en família	Vida social en familia	Socialising with family
+ACT_MES_GRAT				512	Visitar algú i rebre visites a casa	Visitar a alguien y recibir visitas en casa	Visiting and receiving visitors
+ACT_MES_GRAT				513	Festes i celebracions	Fiestas y celebraciones	Celebrations
+ACT_MES_GRAT				514	Converses d'àudio o vídeo	Conversaciones de audio o vídeo	Audio and video conversation
+ACT_MES_GRAT				515	Comunicació per missatges de text 	Comunicación por mensajes de texto	Communication by text messaging (SMS, instant messages, email, etc.)
+ACT_MES_GRAT				516	Xarxes socials	Redes sociales	Time spent on social media
+ACT_MES_GRAT				519	Altres activitats socials	Otras actividades sociales 	Other or unspecified social life
+ACT_MES_GRAT				521	Cinema	Cine	Cinema
+ACT_MES_GRAT				522	Teatre i concerts	Teatro y conciertos	Theatre and concerts
+ACT_MES_GRAT				523	Exposicions d'art i museus	Exposiciones de arte y museos	Art exhibitions and museums
+ACT_MES_GRAT				524	Biblioteques	Bibliotecas	Library
+ACT_MES_GRAT				525	Assistència esdeveniments esportius	Asistencia a eventos deportivos	Attending live sports events
+ACT_MES_GRAT				526	Zoològics, jardins botànics i reserves naturals	Zoológicos, jardines botánicos y reservas naturales	Zoos, botanical gardens, natural reserves, etc.
+ACT_MES_GRAT				529	Altres activitats culturals i d'entreteniment	Otras actividades culturales y de entretenimiento	Other or unspecified entertainment and culture
+ACT_MES_GRAT				531	Oci passiu i estones mortes	Ocio pasivo y tiempo muerto	Resting - time out
+ACT_MES_GRAT				611	Caminar, passejar i fer senderisme	Caminar, pasear y hacer senderismo	Walking and hiking
+ACT_MES_GRAT				612	Córrer	Correr	Jogging and running
+ACT_MES_GRAT				613	Ciclisme, esquí i patinatge	Ciclismo, esquí y patinaje	Cycling, skiing and skating
+ACT_MES_GRAT				614	Esports de pilota	Deportes de pelota	Ball games
+ACT_MES_GRAT				615	Gimnàstica i fitnes	Gimnasia y fitnes	Gymnastics and fitness
+ACT_MES_GRAT				616	Esports aquàtics	Deportes acuáticos	Water sports
+ACT_MES_GRAT				619	Altres esports o activitats a l'aire lliure	Otros deportes o actividades al aire libre	Other or unspecified sports or outdoor activities
+ACT_MES_GRAT				621	Exercici productiu (caçar, pescar, collir bolets, mores, espàrrecs, etc.)	Ejercicio productivo (cazar, pescar, recoger setas, moras, espárragos, etc.)	Productive exercise (e.g. hunting, fishing, picking berries, mushrooms or herbs)
+ACT_MES_GRAT				631	Activitats relacionades amb els esports	Actividades relacionadas con los deportes	Sports related activities
+ACT_MES_GRAT				711	Arts visuals, escèniques i literàries	Artes visuales, escénicas y literarias	Arts (visual, performing, literary)
+ACT_MES_GRAT				712	Col·leccionisme	Coleccionismo	Collecting
+ACT_MES_GRAT				713	Elaboració de productes artesans	Elaboración de productos artesanos	Making handicraft products
+ACT_MES_GRAT				719	Altres aficions artístiques	Otras aficiones artísticas	Other or unspecified hobbies
+ACT_MES_GRAT				721	Programació informàtica	Programación informática	Computing
+ACT_MES_GRAT				722	Cerca d'informació a internet	Búsqueda de información en internet	Information search using internet
+ACT_MES_GRAT				729	Altres activitats informàtiques	Otras actividades informáticas	Other or unspecified computing
+ACT_MES_GRAT				731	Jocs en solitari i apostes	Juegos en solitario y apuestas	Solo games and play, gambling
+ACT_MES_GRAT				732	Jocs de societat	Juegos de sociedad	Parlour games and play
+ACT_MES_GRAT				733	Jocs d'ordinador	Juegos de ordenador	Computer games
+ACT_MES_GRAT				734	Jocs de consola	Juegos de consola	Console games (on home console)
+ACT_MES_GRAT				735	Jocs per a mòbils i tauletes	Juegos para móviles y tabletas	Mobile games (on handheld device/ smartphone)
+ACT_MES_GRAT				739	Altres jocs	Otros juegos	Other or unspecified games
+ACT_MES_GRAT				811	Premsa i revistes	Prensa y revistas	Reading periodicals
+ACT_MES_GRAT				812	Llibres	Libros	Reading books
+ACT_MES_GRAT				819	Altres tipus de lectura	Otros tipos de lectura	Other or unspecified reading
+ACT_MES_GRAT				821	Mirar la televisió, vídeos o DVD	Ver la televisión, vídeos o DVD	Watching TV, video or DVD
+ACT_MES_GRAT				831	Escoltar la ràdio, música o gravacions	Escuchar la radio, música o grabaciones	Listening to radio or recordings
+ACT_MES_GRAT				910	Trajectes per anar a la feina i tornar	Trayectos para ir y volver del trabajo	Travel to/ from work
+ACT_MES_GRAT				920	Trajectes relacionats amb els estudis	Trayectos relacionados con los estudios	Travel related to study
+ACT_MES_GRAT				936	Trajectes relacionats amb les compres i els serveis	Trayectos relacionados con las compras y los servicios	Travel related to shopping and services
+ACT_MES_GRAT				938	Trajectes relacionats amb la cura dels infants de la llar	Trayectos relacionados con el cuidado de los niños del hogar	Travel related to childcare
+ACT_MES_GRAT				939	Trajectes relacionats amb la cura d'altres membres de la llar	Trayectos relacionados con el cuidado de otros miembros del hogar	Travel related to other household care
+ACT_MES_GRAT				940	Trajectes relacionats amb el voluntariat i les ajudes altruistes	Trayectos relacionados con el voluntariado y ayudas altruistas	Travel related to voluntary work and meetings
+ACT_MES_GRAT				950	Trajectes relacionats amb la vida social	Trayectos relacionados con la vida social	Travel related to social life
+ACT_MES_GRAT				960	Trajectes relationats amb altres activitats de lleure	Trayectos relacionados con otras actividades de ocio	Travel related to other leisure
+ACT_MES_GRAT				980	Trajectes per anar d'un municipi a un altre	Trayectos para ir de un municipio a otro	Travel related to changing locality
+ACT_MES_GRAT				900	Altres trajectes amb finalitats diferents	Otros trayectos con fines distintos	Other or unspecified travel purpose
+ACT_MES_GRAT				995	Emplenar el diari de l'ús del temps	Rellenar el diario de uso del tiempo	Filling in the time use diary
+ACT_MES_GRAT				998	Temps lliure no especificat	Tiempo libre no especificado	Unspecified leisure time
+ACT_MES_GRAT				999	Un altre ús del temps no especificat	Otro uso del tiempo no especificado	Other unspecified time use
+ACT_MES_GRAT				000	No ho sap / No contesta	No lo sabe / No contesta	Don't know / No answer
+ACT_MENYS_GRAT	Quina ha estat l'activitat principal menys gratificant descrita al diari?	¿Cuál ha sido la actividad principal menos gratificante descrita en el diario?	Which main activity described in the diary has been the least rewarding?				
+ACT_MENYS_GRAT				011	Dormir	Dormir	Sleeping
+ACT_MENYS_GRAT				012	Malalt enllitat	Enfermo en cama	Sick in bed
+ACT_MENYS_GRAT				021	Àpats i begudes	Comer y beber	Eating
+ACT_MENYS_GRAT				031	Higiene i vestir	Higiene personal y vestirse	Washing and dressing
+ACT_MENYS_GRAT				032	Servei de cura personal	Salud y bienestar	Personal care services
+ACT_MENYS_GRAT				039	Altres cures personals, especificades o no	Otros cuidados personales no especificados	Other or unspecified personal care
+ACT_MENYS_GRAT				111	Treball principal i secundari (inclou petits descansos i desplaçaments o viatges per assumptes laborals) 	Trabajo principal y secundario (incluye pequeños descansos y desplazamientos o viajes por asuntos laborales)	Working time in main and second job (including short breaks and travel at work)
+ACT_MENYS_GRAT				121	Descans per menjar	Descanso para comer	Lunch break in main and second jobs
+ACT_MENYS_GRAT				129	Altres activitats relacionades amb el treball, especificades o no	Otras actividades relacionadas con el trabajo remunerado	Other or unspecified activities related to employment
+ACT_MENYS_GRAT				211	Classes, cursos i conferències	Clases, cursos y conferencias	Classes and lectures
+ACT_MENYS_GRAT				212	Deures i biblioteca	Deberes, trabajos y biblioteca	Homework
+ACT_MENYS_GRAT				213	Pràctiques	Prácticas	Internship
+ACT_MENYS_GRAT				214	Descans  a l’escola, institut, universitat	Descansos entre clases	Breaks at school/ university
+ACT_MENYS_GRAT				215	Classes extra curriculars	Clases extraescolares y extracurriculares	Extracurricular classes
+ACT_MENYS_GRAT				219	Altres activitats relacionades amb l’estudi, especificades o no	Otras actividades relacionadas con los estudios y la formación	Other/ unspecified activities related to study
+ACT_MENYS_GRAT				221	Estudis durant el temps lliure	Formación durante el tiempo libre	Free time study
+ACT_MENYS_GRAT				311	Preparació i cuina d'àpats i forneix d’aliments 	Cocinar y preparar la comida	Food preparation and baking
+ACT_MENYS_GRAT				312	Rentar els plats	Lavar los platos	Dish washing
+ACT_MENYS_GRAT				313	Ordenar, emmagatzemar i conservació d’aliments	Ordenar y conservar alimentos	Storing, arranging, preserving food stocks
+ACT_MENYS_GRAT				321	Neteja de l'habitatge	Limpiar la casa	Cleaning dwelling
+ACT_MENYS_GRAT				322	Neteja del pati i d'altres parts exteriors de l'habitatge	Limpiar el patio y las zonas exteriores	Cleaning garden
+ACT_MENYS_GRAT				323	Calefacció i subministrament d'aigua	Calefacción y suministro de agua	Heating dwelling and water
+ACT_MENYS_GRAT				324	Tasques diverses d’organització 	Tareas de organización	Arranging household goods and materials
+ACT_MENYS_GRAT				325	Reciclatge i eliminació de deixalles	Reciclaje y basura	Recycling and disposal of waste
+ACT_MENYS_GRAT				329	Altres tipus de manteniment de la llar, especificats o no	Otras tareas de mantenimiento del hogar	Other or unspecified household upkeep
+ACT_MENYS_GRAT				331	Bugada	Lavar la ropa	Laundry
+ACT_MENYS_GRAT				332	Planxada	Planchar la ropa	Ironing
+ACT_MENYS_GRAT				339	Altres activitats de preparació de la roba, especificades o no	Otras tareas de confección y cuidado de la ropa	Other or unspecified textile care
+ACT_MENYS_GRAT				341	Jardineria	Jardinería	Gardening
+ACT_MENYS_GRAT				342	Atenció d'animals domèstics	Cuidar animales de granja	Tending domestic animals
+ACT_MENYS_GRAT				343	Atenció de mascotes 	Cuidar animales de compañía	Caring for pets
+ACT_MENYS_GRAT				344	Passejar el gos	Pasear al perro	Walking the dog
+ACT_MENYS_GRAT				349	Altres activitats de jardineria i atenció d'animals, especificades o no	Otras actividades de jardinería y animales	Other or unspecified gardening and pet care
+ACT_MENYS_GRAT				351	Construcció i reforma de l'habitatge	Construcción y reforma de la vivienda	House construction and renovation
+ACT_MENYS_GRAT				352	Reparacions de l'habitatge	Reparaciones de la vivienda	Repairs to dwelling
+ACT_MENYS_GRAT				353	Fabricació, reparació i manteniment de l'equipament de la llar	Fabricación, reparación y mantenimiento del equipamiento del hogar	Making, repairing and maintaining equipment
+ACT_MENYS_GRAT				354	Manteniment de vehicles	Mantenimiento de vehículos	Vehicle maintenance
+ACT_MENYS_GRAT				359	Altres activitats de construcció i reparacions, especificades o no	Otras actividades de construcción y reparaciones	Other or unspecified construction and repairs
+ACT_MENYS_GRAT				361	Compres	Compras	Shopping (including online/ e-shopping)
+ACT_MENYS_GRAT				362	Serveis comercials i administratius	Gestiones comerciales y administrativas	Commercial and administrative services
+ACT_MENYS_GRAT				369	Altres compres i serveis, especificats o no	Otras gestiones relacionadas con las compras y los servicios	Other or unspecified shopping and services
+ACT_MENYS_GRAT				371	Gestions de la llar	Gestiones del hogar	Household management
+ACT_MENYS_GRAT				381	Cures personals i supervisió d’infants	Cuidar y vigilar a los niños	Physical care and supervision of child
+ACT_MENYS_GRAT				382	Ensenyar als infants	Enseñar conocimientos a los niños	Teaching the child
+ACT_MENYS_GRAT				383	Jugar, llegir i parlar amb els infants	Jugar, leer y hablar con los niños	Reading, playing and talking with child
+ACT_MENYS_GRAT				384	Acompanyar els infants	Acompañar a los niños a algún lugar	Accompanying child
+ACT_MENYS_GRAT				389	Altres tipus d'atencions dels infants, especificades o no	Otros tipos de asistencia a los niños del hogar	Other or unspecified childcare
+ACT_MENYS_GRAT				391	Cures personals a adults membres de la llar	Cuidar a los adultos del hogar	Physical care of an adult household member
+ACT_MENYS_GRAT				392	Altres tipus d'atencions a adults membres de la llar 	Otros tipos de asistencia a los adultos del hogar	Other support to an adult household member
+ACT_MENYS_GRAT				411	Treballs al servei d'una organització ( Treball mitjançant una/ o per a una organització)	Voluntariado en una organización (de forma directa o indirecta)	Organisational work (work for or through an organisation)
+ACT_MENYS_GRAT				421	Ajudes a la construcció i les reparacions	En la construcción y las reparaciones	Construction and repairs as help
+ACT_MENYS_GRAT				422	Ajudes al treball i a l'agricultura	En las tareas agrícolas, ganaderas o de oficina, etc.	Help in employment and farming
+ACT_MENYS_GRAT				423	Atenció de fills que viuen en una altra llar 	En el cuidado de los hijos que viven en otro hogar	Care of own children living in another household
+ACT_MENYS_GRAT				424	Ajudes a l'atenció d’infants d'altres llars	En el cuidado de niños que viven en otros hogares	Childcare as help to another household
+ACT_MENYS_GRAT				425	Ajudes a adults d'altres llars	En el cuidado de los adultos de otros hogares	Help to an adult person of another household
+ACT_MENYS_GRAT				429	Altres tipus d'ajudes informals, especificades o no a altres llars	Otras ayudas informales en otros hogares	Other/ unspecified informal help to another household
+ACT_MENYS_GRAT				431	Reunions	Reuniones y encuentros	Meetings
+ACT_MENYS_GRAT				432	Pràctiques religioses	Prácticas religiosas	Religious activities
+ACT_MENYS_GRAT				433	Visites al cementiri i cura de les tombes	Visitas al cementerio y cuidado de las tumbas	Visits to cemetery and grave care
+ACT_MENYS_GRAT				439	Altres activitats participatives, especificades o no	Otras actividades participativas y religiosas	Other or unspecified participatory activities
+ACT_MENYS_GRAT				511	Vida social en família	Vida social en familia	Socialising with family
+ACT_MENYS_GRAT				512	Fer i rebre visites	Visitar a alguien y recibir visitas en casa	Visiting and receiving visitors
+ACT_MENYS_GRAT				513	Festes i celebracions	Fiestas y celebraciones	Celebrations
+ACT_MENYS_GRAT				514	Converses amb àudio i vídeo	Conversaciones de audio o vídeo	Audio and video conversation
+ACT_MENYS_GRAT				515	Comunicació per missatgeria de text (SMS, missatgeria instantània, correu electrònic,...)	Comunicación por mensajes de texto	Communication by text messaging (SMS, instant messages, email, etc.)
+ACT_MENYS_GRAT				516	Temps dedicat a xarxes socials	Redes sociales	Time spent on social media
+ACT_MENYS_GRAT				519	Altres tipus d'activitats relacionades amb la vida social, especificades o no	Otras actividades sociales 	Other or unspecified social life
+ACT_MENYS_GRAT				521	Cinema	Cine	Cinema
+ACT_MENYS_GRAT				522	Teatre i concerts	Teatro y conciertos	Theatre and concerts
+ACT_MENYS_GRAT				523	Exposicions d'art i museus	Exposiciones de arte y museos	Art exhibitions and museums
+ACT_MENYS_GRAT				524	Biblioteques	Bibliotecas	Library
+ACT_MENYS_GRAT				525	Assistència a espectacles esportius	Asistencia a eventos deportivos	Attending live sports events
+ACT_MENYS_GRAT				526	Zoològics, jardins botànics, reserves naturals, etc	Zoológicos, jardines botánicos y reservas naturales	Zoos, botanical gardens, natural reserves, etc.
+ACT_MENYS_GRAT				529	Altres tipus de diversions i actes culturals, especificats o no	Otras actividades culturales y de entretenimiento	Other or unspecified entertainment and culture
+ACT_MENYS_GRAT				531	Oci passiu, temps mort	Ocio pasivo y tiempo muerto	Resting - time out
+ACT_MENYS_GRAT				611	Caminar ,passejar, senderisme	Caminar, pasear y hacer senderismo	Walking and hiking
+ACT_MENYS_GRAT				612	Córrer	Correr	Jogging and running
+ACT_MENYS_GRAT				613	Ciclisme, esquí i patinatge	Ciclismo, esquí y patinaje	Cycling, skiing and skating
+ACT_MENYS_GRAT				614	Esports amb pilota	Deportes de pelota	Ball games
+ACT_MENYS_GRAT				615	Gimnàstica, condicionament físic i culturisme	Gimnasia y fitnes	Gymnastics and fitness
+ACT_MENYS_GRAT				616	Esports aquàtics	Deportes acuáticos	Water sports
+ACT_MENYS_GRAT				619	Altres  activitats d’exercici físic, especificades o no	Otros deportes o actividades al aire libre	Other or unspecified sports or outdoor activities
+ACT_MENYS_GRAT				621	Exercici productiu (caçar; pescar i collir bolets, mores, espàrrecs i altres fruits i plantes)	Ejercicio productivo (cazar, pescar, recoger setas, moras, espárragos, etc.)	Productive exercise (e.g. hunting, fishing, picking berries, mushrooms or herbs)
+ACT_MENYS_GRAT				631	Activitats relacionades amb els esports	Actividades relacionadas con los deportes	Sports related activities
+ACT_MENYS_GRAT				711	Arts (visuals, de l’espectacle, literàries)	Artes visuales, escénicas y literarias	Arts (visual, performing, literary)
+ACT_MENYS_GRAT				712	Col·leccionisme	Coleccionismo	Collecting
+ACT_MENYS_GRAT				713	Elaboració de productes artesans	Elaboración de productos artesanos	Making handicraft products
+ACT_MENYS_GRAT				719	Altres arts i aficions, especificades o no	Otras aficiones artísticas	Other or unspecified hobbies
+ACT_MENYS_GRAT				721	Programació informàtica	Programación informática	Computing
+ACT_MENYS_GRAT				722	Cerca d'informació a internet	Búsqueda de información en internet	Information search using internet
+ACT_MENYS_GRAT				729	Altres tipus d'activitats relacionades amb la informàtica, especificades o no	Otras actividades informáticas	Other or unspecified computing
+ACT_MENYS_GRAT				731	Jocs en solitari i apostes	Juegos en solitario y apuestas	Solo games and play, gambling
+ACT_MENYS_GRAT				732	Jocs de societat	Juegos de sociedad	Parlour games and play
+ACT_MENYS_GRAT				733	Jocs informàtics (ordinador)	Juegos de ordenador	Computer games
+ACT_MENYS_GRAT				734	Jocs de consola (domèstica)	Juegos de consola	Console games (on home console)
+ACT_MENYS_GRAT				735	Jocs per a mòbils (dispositius de mà / telèfons intel·ligents)	Juegos para móviles y tabletas	Mobile games (on handheld device/ smartphone)
+ACT_MENYS_GRAT				739	Altres tipus de jocs, especificats o no	Otros juegos	Other or unspecified games
+ACT_MENYS_GRAT				811	Lectura de premsa	Prensa y revistas	Reading periodicals
+ACT_MENYS_GRAT				812	Lectura de llibres	Libros	Reading books
+ACT_MENYS_GRAT				819	Altres tipus de lectura, especificats o no	Otros tipos de lectura	Other or unspecified reading
+ACT_MENYS_GRAT				821	Mirar la televisió, el vídeo o el DVD	Ver la televisión, vídeos o DVD	Watching TV, video or DVD
+ACT_MENYS_GRAT				831	Escoltar la ràdio, música o gravacions	Escuchar la radio, música o grabaciones	Listening to radio or recordings
+ACT_MENYS_GRAT				910	Trajectes a la feina o des de la feina	Trayectos para ir y volver del trabajo	Travel to/ from work
+ACT_MENYS_GRAT				920	Trajectes deguts a estudis	Trayectos relacionados con los estudios	Travel related to study
+ACT_MENYS_GRAT				936	Trajectes deguts a les compres i serveis 	Trayectos relacionados con las compras y los servicios	Travel related to shopping and services
+ACT_MENYS_GRAT				938	Trajectes deguts a l'atenció dels infants membres de la llar 	Trayectos relacionados con el cuidado de los niños del hogar	Travel related to childcare
+ACT_MENYS_GRAT				939	Trajectes deguts a l'atenció d’altres cures de la llar	Trayectos relacionados con el cuidado de otros miembros del hogar	Travel related to other household care
+ACT_MENYS_GRAT				940	Trajectes per al treball voluntari i per a les reunions	Trayectos relacionados con el voluntariado y ayudas altruistas	Travel related to voluntary work and meetings
+ACT_MENYS_GRAT				950	Trajectes deguts a les activitats relacionades amb la vida social	Trayectos relacionados con la vida social	Travel related to social life
+ACT_MENYS_GRAT				960	Trajectes deguts a altres activitats de temps lliure	Trayectos relacionados con otras actividades de ocio	Travel related to other leisure
+ACT_MENYS_GRAT				980	Trajectes deguts a canvis de municipi	Trayectos para ir de un municipio a otro	Travel related to changing locality
+ACT_MENYS_GRAT				900	Altres trajectes amb una altra finalitat, especificada o no	Otros trayectos con fines distintos	Other or unspecified travel purpose
+ACT_MENYS_GRAT				995	Emplenar l'enquesta de l'ús del temps	Rellenar el diario de uso del tiempo	Filling in the time use diary
+ACT_MENYS_GRAT				998	Temps lliure no especificat	Tiempo libre no especificado	Unspecified leisure time
+ACT_MENYS_GRAT				999	Un altre ús del temps no especificat	Otro uso del tiempo no especificado	Other unspecified time use
+ACT_MENYS_GRAT				000	No ho sap / No contesta	No lo sabe / No contesta	Don't know / No answer
+ACT_ESTRES	Quina ha estat l'activitat principal més estressant descrita al diari?	¿Cuál ha sido la actividad principal más estresante descrita en el diario?	Which main activity described in the diary has been the most stressful?				
+ACT_ESTRES				011	Dormir	Dormir	Sleeping
+ACT_ESTRES				012	Malalt enllitat	Enfermo en cama	Sick in bed
+ACT_ESTRES				021	Àpats i begudes	Comer y beber	Eating
+ACT_ESTRES				031	Higiene i vestir	Higiene personal y vestirse	Washing and dressing
+ACT_ESTRES				032	Servei de cura personal	Salud y bienestar	Personal care services
+ACT_ESTRES				039	Altres cures personals, especificades o no	Otros cuidados personales no especificados	Other or unspecified personal care
+ACT_ESTRES				111	Treball principal i secundari (inclou petits descansos i desplaçaments o viatges per assumptes laborals) 	Trabajo principal y secundario (incluye pequeños descansos y desplazamientos o viajes por asuntos laborales)	Working time in main and second job (including short breaks and travel at work)
+ACT_ESTRES				121	Descans per menjar	Descanso para comer	Lunch break in main and second jobs
+ACT_ESTRES				129	Altres activitats relacionades amb el treball, especificades o no	Otras actividades relacionadas con el trabajo remunerado	Other or unspecified activities related to employment
+ACT_ESTRES				211	Classes, cursos i conferències	Clases, cursos y conferencias	Classes and lectures
+ACT_ESTRES				212	Deures i biblioteca	Deberes, trabajos y biblioteca	Homework
+ACT_ESTRES				213	Pràctiques	Prácticas	Internship
+ACT_ESTRES				214	Descans  a l’escola, institut, universitat	Descansos entre clases	Breaks at school/ university
+ACT_ESTRES				215	Classes extra curriculars	Clases extraescolares y extracurriculares	Extracurricular classes
+ACT_ESTRES				219	Altres activitats relacionades amb l’estudi, especificades o no	Otras actividades relacionadas con los estudios y la formación	Other/ unspecified activities related to study
+ACT_ESTRES				221	Estudis durant el temps lliure	Formación durante el tiempo libre	Free time study
+ACT_ESTRES				311	Preparació i cuina d'àpats i forneix d’aliments 	Cocinar y preparar la comida	Food preparation and baking
+ACT_ESTRES				312	Rentar els plats	Lavar los platos	Dish washing
+ACT_ESTRES				313	Ordenar, emmagatzemar i conservació d’aliments	Ordenar y conservar alimentos	Storing, arranging, preserving food stocks
+ACT_ESTRES				321	Neteja de l'habitatge	Limpiar la casa	Cleaning dwelling
+ACT_ESTRES				322	Neteja del pati i d'altres parts exteriors de l'habitatge	Limpiar el patio y las zonas exteriores	Cleaning garden
+ACT_ESTRES				323	Calefacció i subministrament d'aigua	Calefacción y suministro de agua	Heating dwelling and water
+ACT_ESTRES				324	Tasques diverses d’organització 	Tareas de organización	Arranging household goods and materials
+ACT_ESTRES				325	Reciclatge i eliminació de deixalles	Reciclaje y basura	Recycling and disposal of waste
+ACT_ESTRES				329	Altres tipus de manteniment de la llar, especificats o no	Otras tareas de mantenimiento del hogar	Other or unspecified household upkeep
+ACT_ESTRES				331	Bugada	Lavar la ropa	Laundry
+ACT_ESTRES				332	Planxada	Planchar la ropa	Ironing
+ACT_ESTRES				339	Altres activitats de preparació de la roba, especificades o no	Otras tareas de confección y cuidado de la ropa	Other or unspecified textile care
+ACT_ESTRES				341	Jardineria	Jardinería	Gardening
+ACT_ESTRES				342	Atenció d'animals domèstics	Cuidar animales de granja	Tending domestic animals
+ACT_ESTRES				343	Atenció de mascotes 	Cuidar animales de compañía	Caring for pets
+ACT_ESTRES				344	Passejar el gos	Pasear al perro	Walking the dog
+ACT_ESTRES				349	Altres activitats de jardineria i atenció d'animals, especificades o no	Otras actividades de jardinería y animales	Other or unspecified gardening and pet care
+ACT_ESTRES				351	Construcció i reforma de l'habitatge	Construcción y reforma de la vivienda	House construction and renovation
+ACT_ESTRES				352	Reparacions de l'habitatge	Reparaciones de la vivienda	Repairs to dwelling
+ACT_ESTRES				353	Fabricació, reparació i manteniment de l'equipament de la llar	Fabricación, reparación y mantenimiento del equipamiento del hogar	Making, repairing and maintaining equipment
+ACT_ESTRES				354	Manteniment de vehicles	Mantenimiento de vehículos	Vehicle maintenance
+ACT_ESTRES				359	Altres activitats de construcció i reparacions, especificades o no	Otras actividades de construcción y reparaciones	Other or unspecified construction and repairs
+ACT_ESTRES				361	Compres	Compras	Shopping (including online/ e-shopping)
+ACT_ESTRES				362	Serveis comercials i administratius	Gestiones comerciales y administrativas	Commercial and administrative services
+ACT_ESTRES				369	Altres compres i serveis, especificats o no	Otras gestiones relacionadas con las compras y los servicios	Other or unspecified shopping and services
+ACT_ESTRES				371	Gestions de la llar	Gestiones del hogar	Household management
+ACT_ESTRES				381	Cures personals i supervisió d’infants	Cuidar y vigilar a los niños	Physical care and supervision of child
+ACT_ESTRES				382	Ensenyar als infants	Enseñar conocimientos a los niños	Teaching the child
+ACT_ESTRES				383	Jugar, llegir i parlar amb els infants	Jugar, leer y hablar con los niños	Reading, playing and talking with child
+ACT_ESTRES				384	Acompanyar els infants	Acompañar a los niños a algún lugar	Accompanying child
+ACT_ESTRES				389	Altres tipus d'atencions dels infants, especificades o no	Otros tipos de asistencia a los niños del hogar	Other or unspecified childcare
+ACT_ESTRES				391	Cures personals a adults membres de la llar	Cuidar a los adultos del hogar	Physical care of an adult household member
+ACT_ESTRES				392	Altres tipus d'atencions a adults membres de la llar 	Otros tipos de asistencia a los adultos del hogar	Other support to an adult household member
+ACT_ESTRES				411	Treballs al servei d'una organització ( Treball mitjançant una/ o per a una organització)	Voluntariado en una organización (de forma directa o indirecta)	Organisational work (work for or through an organisation)
+ACT_ESTRES				421	Ajudes a la construcció i les reparacions	En la construcción y las reparaciones	Construction and repairs as help
+ACT_ESTRES				422	Ajudes al treball i a l'agricultura	En las tareas agrícolas, ganaderas o de oficina, etc.	Help in employment and farming
+ACT_ESTRES				423	Atenció de fills que viuen en una altra llar 	En el cuidado de los hijos que viven en otro hogar	Care of own children living in another household
+ACT_ESTRES				424	Ajudes a l'atenció d’infants d'altres llars	En el cuidado de niños que viven en otros hogares	Childcare as help to another household
+ACT_ESTRES				425	Ajudes a adults d'altres llars	En el cuidado de los adultos de otros hogares	Help to an adult person of another household
+ACT_ESTRES				429	Altres tipus d'ajudes informals, especificades o no a altres llars	Otras ayudas informales en otros hogares	Other/ unspecified informal help to another household
+ACT_ESTRES				431	Reunions	Reuniones y encuentros	Meetings
+ACT_ESTRES				432	Pràctiques religioses	Prácticas religiosas	Religious activities
+ACT_ESTRES				433	Visites al cementiri i cura de les tombes	Visitas al cementerio y cuidado de las tumbas	Visits to cemetery and grave care
+ACT_ESTRES				439	Altres activitats participatives, especificades o no	Otras actividades participativas y religiosas	Other or unspecified participatory activities
+ACT_ESTRES				511	Vida social en família	Vida social en familia	Socialising with family
+ACT_ESTRES				512	Fer i rebre visites	Visitar a alguien y recibir visitas en casa	Visiting and receiving visitors
+ACT_ESTRES				513	Festes i celebracions	Fiestas y celebraciones	Celebrations
+ACT_ESTRES				514	Converses amb àudio i vídeo	Conversaciones de audio o vídeo	Audio and video conversation
+ACT_ESTRES				515	Comunicació per missatgeria de text (SMS, missatgeria instantània, correu electrònic,...)	Comunicación por mensajes de texto	Communication by text messaging (SMS, instant messages, email, etc.)
+ACT_ESTRES				516	Temps dedicat a xarxes socials	Redes sociales	Time spent on social media
+ACT_ESTRES				519	Altres tipus d'activitats relacionades amb la vida social, especificades o no	Otras actividades sociales 	Other or unspecified social life
+ACT_ESTRES				521	Cinema	Cine	Cinema
+ACT_ESTRES				522	Teatre i concerts	Teatro y conciertos	Theatre and concerts
+ACT_ESTRES				523	Exposicions d'art i museus	Exposiciones de arte y museos	Art exhibitions and museums
+ACT_ESTRES				524	Biblioteques	Bibliotecas	Library
+ACT_ESTRES				525	Assistència a espectacles esportius	Asistencia a eventos deportivos	Attending live sports events
+ACT_ESTRES				526	Zoològics, jardins botànics, reserves naturals, etc	Zoológicos, jardines botánicos y reservas naturales	Zoos, botanical gardens, natural reserves, etc.
+ACT_ESTRES				529	Altres tipus de diversions i actes culturals, especificats o no	Otras actividades culturales y de entretenimiento	Other or unspecified entertainment and culture
+ACT_ESTRES				531	Oci passiu, temps mort	Ocio pasivo y tiempo muerto	Resting - time out
+ACT_ESTRES				611	Caminar ,passejar, senderisme	Caminar, pasear y hacer senderismo	Walking and hiking
+ACT_ESTRES				612	Córrer	Correr	Jogging and running
+ACT_ESTRES				613	Ciclisme, esquí i patinatge	Ciclismo, esquí y patinaje	Cycling, skiing and skating
+ACT_ESTRES				614	Esports amb pilota	Deportes de pelota	Ball games
+ACT_ESTRES				615	Gimnàstica, condicionament físic i culturisme	Gimnasia y fitnes	Gymnastics and fitness
+ACT_ESTRES				616	Esports aquàtics	Deportes acuáticos	Water sports
+ACT_ESTRES				619	Altres  activitats d’exercici físic, especificades o no	Otros deportes o actividades al aire libre	Other or unspecified sports or outdoor activities
+ACT_ESTRES				621	Exercici productiu (caçar; pescar i collir bolets, mores, espàrrecs i altres fruits i plantes)	Ejercicio productivo (cazar, pescar, recoger setas, moras, espárragos, etc.)	Productive exercise (e.g. hunting, fishing, picking berries, mushrooms or herbs)
+ACT_ESTRES				631	Activitats relacionades amb els esports	Actividades relacionadas con los deportes	Sports related activities
+ACT_ESTRES				711	Arts (visuals, de l’espectacle, literàries)	Artes visuales, escénicas y literarias	Arts (visual, performing, literary)
+ACT_ESTRES				712	Col·leccionisme	Coleccionismo	Collecting
+ACT_ESTRES				713	Elaboració de productes artesans	Elaboración de productos artesanos	Making handicraft products
+ACT_ESTRES				719	Altres arts i aficions, especificades o no	Otras aficiones artísticas	Other or unspecified hobbies
+ACT_ESTRES				721	Programació informàtica	Programación informática	Computing
+ACT_ESTRES				722	Cerca d'informació a internet	Búsqueda de información en internet	Information search using internet
+ACT_ESTRES				729	Altres tipus d'activitats relacionades amb la informàtica, especificades o no	Otras actividades informáticas	Other or unspecified computing
+ACT_ESTRES				731	Jocs en solitari i apostes	Juegos en solitario y apuestas	Solo games and play, gambling
+ACT_ESTRES				732	Jocs de societat	Juegos de sociedad	Parlour games and play
+ACT_ESTRES				733	Jocs informàtics (ordinador)	Juegos de ordenador	Computer games
+ACT_ESTRES				734	Jocs de consola (domèstica)	Juegos de consola	Console games (on home console)
+ACT_ESTRES				735	Jocs per a mòbils (dispositius de mà / telèfons intel·ligents)	Juegos para móviles y tabletas	Mobile games (on handheld device/ smartphone)
+ACT_ESTRES				739	Altres tipus de jocs, especificats o no	Otros juegos	Other or unspecified games
+ACT_ESTRES				811	Lectura de premsa	Prensa y revistas	Reading periodicals
+ACT_ESTRES				812	Lectura de llibres	Libros	Reading books
+ACT_ESTRES				819	Altres tipus de lectura, especificats o no	Otros tipos de lectura	Other or unspecified reading
+ACT_ESTRES				821	Mirar la televisió, el vídeo o el DVD	Ver la televisión, vídeos o DVD	Watching TV, video or DVD
+ACT_ESTRES				831	Escoltar la ràdio, música o gravacions	Escuchar la radio, música o grabaciones	Listening to radio or recordings
+ACT_ESTRES				910	Trajectes a la feina o des de la feina	Trayectos para ir y volver del trabajo	Travel to/ from work
+ACT_ESTRES				920	Trajectes deguts a estudis	Trayectos relacionados con los estudios	Travel related to study
+ACT_ESTRES				936	Trajectes deguts a les compres i serveis 	Trayectos relacionados con las compras y los servicios	Travel related to shopping and services
+ACT_ESTRES				938	Trajectes deguts a l'atenció dels infants membres de la llar 	Trayectos relacionados con el cuidado de los niños del hogar	Travel related to childcare
+ACT_ESTRES				939	Trajectes deguts a l'atenció d’altres cures de la llar	Trayectos relacionados con el cuidado de otros miembros del hogar	Travel related to other household care
+ACT_ESTRES				940	Trajectes per al treball voluntari i per a les reunions	Trayectos relacionados con el voluntariado y ayudas altruistas	Travel related to voluntary work and meetings
+ACT_ESTRES				950	Trajectes deguts a les activitats relacionades amb la vida social	Trayectos relacionados con la vida social	Travel related to social life
+ACT_ESTRES				960	Trajectes deguts a altres activitats de temps lliure	Trayectos relacionados con otras actividades de ocio	Travel related to other leisure
+ACT_ESTRES				980	Trajectes deguts a canvis de municipi	Trayectos para ir de un municipio a otro	Travel related to changing locality
+ACT_ESTRES				900	Altres trajectes amb una altra finalitat, especificada o no	Otros trayectos con fines distintos	Other or unspecified travel purpose
+ACT_ESTRES				995	Emplenar l'enquesta de l'ús del temps	Rellenar el diario de uso del tiempo	Filling in the time use diary
+ACT_ESTRES				998	Temps lliure no especificat	Tiempo libre no especificado	Unspecified leisure time
+ACT_ESTRES				999	Un altre ús del temps no especificat	Otro uso del tiempo no especificado	Other unspecified time use
+ACT_ESTRES				000	No ho sap / No contesta	No lo sabe / No contesta	Don't know / No answer
+DIA	Com definiria el seu dia?	¿Cómo definiría su día?	How would you describe your day?				
+DIA				1	Molt agradable	Muy agradable	
+DIA				2	Agradable	Agradable	
+DIA				3	Ni agradable ni desagradable	Ni agradable ni desagradable	
+DIA				4	Desagradable	Desagradable	
+DIA				5	Molt desagradable	Muy desagradable	
+TIPUS_DIA	Com considera que ha estat el seu dia?	¿Cómo considera que ha sido su día?	How do you think your day was?				
+TIPUS_DIA				1	Dia habitual	Día habitual	Usual day
+TIPUS_DIA				2	Dia inusual	Día inusual	Unusual day
+FE_diaris	Factor d'elevació diaris d'activitat						

@@ -1,0 +1,400 @@
+Variable	DescrCA	DescrES	DescrEN	Valor_Value	LabelCA	LabelES	LabelEN
+IDLLAR	Identificador únic de la llar	Identificador único del hogar	Unique household identifier				
+IDPERSONA	Identificador únic de la  persona dins de la llar	Identificador único de la persona dentro del hogar	Unique identifier of the person within the household				
+TRAM_HORARI	Hora. Interval de 10 minuts	Hora. Intervalo de 10 minutos	Time. 10-minute interval				
+TRAM_HORARI				1	Interval: 0:00-0:10	Intervalo: 0:00-0:10	Interval: 0:00-0:10
+TRAM_HORARI				2	Interval: 0:10-0:20	Intervalo: 0:10-0:20	Interval: 0:10-0:20
+TRAM_HORARI				3	Interval: 0:20-0:30	Intervalo: 0:20-0:30	Interval: 0:20-0:30
+TRAM_HORARI				4	Interval: 0:30-0:40	Intervalo: 0:30-0:40	Interval: 0:30-0:40
+TRAM_HORARI				5	Interval: 0:40-0:50	Intervalo: 0:40-0:50	Interval: 0:40-0:50
+TRAM_HORARI				6	Interval: 0:50-1:00	Intervalo: 0:50-1:00	Interval: 0:50-1:00
+TRAM_HORARI				7	Interval: 1:00-1:10	Intervalo: 1:00-1:10	Interval: 1:00-1:10
+TRAM_HORARI				8	Interval: 1:10-1:20	Intervalo: 1:10-1:20	Interval: 1:10-1:20
+TRAM_HORARI				9	Interval: 1:20-1:30	Intervalo: 1:20-1:30	Interval: 1:20-1:30
+TRAM_HORARI				10	Interval: 1:30-1:40	Intervalo: 1:30-1:40	Interval: 1:30-1:40
+TRAM_HORARI				11	Interval: 1:40-1:50	Intervalo: 1:40-1:50	Interval: 1:40-1:50
+TRAM_HORARI				12	Interval: 1:50-2:00	Intervalo: 1:50-2:00	Interval: 1:50-2:00
+TRAM_HORARI				13	Interval: 2:00-2:10	Intervalo: 2:00-2:10	Interval: 2:00-2:10
+TRAM_HORARI				14	Interval: 2:10-2:20	Intervalo: 2:10-2:20	Interval: 2:10-2:20
+TRAM_HORARI				15	Interval: 2:20-2:30	Intervalo: 2:20-2:30	Interval: 2:20-2:30
+TRAM_HORARI				16	Interval: 2:30-2:40	Intervalo: 2:30-2:40	Interval: 2:30-2:40
+TRAM_HORARI				17	Interval: 2:40-2:50	Intervalo: 2:40-2:50	Interval: 2:40-2:50
+TRAM_HORARI				18	Interval: 2:50-3:00	Intervalo: 2:50-3:00	Interval: 2:50-3:00
+TRAM_HORARI				19	Interval: 3:00-3:10	Intervalo: 3:00-3:10	Interval: 3:00-3:10
+TRAM_HORARI				20	Interval: 3:10-3:20	Intervalo: 3:10-3:20	Interval: 3:10-3:20
+TRAM_HORARI				21	Interval: 3:20-3:30	Intervalo: 3:20-3:30	Interval: 3:20-3:30
+TRAM_HORARI				22	Interval: 3:30-3:40	Intervalo: 3:30-3:40	Interval: 3:30-3:40
+TRAM_HORARI				23	Interval: 3:40-3:50	Intervalo: 3:40-3:50	Interval: 3:40-3:50
+TRAM_HORARI				24	Interval: 3:50-4:00	Intervalo: 3:50-4:00	Interval: 3:50-4:00
+TRAM_HORARI				25	Interval: 4:00-4:10	Intervalo: 4:00-4:10	Interval: 4:00-4:10
+TRAM_HORARI				26	Interval: 4:10-4:20	Intervalo: 4:10-4:20	Interval: 4:10-4:20
+TRAM_HORARI				27	Interval: 4:20-4:30	Intervalo: 4:20-4:30	Interval: 4:20-4:30
+TRAM_HORARI				28	Interval: 4:30-4:40	Intervalo: 4:30-4:40	Interval: 4:30-4:40
+TRAM_HORARI				29	Interval: 4:40-4:50	Intervalo: 4:40-4:50	Interval: 4:40-4:50
+TRAM_HORARI				30	Interval: 4:50-5:00	Intervalo: 4:50-5:00	Interval: 4:50-5:00
+TRAM_HORARI				31	Interval: 5:00-5:10	Intervalo: 5:00-5:10	Interval: 5:00-5:10
+TRAM_HORARI				32	Interval: 5:10-5:20	Intervalo: 5:10-5:20	Interval: 5:10-5:20
+TRAM_HORARI				33	Interval: 5:20-5:30	Intervalo: 5:20-5:30	Interval: 5:20-5:30
+TRAM_HORARI				34	Interval: 5:30-5:40	Intervalo: 5:30-5:40	Interval: 5:30-5:40
+TRAM_HORARI				35	Interval: 5:40-5:50	Intervalo: 5:40-5:50	Interval: 5:40-5:50
+TRAM_HORARI				36	Interval: 5:50-6:00	Intervalo: 5:50-6:00	Interval: 5:50-6:00
+TRAM_HORARI				37	Interval: 6:00-6:10	Intervalo: 6:00-6:10	Interval: 6:00-6:10
+TRAM_HORARI				38	Interval: 6:10-6:20	Intervalo: 6:10-6:20	Interval: 6:10-6:20
+TRAM_HORARI				39	Interval: 6:20-6:30	Intervalo: 6:20-6:30	Interval: 6:20-6:30
+TRAM_HORARI				40	Interval: 6:30-6:40	Intervalo: 6:30-6:40	Interval: 6:30-6:40
+TRAM_HORARI				41	Interval: 6:40-6:50	Intervalo: 6:40-6:50	Interval: 6:40-6:50
+TRAM_HORARI				42	Interval: 6:50-7:00	Intervalo: 6:50-7:00	Interval: 6:50-7:00
+TRAM_HORARI				43	Interval: 7:00-7:10	Intervalo: 7:00-7:10	Interval: 7:00-7:10
+TRAM_HORARI				44	Interval: 7:10-7:20	Intervalo: 7:10-7:20	Interval: 7:10-7:20
+TRAM_HORARI				45	Interval: 7:20-7:30	Intervalo: 7:20-7:30	Interval: 7:20-7:30
+TRAM_HORARI				46	Interval: 7:30-7:40	Intervalo: 7:30-7:40	Interval: 7:30-7:40
+TRAM_HORARI				47	Interval: 7:40-7:50	Intervalo: 7:40-7:50	Interval: 7:40-7:50
+TRAM_HORARI				48	Interval: 7:50-8:00	Intervalo: 7:50-8:00	Interval: 7:50-8:00
+TRAM_HORARI				49	Interval: 8:00-8:10	Intervalo: 8:00-8:10	Interval: 8:00-8:10
+TRAM_HORARI				50	Interval: 8:10-8:20	Intervalo: 8:10-8:20	Interval: 8:10-8:20
+TRAM_HORARI				51	Interval: 8:20-8:30	Intervalo: 8:20-8:30	Interval: 8:20-8:30
+TRAM_HORARI				52	Interval: 8:30-8:40	Intervalo: 8:30-8:40	Interval: 8:30-8:40
+TRAM_HORARI				53	Interval: 8:40-8:50	Intervalo: 8:40-8:50	Interval: 8:40-8:50
+TRAM_HORARI				54	Interval: 8:50-9:00	Intervalo: 8:50-9:00	Interval: 8:50-9:00
+TRAM_HORARI				55	Interval: 9:00-9:10	Intervalo: 9:00-9:10	Interval: 9:00-9:10
+TRAM_HORARI				56	Interval: 9:10-9:20	Intervalo: 9:10-9:20	Interval: 9:10-9:20
+TRAM_HORARI				57	Interval: 9:20-9:30	Intervalo: 9:20-9:30	Interval: 9:20-9:30
+TRAM_HORARI				58	Interval: 9:30-9:40	Intervalo: 9:30-9:40	Interval: 9:30-9:40
+TRAM_HORARI				59	Interval: 9:40-9:50	Intervalo: 9:40-9:50	Interval: 9:40-9:50
+TRAM_HORARI				60	Interval: 9:50-10:00	Intervalo: 9:50-10:00	Interval: 9:50-10:00
+TRAM_HORARI				61	Interval: 10:00-10:10	Intervalo: 10:00-10:10	Interval: 10:00-10:10
+TRAM_HORARI				62	Interval: 10:10-10:20	Intervalo: 10:10-10:20	Interval: 10:10-10:20
+TRAM_HORARI				63	Interval: 10:20-10:30	Intervalo: 10:20-10:30	Interval: 10:20-10:30
+TRAM_HORARI				64	Interval: 10:30-10:40	Intervalo: 10:30-10:40	Interval: 10:30-10:40
+TRAM_HORARI				65	Interval: 10:40-10:50	Intervalo: 10:40-10:50	Interval: 10:40-10:50
+TRAM_HORARI				66	Interval: 10:50-11:00	Intervalo: 10:50-11:00	Interval: 10:50-11:00
+TRAM_HORARI				67	Interval: 11:00-11:10	Intervalo: 11:00-11:10	Interval: 11:00-11:10
+TRAM_HORARI				68	Interval: 11:10-11:20	Intervalo: 11:10-11:20	Interval: 11:10-11:20
+TRAM_HORARI				69	Interval: 11:20-11:30	Intervalo: 11:20-11:30	Interval: 11:20-11:30
+TRAM_HORARI				70	Interval: 11:30-11:40	Intervalo: 11:30-11:40	Interval: 11:30-11:40
+TRAM_HORARI				71	Interval: 11:40-11:50	Intervalo: 11:40-11:50	Interval: 11:40-11:50
+TRAM_HORARI				72	Interval: 11:50-12:00	Intervalo: 11:50-12:00	Interval: 11:50-12:00
+TRAM_HORARI				73	Interval: 12:00-12:10	Intervalo: 12:00-12:10	Interval: 12:00-12:10
+TRAM_HORARI				74	Interval: 12:10-12:20	Intervalo: 12:10-12:20	Interval: 12:10-12:20
+TRAM_HORARI				75	Interval: 12:20-12:30	Intervalo: 12:20-12:30	Interval: 12:20-12:30
+TRAM_HORARI				76	Interval: 12:30-12:40	Intervalo: 12:30-12:40	Interval: 12:30-12:40
+TRAM_HORARI				77	Interval: 12:40-12:50	Intervalo: 12:40-12:50	Interval: 12:40-12:50
+TRAM_HORARI				78	Interval: 12:50-13:00	Intervalo: 12:50-13:00	Interval: 12:50-13:00
+TRAM_HORARI				79	Interval: 13:00-13:10	Intervalo: 13:00-13:10	Interval: 13:00-13:10
+TRAM_HORARI				80	Interval: 13:10-13:20	Intervalo: 13:10-13:20	Interval: 13:10-13:20
+TRAM_HORARI				81	Interval: 13:20-13:30	Intervalo: 13:20-13:30	Interval: 13:20-13:30
+TRAM_HORARI				82	Interval: 13:30-13:40	Intervalo: 13:30-13:40	Interval: 13:30-13:40
+TRAM_HORARI				83	Interval: 13:40-13:50	Intervalo: 13:40-13:50	Interval: 13:40-13:50
+TRAM_HORARI				84	Interval: 13:50-14:00	Intervalo: 13:50-14:00	Interval: 13:50-14:00
+TRAM_HORARI				85	Interval: 14:00-14:10	Intervalo: 14:00-14:10	Interval: 14:00-14:10
+TRAM_HORARI				86	Interval: 14:10-14:20	Intervalo: 14:10-14:20	Interval: 14:10-14:20
+TRAM_HORARI				87	Interval: 14:20-14:30	Intervalo: 14:20-14:30	Interval: 14:20-14:30
+TRAM_HORARI				88	Interval: 14:30-14:40	Intervalo: 14:30-14:40	Interval: 14:30-14:40
+TRAM_HORARI				89	Interval: 14:40-14:50	Intervalo: 14:40-14:50	Interval: 14:40-14:50
+TRAM_HORARI				90	Interval: 14:50-15:00	Intervalo: 14:50-15:00	Interval: 14:50-15:00
+TRAM_HORARI				91	Interval: 15:00-15:10	Intervalo: 15:00-15:10	Interval: 15:00-15:10
+TRAM_HORARI				92	Interval: 15:10-15:20	Intervalo: 15:10-15:20	Interval: 15:10-15:20
+TRAM_HORARI				93	Interval: 15:20-15:30	Intervalo: 15:20-15:30	Interval: 15:20-15:30
+TRAM_HORARI				94	Interval: 15:30-15:40	Intervalo: 15:30-15:40	Interval: 15:30-15:40
+TRAM_HORARI				95	Interval: 15:40-15:50	Intervalo: 15:40-15:50	Interval: 15:40-15:50
+TRAM_HORARI				96	Interval: 15:50-16:00	Intervalo: 15:50-16:00	Interval: 15:50-16:00
+TRAM_HORARI				97	Interval: 16:00-16:10	Intervalo: 16:00-16:10	Interval: 16:00-16:10
+TRAM_HORARI				98	Interval: 16:10-16:20	Intervalo: 16:10-16:20	Interval: 16:10-16:20
+TRAM_HORARI				99	Interval: 16:20-16:30	Intervalo: 16:20-16:30	Interval: 16:20-16:30
+TRAM_HORARI				100	Interval: 16:30-16:40	Intervalo: 16:30-16:40	Interval: 16:30-16:40
+TRAM_HORARI				101	Interval: 16:40-16:50	Intervalo: 16:40-16:50	Interval: 16:40-16:50
+TRAM_HORARI				102	Interval: 16:50-17:00	Intervalo: 16:50-17:00	Interval: 16:50-17:00
+TRAM_HORARI				103	Interval: 17:00-17:10	Intervalo: 17:00-17:10	Interval: 17:00-17:10
+TRAM_HORARI				104	Interval: 17:10-17:20	Intervalo: 17:10-17:20	Interval: 17:10-17:20
+TRAM_HORARI				105	Interval: 17:20-17:30	Intervalo: 17:20-17:30	Interval: 17:20-17:30
+TRAM_HORARI				106	Interval: 17:30-17:40	Intervalo: 17:30-17:40	Interval: 17:30-17:40
+TRAM_HORARI				107	Interval: 17:40-17:50	Intervalo: 17:40-17:50	Interval: 17:40-17:50
+TRAM_HORARI				108	Interval: 17:50-18:00	Intervalo: 17:50-18:00	Interval: 17:50-18:00
+TRAM_HORARI				109	Interval: 18:00-18:10	Intervalo: 18:00-18:10	Interval: 18:00-18:10
+TRAM_HORARI				110	Interval: 18:10-18:20	Intervalo: 18:10-18:20	Interval: 18:10-18:20
+TRAM_HORARI				111	Interval: 18:20-18:30	Intervalo: 18:20-18:30	Interval: 18:20-18:30
+TRAM_HORARI				112	Interval: 18:30-18:40	Intervalo: 18:30-18:40	Interval: 18:30-18:40
+TRAM_HORARI				113	Interval: 18:40-18:50	Intervalo: 18:40-18:50	Interval: 18:40-18:50
+TRAM_HORARI				114	Interval: 18:50-19:00	Intervalo: 18:50-19:00	Interval: 18:50-19:00
+TRAM_HORARI				115	Interval: 19:00-19:10	Intervalo: 19:00-19:10	Interval: 19:00-19:10
+TRAM_HORARI				116	Interval: 19:10-19:20	Intervalo: 19:10-19:20	Interval: 19:10-19:20
+TRAM_HORARI				117	Interval: 19:20-19:30	Intervalo: 19:20-19:30	Interval: 19:20-19:30
+TRAM_HORARI				118	Interval: 19:30-19:40	Intervalo: 19:30-19:40	Interval: 19:30-19:40
+TRAM_HORARI				119	Interval: 19:40-19:50	Intervalo: 19:40-19:50	Interval: 19:40-19:50
+TRAM_HORARI				120	Interval: 19:50-20:00	Intervalo: 19:50-20:00	Interval: 19:50-20:00
+TRAM_HORARI				121	Interval: 20:00-20:10	Intervalo: 20:00-20:10	Interval: 20:00-20:10
+TRAM_HORARI				122	Interval: 20:10-20:20	Intervalo: 20:10-20:20	Interval: 20:10-20:20
+TRAM_HORARI				123	Interval: 20:20-20:30	Intervalo: 20:20-20:30	Interval: 20:20-20:30
+TRAM_HORARI				124	Interval: 20:30-20:40	Intervalo: 20:30-20:40	Interval: 20:30-20:40
+TRAM_HORARI				125	Interval: 20:40-20:50	Intervalo: 20:40-20:50	Interval: 20:40-20:50
+TRAM_HORARI				126	Interval: 20:50-21:00	Intervalo: 20:50-21:00	Interval: 20:50-21:00
+TRAM_HORARI				127	Interval: 21:00-21:10	Intervalo: 21:00-21:10	Interval: 21:00-21:10
+TRAM_HORARI				128	Interval: 21:10-21:20	Intervalo: 21:10-21:20	Interval: 21:10-21:20
+TRAM_HORARI				129	Interval: 21:20-21:30	Intervalo: 21:20-21:30	Interval: 21:20-21:30
+TRAM_HORARI				130	Interval: 21:30-21:40	Intervalo: 21:30-21:40	Interval: 21:30-21:40
+TRAM_HORARI				131	Interval: 21:40-21:50	Intervalo: 21:40-21:50	Interval: 21:40-21:50
+TRAM_HORARI				132	Interval: 21:50-22:00	Intervalo: 21:50-22:00	Interval: 21:50-22:00
+TRAM_HORARI				133	Interval: 22:00-22:10	Intervalo: 22:00-22:10	Interval: 22:00-22:10
+TRAM_HORARI				134	Interval: 22:10-22:20	Intervalo: 22:10-22:20	Interval: 22:10-22:20
+TRAM_HORARI				135	Interval: 22:20-22:30	Intervalo: 22:20-22:30	Interval: 22:20-22:30
+TRAM_HORARI				136	Interval: 22:30-22:40	Intervalo: 22:30-22:40	Interval: 22:30-22:40
+TRAM_HORARI				137	Interval: 22:40-22:50	Intervalo: 22:40-22:50	Interval: 22:40-22:50
+TRAM_HORARI				138	Interval: 22:50-23:00	Intervalo: 22:50-23:00	Interval: 22:50-23:00
+TRAM_HORARI				139	Interval: 23:00-23:10	Intervalo: 23:00-23:10	Interval: 23:00-23:10
+TRAM_HORARI				140	Interval: 23:10-23:20	Intervalo: 23:10-23:20	Interval: 23:10-23:20
+TRAM_HORARI				141	Interval: 23:20-23:30	Intervalo: 23:20-23:30	Interval: 23:20-23:30
+TRAM_HORARI				142	Interval: 23:30-23:40	Intervalo: 23:30-23:40	Interval: 23:30-23:40
+TRAM_HORARI				143	Interval: 23:40-23:50	Intervalo: 23:40-23:50	Interval: 23:40-23:50
+TRAM_HORARI				144	Interval: 23:50-0:00	Intervalo: 23:50-0:00	Interval: 23:50-0:00
+ACT_PRIN	Activitat principal	Actividad principal	Main activity				
+ACT_PRIN				011	Dormir	Dormir	Sleeping
+ACT_PRIN				012	Malalt enllitat	Enfermo en cama	Sick in bed
+ACT_PRIN				021	Menjar i beure	Comer y beber	Eating
+ACT_PRIN				031	Higiene personal i vestir-se	Higiene personal y vestirse	Washing and dressing
+ACT_PRIN				032	Salut i benestar	Salud y bienestar	Personal care services
+ACT_PRIN				039	Altres cures personals no especificades	Otros cuidados personales no especificados	Other or unspecified personal care
+ACT_PRIN				111	Treball principal i secundari (inclou petits descansos i desplaçaments o viatges per assumptes laborals) 	Trabajo principal y secundario (incluye pequeños descansos y desplazamientos o viajes por asuntos laborales)	Working time in main and second job (including short breaks and travel at work)
+ACT_PRIN				121	Descans per menjar	Descanso para comer	Lunch break in main and second jobs
+ACT_PRIN				129	Altres activitats relacionades amb el treball remunerat	Otras actividades relacionadas con el trabajo remunerado	Other or unspecified activities related to employment
+ACT_PRIN				211	Classes, cursos i conferències	Clases, cursos y conferencias	Classes and lectures
+ACT_PRIN				212	Deures, treballs i biblioteca	Deberes, trabajos y biblioteca	Homework
+ACT_PRIN				213	Pràctiques	Prácticas	Internship
+ACT_PRIN				214	Descansos entre classes	Descansos entre clases	Breaks at school/ university
+ACT_PRIN				215	Classes extraescolars i extracurriculars	Clases extraescolares y extracurriculares	Extracurricular classes
+ACT_PRIN				219	Altres activitats relacionades amb els estudis i la formació	Otras actividades relacionadas con los estudios y la formación	Other/ unspecified activities related to study
+ACT_PRIN				221	Formació durant el temps lliure	Formación durante el tiempo libre	Free time study
+ACT_PRIN				311	Cuinar i preparar el menjar	Cocinar y preparar la comida	Food preparation and baking
+ACT_PRIN				312	Rentar els plats	Lavar los platos	Dish washing
+ACT_PRIN				313	Endreçar i conservar aliments	Ordenar y conservar alimentos	Storing, arranging, preserving food stocks
+ACT_PRIN				321	Netejar la casa	Limpiar la casa	Cleaning dwelling
+ACT_PRIN				322	Netejar el pati i les zones exteriors	Limpiar el patio y las zonas exteriores	Cleaning garden
+ACT_PRIN				323	Calefacció i subministrament d'aigua	Calefacción y suministro de agua	Heating dwelling and water
+ACT_PRIN				324	Tasques d'organització 	Tareas de organización	Arranging household goods and materials
+ACT_PRIN				325	Reciclatge i escombraries	Reciclaje y basura	Recycling and disposal of waste
+ACT_PRIN				329	Altres tasques de manteniment de la llar	Otras tareas de mantenimiento del hogar	Other or unspecified household upkeep
+ACT_PRIN				331	Rentar la roba	Lavar la ropa	Laundry
+ACT_PRIN				332	Planxar la roba	Planchar la ropa	Ironing
+ACT_PRIN				339	Altres tasques de confecció i cura de la roba	Otras tareas de confección y cuidado de la ropa	Other or unspecified textile care
+ACT_PRIN				341	Jardineria	Jardinería	Gardening
+ACT_PRIN				342	Cuidar animals de granja	Cuidar animales de granja	Tending domestic animals
+ACT_PRIN				343	Cuidar animals de companyia	Cuidar animales de compañía	Caring for pets
+ACT_PRIN				344	Passejar el gos	Pasear al perro	Walking the dog
+ACT_PRIN				349	Altres activitats de jardineria i animals	Otras actividades de jardinería y animales	Other or unspecified gardening and pet care
+ACT_PRIN				351	Construcció i reforma de l'habitatge	Construcción y reforma de la vivienda	House construction and renovation
+ACT_PRIN				352	Reparacions de l'habitatge	Reparaciones de la vivienda	Repairs to dwelling
+ACT_PRIN				353	Fabricació, reparació i manteniment de l'equipament de la llar	Fabricación, reparación y mantenimiento del equipamiento del hogar	Making, repairing and maintaining equipment
+ACT_PRIN				354	Manteniment de vehicles	Mantenimiento de vehículos	Vehicle maintenance
+ACT_PRIN				359	Altres activitats de construcció i reparacions	Otras actividades de construcción y reparaciones	Other or unspecified construction and repairs
+ACT_PRIN				361	Compres	Compras	Shopping (including online/ e-shopping)
+ACT_PRIN				362	Gestions comercials i administratives	Gestiones comerciales y administrativas	Commercial and administrative services
+ACT_PRIN				369	Altres gestions relacionades amb les compres i els serveis	Otras gestiones relacionadas con las compras y los servicios	Other or unspecified shopping and services
+ACT_PRIN				371	Gestions de la llar	Gestiones del hogar	Household management
+ACT_PRIN				381	Cuidar i vigilar els infants	Cuidar y vigilar a los niños	Physical care and supervision of child
+ACT_PRIN				382	Ensenyar coneixements als infants 	Enseñar conocimientos a los niños	Teaching the child
+ACT_PRIN				383	Jugar, llegir i parlar amb els infants	Jugar, leer y hablar con los niños	Reading, playing and talking with child
+ACT_PRIN				384	Acompanyar els infants a algun lloc	Acompañar a los niños a algún lugar	Accompanying child
+ACT_PRIN				389	Altres tipus d'assitència als infants de la llar	Otros tipos de asistencia a los niños del hogar	Other or unspecified childcare
+ACT_PRIN				391	Cuidar els adults de la llar	Cuidar a los adultos del hogar	Physical care of an adult household member
+ACT_PRIN				392	Altres tipus d'assistència als adults  de la llar	Otros tipos de asistencia a los adultos del hogar	Other support to an adult household member
+ACT_PRIN				411	Voluntariat a una organització (de forma directa o indirecta)	Voluntariado en una organización (de forma directa o indirecta)	Organisational work (work for or through an organisation)
+ACT_PRIN				421	En la construcció i les reparacions	En la construcción y las reparaciones	Construction and repairs as help
+ACT_PRIN				422	En feines agrícoles, ramaderes o d'oficina, etc.	En las tareas agrícolas, ganaderas o de oficina, etc.	Help in employment and farming
+ACT_PRIN				423	En la cura dels fills que viuen a una altra llar	En el cuidado de los hijos que viven en otro hogar	Care of own children living in another household
+ACT_PRIN				424	En la cura d'infants que viuen a altres llars	En el cuidado de niños que viven en otros hogares	Childcare as help to another household
+ACT_PRIN				425	En la cura d'aduts d'altres llars	En el cuidado de los adultos de otros hogares	Help to an adult person of another household
+ACT_PRIN				429	Altres ajudes informals a altres llars	Otras ayudas informales en otros hogares	Other/ unspecified informal help to another household
+ACT_PRIN				431	Reunions i trobades	Reuniones y encuentros	Meetings
+ACT_PRIN				432	Pràctiques religioses	Prácticas religiosas	Religious activities
+ACT_PRIN				433	Visites al cementiri i cura de les tombes	Visitas al cementerio y cuidado de las tumbas	Visits to cemetery and grave care
+ACT_PRIN				439	Altres activitats participatives i religioses	Otras actividades participativas y religiosas	Other or unspecified participatory activities
+ACT_PRIN				511	Vida social en família	Vida social en familia	Socialising with family
+ACT_PRIN				512	Visitar algú i rebre visites a casa	Visitar a alguien y recibir visitas en casa	Visiting and receiving visitors
+ACT_PRIN				513	Festes i celebracions	Fiestas y celebraciones	Celebrations
+ACT_PRIN				514	Converses d'àudio o vídeo	Conversaciones de audio o vídeo	Audio and video conversation
+ACT_PRIN				515	Comunicació per missatges de text 	Comunicación por mensajes de texto	Communication by text messaging (SMS, instant messages, email, etc.)
+ACT_PRIN				516	Xarxes socials	Redes sociales	Time spent on social media
+ACT_PRIN				519	Altres activitats socials	Otras actividades sociales 	Other or unspecified social life
+ACT_PRIN				521	Cinema	Cine	Cinema
+ACT_PRIN				522	Teatre i concerts	Teatro y conciertos	Theatre and concerts
+ACT_PRIN				523	Exposicions d'art i museus	Exposiciones de arte y museos	Art exhibitions and museums
+ACT_PRIN				524	Biblioteques	Bibliotecas	Library
+ACT_PRIN				525	Assistència esdeveniments esportius	Asistencia a eventos deportivos	Attending live sports events
+ACT_PRIN				526	Zoològics, jardins botànics i reserves naturals	Zoológicos, jardines botánicos y reservas naturales	Zoos, botanical gardens, natural reserves, etc.
+ACT_PRIN				529	Altres activitats culturals i d'entreteniment	Otras actividades culturales y de entretenimiento	Other or unspecified entertainment and culture
+ACT_PRIN				531	Oci passiu i estones mortes	Ocio pasivo y tiempo muerto	Resting - time out
+ACT_PRIN				611	Caminar, passejar i fer senderisme	Caminar, pasear y hacer senderismo	Walking and hiking
+ACT_PRIN				612	Córrer	Correr	Jogging and running
+ACT_PRIN				613	Ciclisme, esquí i patinatge	Ciclismo, esquí y patinaje	Cycling, skiing and skating
+ACT_PRIN				614	Esports de pilota	Deportes de pelota	Ball games
+ACT_PRIN				615	Gimnàstica i fitnes	Gimnasia y fitnes	Gymnastics and fitness
+ACT_PRIN				616	Esports aquàtics	Deportes acuáticos	Water sports
+ACT_PRIN				619	Altres esports o activitats a l'aire lliure	Otros deportes o actividades al aire libre	Other or unspecified sports or outdoor activities
+ACT_PRIN				621	Exercici productiu (caçar, pescar, collir bolets, mores, espàrrecs, etc.)	Ejercicio productivo (cazar, pescar, recoger setas, moras, espárragos, etc.)	Productive exercise (e.g. hunting, fishing, picking berries, mushrooms or herbs)
+ACT_PRIN				631	Activitats relacionades amb els esports	Actividades relacionadas con los deportes	Sports related activities
+ACT_PRIN				711	Arts visuals, escèniques i literàries	Artes visuales, escénicas y literarias	Arts (visual, performing, literary)
+ACT_PRIN				712	Col·leccionisme	Coleccionismo	Collecting
+ACT_PRIN				713	Elaboració de productes artesans	Elaboración de productos artesanos	Making handicraft products
+ACT_PRIN				719	Altres aficions artístiques	Otras aficiones artísticas	Other or unspecified hobbies
+ACT_PRIN				721	Programació informàtica	Programación informática	Computing
+ACT_PRIN				722	Cerca d'informació a internet	Búsqueda de información en internet	Information search using internet
+ACT_PRIN				729	Altres activitats informàtiques	Otras actividades informáticas	Other or unspecified computing
+ACT_PRIN				731	Jocs en solitari i apostes	Juegos en solitario y apuestas	Solo games and play, gambling
+ACT_PRIN				732	Jocs de societat	Juegos de sociedad	Parlour games and play
+ACT_PRIN				733	Jocs d'ordinador	Juegos de ordenador	Computer games
+ACT_PRIN				734	Jocs de consola	Juegos de consola	Console games (on home console)
+ACT_PRIN				735	Jocs per a mòbils i tauletes	Juegos para móviles y tabletas	Mobile games (on handheld device/ smartphone)
+ACT_PRIN				739	Altres jocs	Otros juegos	Other or unspecified games
+ACT_PRIN				811	Premsa i revistes	Prensa y revistas	Reading periodicals
+ACT_PRIN				812	Llibres	Libros	Reading books
+ACT_PRIN				819	Altres tipus de lectura	Otros tipos de lectura	Other or unspecified reading
+ACT_PRIN				821	Mirar la televisió, vídeos o DVD	Ver la televisión, vídeos o DVD	Watching TV, video or DVD
+ACT_PRIN				831	Escoltar la ràdio, música o gravacions	Escuchar la radio, música o grabaciones	Listening to radio or recordings
+ACT_PRIN				910	Trajectes per anar a la feina i tornar	Trayectos para ir y volver del trabajo	Travel to/ from work
+ACT_PRIN				920	Trajectes relacionats amb els estudis	Trayectos relacionados con los estudios	Travel related to study
+ACT_PRIN				936	Trajectes relacionats amb les compres i els serveis	Trayectos relacionados con las compras y los servicios	Travel related to shopping and services
+ACT_PRIN				938	Trajectes relacionats amb la cura dels infants de la llar	Trayectos relacionados con el cuidado de los niños del hogar	Travel related to childcare
+ACT_PRIN				939	Trajectes relacionats amb la cura d'altres membres de la llar	Trayectos relacionados con el cuidado de otros miembros del hogar	Travel related to other household care
+ACT_PRIN				940	Trajectes relacionats amb el voluntariat i les ajudes altruistes	Trayectos relacionados con el voluntariado y ayudas altruistas	Travel related to voluntary work and meetings
+ACT_PRIN				950	Trajectes relacionats amb la vida social	Trayectos relacionados con la vida social	Travel related to social life
+ACT_PRIN				960	Trajectes relationats amb altres activitats de lleure	Trayectos relacionados con otras actividades de ocio	Travel related to other leisure
+ACT_PRIN				980	Trajectes per anar d'un municipi a un altre	Trayectos para ir de un municipio a otro	Travel related to changing locality
+ACT_PRIN				900	Altres trajectes amb finalitats diferents	Otros trayectos con fines distintos	Other or unspecified travel purpose
+ACT_PRIN				995	Emplenar el diari de l'ús del temps	Rellenar el diario de uso del tiempo	Filling in the time use diary
+ACT_PRIN				998	Temps lliure no especificat	Tiempo libre no especificado	Unspecified leisure time
+ACT_PRIN				999	Un altre ús del temps no especificat	Otro uso del tiempo no especificado	Other unspecified time use
+ACT_SEC	Activitat secundària	Actividad secundaria	Secondary activity				
+ACT_SEC				011	Dormir	Dormir	Sleeping
+ACT_SEC				012	Malalt enllitat	Enfermo en cama	Sick in bed
+ACT_SEC				021	Menjar i beure	Comer y beber	Eating
+ACT_SEC				031	Higiene personal i vestir-se	Higiene personal y vestirse	Washing and dressing
+ACT_SEC				032	Salut i benestar	Salud y bienestar	Personal care services
+ACT_SEC				039	Altres cures personals no especificades	Otros cuidados personales no especificados	Other or unspecified personal care
+ACT_SEC				111	Treball principal i secundari (inclou petits descansos i desplaçaments o viatges per assumptes laborals) 	Trabajo principal y secundario (incluye pequeños descansos y desplazamientos o viajes por asuntos laborales)	Working time in main and second job (including short breaks and travel at work)
+ACT_SEC				121	Descans per menjar	Descanso para comer	Lunch break in main and second jobs
+ACT_SEC				129	Altres activitats relacionades amb el treball remunerat	Otras actividades relacionadas con el trabajo remunerado	Other or unspecified activities related to employment
+ACT_SEC				211	Classes, cursos i conferències	Clases, cursos y conferencias	Classes and lectures
+ACT_SEC				212	Deures, treballs i biblioteca	Deberes, trabajos y biblioteca	Homework
+ACT_SEC				213	Pràctiques	Prácticas	Internship
+ACT_SEC				214	Descansos entre classes	Descansos entre clases	Breaks at school/ university
+ACT_SEC				215	Classes extraescolars i extracurriculars	Clases extraescolares y extracurriculares	Extracurricular classes
+ACT_SEC				219	Altres activitats relacionades amb els estudis i la formació	Otras actividades relacionadas con los estudios y la formación	Other/ unspecified activities related to study
+ACT_SEC				221	Formació durant el temps lliure	Formación durante el tiempo libre	Free time study
+ACT_SEC				311	Cuinar i preparar el menjar	Cocinar y preparar la comida	Food preparation and baking
+ACT_SEC				312	Rentar els plats	Lavar los platos	Dish washing
+ACT_SEC				313	Endreçar i conservar aliments	Ordenar y conservar alimentos	Storing, arranging, preserving food stocks
+ACT_SEC				321	Netejar la casa	Limpiar la casa	Cleaning dwelling
+ACT_SEC				322	Netejar el pati i les zones exteriors	Limpiar el patio y las zonas exteriores	Cleaning garden
+ACT_SEC				323	Calefacció i subministrament d'aigua	Calefacción y suministro de agua	Heating dwelling and water
+ACT_SEC				324	Tasques d'organització 	Tareas de organización	Arranging household goods and materials
+ACT_SEC				325	Reciclatge i escombraries	Reciclaje y basura	Recycling and disposal of waste
+ACT_SEC				329	Altres tasques de manteniment de la llar	Otras tareas de mantenimiento del hogar	Other or unspecified household upkeep
+ACT_SEC				331	Rentar la roba	Lavar la ropa	Laundry
+ACT_SEC				332	Planxar la roba	Planchar la ropa	Ironing
+ACT_SEC				339	Altres tasques de confecció i cura de la roba	Otras tareas de confección y cuidado de la ropa	Other or unspecified textile care
+ACT_SEC				341	Jardineria	Jardinería	Gardening
+ACT_SEC				342	Cuidar animals de granja	Cuidar animales de granja	Tending domestic animals
+ACT_SEC				343	Cuidar animals de companyia	Cuidar animales de compañía	Caring for pets
+ACT_SEC				344	Passejar el gos	Pasear al perro	Walking the dog
+ACT_SEC				349	Altres activitats de jardineria i animals	Otras actividades de jardinería y animales	Other or unspecified gardening and pet care
+ACT_SEC				351	Construcció i reforma de l'habitatge	Construcción y reforma de la vivienda	House construction and renovation
+ACT_SEC				352	Reparacions de l'habitatge	Reparaciones de la vivienda	Repairs to dwelling
+ACT_SEC				353	Fabricació, reparació i manteniment de l'equipament de la llar	Fabricación, reparación y mantenimiento del equipamiento del hogar	Making, repairing and maintaining equipment
+ACT_SEC				354	Manteniment de vehicles	Mantenimiento de vehículos	Vehicle maintenance
+ACT_SEC				359	Altres activitats de construcció i reparacions	Otras actividades de construcción y reparaciones	Other or unspecified construction and repairs
+ACT_SEC				361	Compres	Compras	Shopping (including online/ e-shopping)
+ACT_SEC				362	Gestions comercials i administratives	Gestiones comerciales y administrativas	Commercial and administrative services
+ACT_SEC				369	Altres gestions relacionades amb les compres i els serveis	Otras gestiones relacionadas con las compras y los servicios	Other or unspecified shopping and services
+ACT_SEC				371	Gestions de la llar	Gestiones del hogar	Household management
+ACT_SEC				381	Cuidar i vigilar els infants	Cuidar y vigilar a los niños	Physical care and supervision of child
+ACT_SEC				382	Ensenyar coneixements als infants 	Enseñar conocimientos a los niños	Teaching the child
+ACT_SEC				383	Jugar, llegir i parlar amb els infants	Jugar, leer y hablar con los niños	Reading, playing and talking with child
+ACT_SEC				384	Acompanyar els infants a algun lloc	Acompañar a los niños a algún lugar	Accompanying child
+ACT_SEC				389	Altres tipus d'assitència als infants de la llar	Otros tipos de asistencia a los niños del hogar	Other or unspecified childcare
+ACT_SEC				391	Cuidar els adults de la llar	Cuidar a los adultos del hogar	Physical care of an adult household member
+ACT_SEC				392	Altres tipus d'assistència als adults  de la llar	Otros tipos de asistencia a los adultos del hogar	Other support to an adult household member
+ACT_SEC				411	Voluntariat a una organització (de forma directa o indirecta)	Voluntariado en una organización (de forma directa o indirecta)	Organisational work (work for or through an organisation)
+ACT_SEC				421	En la construcció i les reparacions	En la construcción y las reparaciones	Construction and repairs as help
+ACT_SEC				422	En feines agrícoles, ramaderes o d'oficina, etc.	En las tareas agrícolas, ganaderas o de oficina, etc.	Help in employment and farming
+ACT_SEC				423	En la cura dels fills que viuen a una altra llar	En el cuidado de los hijos que viven en otro hogar	Care of own children living in another household
+ACT_SEC				424	En la cura d'infants que viuen a altres llars	En el cuidado de niños que viven en otros hogares	Childcare as help to another household
+ACT_SEC				425	En la cura d'aduts d'altres llars	En el cuidado de los adultos de otros hogares	Help to an adult person of another household
+ACT_SEC				429	Altres ajudes informals a altres llars	Otras ayudas informales en otros hogares	Other/ unspecified informal help to another household
+ACT_SEC				431	Reunions i trobades	Reuniones y encuentros	Meetings
+ACT_SEC				432	Pràctiques religioses	Prácticas religiosas	Religious activities
+ACT_SEC				433	Visites al cementiri i cura de les tombes	Visitas al cementerio y cuidado de las tumbas	Visits to cemetery and grave care
+ACT_SEC				439	Altres activitats participatives i religioses	Otras actividades participativas y religiosas	Other or unspecified participatory activities
+ACT_SEC				511	Vida social en família	Vida social en familia	Socialising with family
+ACT_SEC				512	Visitar algú i rebre visites a casa	Visitar a alguien y recibir visitas en casa	Visiting and receiving visitors
+ACT_SEC				513	Festes i celebracions	Fiestas y celebraciones	Celebrations
+ACT_SEC				514	Converses d'àudio o vídeo	Conversaciones de audio o vídeo	Audio and video conversation
+ACT_SEC				515	Comunicació per missatges de text 	Comunicación por mensajes de texto	Communication by text messaging (SMS, instant messages, email, etc.)
+ACT_SEC				516	Xarxes socials	Redes sociales	Time spent on social media
+ACT_SEC				519	Altres activitats socials	Otras actividades sociales 	Other or unspecified social life
+ACT_SEC				521	Cinema	Cine	Cinema
+ACT_SEC				522	Teatre i concerts	Teatro y conciertos	Theatre and concerts
+ACT_SEC				523	Exposicions d'art i museus	Exposiciones de arte y museos	Art exhibitions and museums
+ACT_SEC				524	Biblioteques	Bibliotecas	Library
+ACT_SEC				525	Assistència esdeveniments esportius	Asistencia a eventos deportivos	Attending live sports events
+ACT_SEC				526	Zoològics, jardins botànics i reserves naturals	Zoológicos, jardines botánicos y reservas naturales	Zoos, botanical gardens, natural reserves, etc.
+ACT_SEC				529	Altres activitats culturals i d'entreteniment	Otras actividades culturales y de entretenimiento	Other or unspecified entertainment and culture
+ACT_SEC				531	Oci passiu i estones mortes	Ocio pasivo y tiempo muerto	Resting - time out
+ACT_SEC				611	Caminar, passejar i fer senderisme	Caminar, pasear y hacer senderismo	Walking and hiking
+ACT_SEC				612	Córrer	Correr	Jogging and running
+ACT_SEC				613	Ciclisme, esquí i patinatge	Ciclismo, esquí y patinaje	Cycling, skiing and skating
+ACT_SEC				614	Esports de pilota	Deportes de pelota	Ball games
+ACT_SEC				615	Gimnàstica i fitnes	Gimnasia y fitnes	Gymnastics and fitness
+ACT_SEC				616	Esports aquàtics	Deportes acuáticos	Water sports
+ACT_SEC				619	Altres esports o activitats a l'aire lliure	Otros deportes o actividades al aire libre	Other or unspecified sports or outdoor activities
+ACT_SEC				621	Exercici productiu (caçar, pescar, collir bolets, mores, espàrrecs, etc.)	Ejercicio productivo (cazar, pescar, recoger setas, moras, espárragos, etc.)	Productive exercise (e.g. hunting, fishing, picking berries, mushrooms or herbs)
+ACT_SEC				631	Activitats relacionades amb els esports	Actividades relacionadas con los deportes	Sports related activities
+ACT_SEC				711	Arts visuals, escèniques i literàries	Artes visuales, escénicas y literarias	Arts (visual, performing, literary)
+ACT_SEC				712	Col·leccionisme	Coleccionismo	Collecting
+ACT_SEC				713	Elaboració de productes artesans	Elaboración de productos artesanos	Making handicraft products
+ACT_SEC				719	Altres aficions artístiques	Otras aficiones artísticas	Other or unspecified hobbies
+ACT_SEC				721	Programació informàtica	Programación informática	Computing
+ACT_SEC				722	Cerca d'informació a internet	Búsqueda de información en internet	Information search using internet
+ACT_SEC				729	Altres activitats informàtiques	Otras actividades informáticas	Other or unspecified computing
+ACT_SEC				731	Jocs en solitari i apostes	Juegos en solitario y apuestas	Solo games and play, gambling
+ACT_SEC				732	Jocs de societat	Juegos de sociedad	Parlour games and play
+ACT_SEC				733	Jocs d'ordinador	Juegos de ordenador	Computer games
+ACT_SEC				734	Jocs de consola	Juegos de consola	Console games (on home console)
+ACT_SEC				735	Jocs per a mòbils i tauletes	Juegos para móviles y tabletas	Mobile games (on handheld device/ smartphone)
+ACT_SEC				739	Altres jocs	Otros juegos	Other or unspecified games
+ACT_SEC				811	Premsa i revistes	Prensa y revistas	Reading periodicals
+ACT_SEC				812	Llibres	Libros	Reading books
+ACT_SEC				819	Altres tipus de lectura	Otros tipos de lectura	Other or unspecified reading
+ACT_SEC				821	Mirar la televisió, vídeos o DVD	Ver la televisión, vídeos o DVD	Watching TV, video or DVD
+ACT_SEC				831	Escoltar la ràdio, música o gravacions	Escuchar la radio, música o grabaciones	Listening to radio or recordings
+ACT_SEC				910	Trajectes per anar a la feina i tornar	Trayectos para ir y volver del trabajo	Travel to/ from work
+ACT_SEC				920	Trajectes relacionats amb els estudis	Trayectos relacionados con los estudios	Travel related to study
+ACT_SEC				936	Trajectes relacionats amb les compres i els serveis	Trayectos relacionados con las compras y los servicios	Travel related to shopping and services
+ACT_SEC				938	Trajectes relacionats amb la cura dels infants de la llar	Trayectos relacionados con el cuidado de los niños del hogar	Travel related to childcare
+ACT_SEC				939	Trajectes relacionats amb la cura d'altres membres de la llar	Trayectos relacionados con el cuidado de otros miembros del hogar	Travel related to other household care
+ACT_SEC				940	Trajectes relacionats amb el voluntariat i les ajudes altruistes	Trayectos relacionados con el voluntariado y ayudas altruistas	Travel related to voluntary work and meetings
+ACT_SEC				950	Trajectes relacionats amb la vida social	Trayectos relacionados con la vida social	Travel related to social life
+ACT_SEC				960	Trajectes relationats amb altres activitats de lleure	Trayectos relacionados con otras actividades de ocio	Travel related to other leisure
+ACT_SEC				980	Trajectes per anar d'un municipi a un altre	Trayectos para ir de un municipio a otro	Travel related to changing locality
+ACT_SEC				900	Altres trajectes amb finalitats diferents	Otros trayectos con fines distintos	Other or unspecified travel purpose
+ACT_SEC				995	Emplenar el diari de l'ús del temps	Rellenar el diario de uso del tiempo	Filling in the time use diary
+ACT_SEC				998	Temps lliure no especificat	Tiempo libre no especificado	Unspecified leisure time
+ACT_SEC				999	Un altre ús del temps no especificat	Otro uso del tiempo no especificado	Other unspecified time use
+INTERNET	Si fa ús de dispositiu electrònic o internet	Si hace uso de dispositivo electrónico o internet	If you use an electronic device or the internet				
+INTERNET				1	Si	Sí	Yes
+INTERNET				6	No	No	No
+LLOC	Lloc on realitza l'activitat	Lugar donde realiza la actividad	Place where the activity is carried out				
+LLOC				10	Lloc no especificat 	Lugar no especificado	Unspecified place
+LLOC				11	Casa	Casa	Home
+LLOC				12	Segona residència, casa de cap de setmana o de vacances 	Segunda residencia, casa de fin de semana o de vacaciones	Weekend home or holiday apartment
+LLOC				13	Lloc de treball, col·legi, institut o universitat 	Lugar de trabajo, colegio, instituto o universidad	Workplace, school or university
+LLOC				14	Casa d’altres persones 	Casa de otras personas	Other people’s home
+LLOC				15	Restaurant, cafeteria, bar o pub 	Restaurante, cafetería, bar o pub	Restaurant, café, bar or pub
+LLOC				16	Centres comercials, mercats, botigues 	Centros comerciales, mercados, tiendas	Shopping centres, malls, markets or other shops
+LLOC				17	Hotels, pensions i càmpings 	Hoteles, pensiones i campings	Hotels, guesthouses or camping site
+LLOC				19	Altres llocs especificats (sense trajecte)  	Otros lugares especificados (sin trayecto) 	Other specified location (not travelling)
+LLOC				20	Mitjà de transport no especificat  	Medio de transporte no especificado	Unspecified transport mode
+LLOC				21	Trajecte a peu	Trayecto a pie	Travelling on foot
+LLOC				22	Trajecte en bicicleta 	Trayecto en bicicleta	Travelling by bicycles
+LLOC				23	Trajecte en ciclomotor, motocicleta o barca de motor 	Trayecto en ciclomotor, motocicleta o barca de motor	Travelling by moped, motorcycle or motorboat
+LLOC				24	Trajecte en automòbil 	Trayecto en automóvil	Travelling by passenger car
+LLOC				29	Altres mitjans de transport privat no especificats  	Otros medios de transporte privado no especificados	Other or unspecified private transport mode
+LLOC				31	Mitjà de transport públic	Medio de transporte público	Public transport

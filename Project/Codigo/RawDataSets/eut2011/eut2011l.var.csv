@@ -1,0 +1,1994 @@
+Variable	DescrCA	DescrES	DescrEN	Valor_Value	LabelCA	LabelES	LabelEN
+CODI_LLAR	Codi de la llar	Código del hogar	Home code				
+T2_H_HABITUAL_1	Referent a la persona present 1: Considera que aquest habitatge és la seva residència habitual?	Referente a la persona presente 1: ¿Considera que esta vivienda es su residencia habitual?	Referring to present person 1: Do you consider this home to be your usual residence?				
+T2_H_HABITUAL_1				1	Sí	Sí	Yes
+T2_H_HABITUAL_1				6	No	No	No
+T2_DESP_1	Referent a la persona present 1: Comparteix despeses o ingressos de la llar?	Referente a la persona presente 1: ¿Comparte gastos y/o ingresos del hogar?	Referent a la persona present 1: Do you share household expenses or income?				
+T2_DESP_1				1	Sí	Sí	Yes
+T2_DESP_1				6	No	No	No
+T2_QUI_ES_1	Referent a la persona present 1: Vostè és?	Referente a la persona presente 1: ¿Usted es?	Referent a la persona present 1: Is it you?				
+T2_QUI_ES_1				1	Membre de la llar	Miembro del hogar	Household member
+T2_QUI_ES_1				2	Servei domèstic	Servicio doméstico	Domestic service
+T2_QUI_ES_1				3	Hoste	Huésped	Host 
+T2_QUI_ES_1				4	Convidat	Invitado	Guest
+T2_NUM_ORDRE_1	Referent a la persona present 1: Número d'ordre de la persona 1	Referente a la persona presente 1: Número de orden de la persona 1	Referent a la persona present 1: Order number of person 1				
+T2_H_HABITUAL_2	Referent a la persona present 2: Considera que aquest habitatge és la seva residència habitual?	Referente a la persona presente 2: ¿Considera que esta vivienda es su residencia habitual?	Referring to present person 2: Do you consider this home to be your usual residence?				
+T2_H_HABITUAL_2				1	Sí	Sí	Yes
+T2_H_HABITUAL_2				6	No	No	No
+T2_DESP_2	Referent a la persona present 2: Comparteix despeses o ingressos de la llar?	Referente a la persona presente 2: ¿Comparte gastos y/o ingresos del hogar?	Referent a la persona present 2: Do you share household expenses or income?				
+T2_DESP_2				1	Sí	Sí	Yes
+T2_DESP_2				6	No	No	No
+T2_QUI_ES_2	Referent a la persona present 2: Vostè és?	Referente a la persona presente 2: ¿Usted es?	Referent a la persona present 2: Is it you?				
+T2_QUI_ES_2				1	Membre de la llar	Miembro del hogar	Household member
+T2_QUI_ES_2				2	Servei domèstic	Servicio doméstico	Domestic service
+T2_QUI_ES_2				3	Hoste	Huésped	Host 
+T2_QUI_ES_2				4	Convidat	Invitado	Guest
+T2_NUM_ORDRE_2	Referent a la persona present 2: Número d'ordre de la persona 2	Referente a la persona presente 2: Número de orden de la persona 2	Referent a la persona present 2: Order number of person 2				
+T2_H_HABITUAL_3	Referent a la persona present 3: Considera que aquest habitatge és la seva residència habitual?	Referente a la persona presente 3: ¿Considera que esta vivienda es su residencia habitual?	Referring to present person 3: Do you consider this home to be your usual residence?				
+T2_H_HABITUAL_3				1	Sí	Sí	Yes
+T2_H_HABITUAL_3				6	No	No	No
+T2_DESP_3	Referent a la persona present 3: Comparteix despeses o ingressos de la llar?	Referente a la persona presente 3: ¿Comparte gastos y/o ingresos del hogar?	Referent a la persona present 3: Do you share household expenses or income?				
+T2_DESP_3				1	Sí	Sí	Yes
+T2_DESP_3				6	No	No	No
+T2_QUI_ES_3	Referent a la persona present 3: Vostè és?	Referente a la persona presente 3: ¿Usted es?	Referent a la persona present 3: Is it you?				
+T2_QUI_ES_3				1	Membre de la llar	Miembro del hogar	Household member
+T2_QUI_ES_3				2	Servei domèstic	Servicio doméstico	Domestic service
+T2_QUI_ES_3				3	Hoste	Huésped	Host 
+T2_QUI_ES_3				4	Convidat	Invitado	Guest
+T2_NUM_ORDRE_3	Referent a la persona present 3: Número d'ordre de la persona 3	Referente a la persona presente 3: Número de orden de la persona 3	Referent a la persona present 3: Order number of person 3				
+T2_H_HABITUAL_4	Referent a la persona present 4: Considera que aquest habitatge és la seva residència habitual?	Referente a la persona presente 4: ¿Considera que esta vivienda es su residencia habitual?	Referring to present person 4: Do you consider this home to be your usual residence?				
+T2_H_HABITUAL_4				1	Sí	Sí	Yes
+T2_H_HABITUAL_4				6	No	No	No
+T2_DESP_4	Referent a la persona present 4: Comparteix despeses o ingressos de la llar?	Referente a la persona presente 4: ¿Comparte gastos y/o ingresos del hogar?	Referent a la persona present 4: Do you share household expenses or income?				
+T2_DESP_4				1	Sí	Sí	Yes
+T2_DESP_4				6	No	No	No
+T2_QUI_ES_4	Referent a la persona present 4: Vostè és?	Referente a la persona presente 4: ¿Usted es?	Referent a la persona present 4: Is it you?				
+T2_QUI_ES_4				1	Membre de la llar	Miembro del hogar	Household member
+T2_QUI_ES_4				2	Servei domèstic	Servicio doméstico	Domestic service
+T2_QUI_ES_4				3	Hoste	Huésped	Host 
+T2_QUI_ES_4				4	Convidat	Invitado	Guest
+T2_NUM_ORDRE_4	Referent a la persona present 4: Número d'ordre de la persona 4	Referente a la persona presente 4: Número de orden de la persona 4	Referent a la persona present 4: Order number of person 4				
+T2_H_HABITUAL_5	Referent a la persona present 5: Considera que aquest habitatge és la seva residència habitual?	Referente a la persona presente 5: ¿Considera que esta vivienda es su residencia habitual?	Referring to present person 5: Do you consider this home to be your usual residence?				
+T2_H_HABITUAL_5				1	Sí	Sí	Yes
+T2_H_HABITUAL_5				6	No	No	No
+T2_DESP_5	Referent a la persona present 5: Comparteix despeses o ingressos de la llar?	Referente a la persona presente 5: ¿Comparte gastos y/o ingresos del hogar?	Referent a la persona present 5: Do you share household expenses or income?				
+T2_DESP_5				1	Sí	Sí	Yes
+T2_DESP_5				6	No	No	No
+T2_QUI_ES_5	Referent a la persona present 5: Vostè és?	Referente a la persona presente 5: ¿Usted es?	Referent a la persona present 5: Is it you?				
+T2_QUI_ES_5				1	Membre de la llar	Miembro del hogar	Household member
+T2_QUI_ES_5				2	Servei domèstic	Servicio doméstico	Domestic service
+T2_QUI_ES_5				3	Hoste	Huésped	Host 
+T2_QUI_ES_5				4	Convidat	Invitado	Guest
+T2_NUM_ORDRE_5	Referent a la persona present 5: Número d'ordre de la persona 5	Referente a la persona presente 5: Número de orden de la persona 5	Referent a la persona present 5: Order number of person 5				
+T2_H_HABITUAL_6	Referent a la persona present 6: Considera que aquest habitatge és la seva residència habitual?	Referente a la persona presente 6: ¿Considera que esta vivienda es su residencia habitual?	Referring to present person 6: Do you consider this home to be your usual residence?				
+T2_H_HABITUAL_6				1	Sí	Sí	Yes
+T2_H_HABITUAL_6				6	No	No	No
+T2_DESP_6	Referent a la persona present 6: Comparteix despeses o ingressos de la llar?	Referente a la persona presente 6: ¿Comparte gastos y/o ingresos del hogar?	Referent a la persona present 6: Do you share household expenses or income?				
+T2_DESP_6				1	Sí	Sí	Yes
+T2_DESP_6				6	No	No	No
+T2_QUI_ES_6	Referent a la persona present 6: Vostè és?	Referente a la persona presente 6: ¿Usted es?	Referent a la persona present 6: Is it you?				
+T2_QUI_ES_6				1	Membre de la llar	Miembro del hogar	Household member
+T2_QUI_ES_6				2	Servei domèstic	Servicio doméstico	Domestic service
+T2_QUI_ES_6				3	Hoste	Huésped	Host 
+T2_QUI_ES_6				4	Convidat	Invitado	Guest
+T2_NUM_ORDRE_6	Referent a la persona present 6: Número d'ordre de la persona 6	Referente a la persona presente 6: Número de orden de la persona 6	Referent a la persona present 6: Order number of person 6				
+T2_H_HABITUAL_7	Referent a la persona present 7: Considera que aquest habitatge és la seva residència habitual?	Referente a la persona presente 7: ¿Considera que esta vivienda es su residencia habitual?	Referring to present person 7: Do you consider this home to be your usual residence?				
+T2_H_HABITUAL_7				1	Sí	Sí	Yes
+T2_H_HABITUAL_7				6	No	No	No
+T2_DESP_7	Referent a la persona present 7: Comparteix despeses o ingressos de la llar?	Referente a la persona presente 7: ¿Comparte gastos y/o ingresos del hogar?	Referent a la persona present 7: Do you share household expenses or income?				
+T2_DESP_7				1	Sí	Sí	Yes
+T2_DESP_7				6	No	No	No
+T2_QUI_ES_7	Referent a la persona present 7: Vostè és?	Referente a la persona presente 7: ¿Usted es?	Referent a la persona present 7: Is it you?				
+T2_QUI_ES_7				1	Membre de la llar	Miembro del hogar	Household member
+T2_QUI_ES_7				2	Servei domèstic	Servicio doméstico	Domestic service
+T2_QUI_ES_7				3	Hoste	Huésped	Host 
+T2_QUI_ES_7				4	Convidat	Invitado	Guest
+T2_NUM_ORDRE_7	Referent a la persona present 7: Número d'ordre de la persona 7	Referente a la persona presente 7: Número de orden de la persona 7	Referent a la persona present 7: Order number of person 7				
+T2_H_HABITUAL_8	Referent a la persona present 8: Considera que aquest habitatge és la seva residència habitual?	Referente a la persona presente 8: ¿Considera que esta vivienda es su residencia habitual?	Referring to present person 8: Do you consider this home to be your usual residence?				
+T2_H_HABITUAL_8				1	Sí	Sí	Yes
+T2_H_HABITUAL_8				6	No	No	No
+T2_DESP_8	Referent a la persona present 8: Comparteix despeses o ingressos de la llar?	Referente a la persona presente 8: ¿Comparte gastos y/o ingresos del hogar?	Referent a la persona present 8: Do you share household expenses or income?				
+T2_DESP_8				1	Sí	Sí	Yes
+T2_DESP_8				6	No	No	No
+T2_QUI_ES_8	Referent a la persona present 8: Vostè és?	Referente a la persona presente 8: ¿Usted es?	Referent a la persona present 8: Is it you?				
+T2_QUI_ES_8				1	Membre de la llar	Miembro del hogar	Household member
+T2_QUI_ES_8				2	Servei domèstic	Servicio doméstico	Domestic service
+T2_QUI_ES_8				3	Hoste	Huésped	Host 
+T2_QUI_ES_8				4	Convidat	Invitado	Guest
+T2_NUM_ORDRE_8	Referent a la persona present 8: Número d'ordre de la persona 8	Referente a la persona presente 8: Número de orden de la persona 8	Referent a la persona present 8: Order number of person 8				
+T2_H_HABITUAL_9	Referent a la persona present 9: Considera que aquest habitatge és la seva residència habitual?	Referente a la persona presente 9: ¿Considera que esta vivienda es su residencia habitual?	Referring to present person 9: Do you consider this home to be your usual residence?				
+T2_H_HABITUAL_9				1	Sí	Sí	Yes
+T2_H_HABITUAL_9				6	No	No	No
+T2_DESP_9	Referent a la persona present 9: Comparteix despeses o ingressos de la llar?	Referente a la persona presente 9: ¿Comparte gastos y/o ingresos del hogar?	Referent a la persona present 9: Do you share household expenses or income?				
+T2_DESP_9				1	Sí	Sí	Yes
+T2_DESP_9				6	No	No	No
+T2_QUI_ES_9	Referent a la persona present 9: Vostè és?	Referente a la persona presente 9: ¿Usted es?	Referent a la persona present 9: Is it you?				
+T2_QUI_ES_9				1	Membre de la llar	Miembro del hogar	Household member
+T2_QUI_ES_9				2	Servei domèstic	Servicio doméstico	Domestic service
+T2_QUI_ES_9				3	Hoste	Huésped	Host 
+T2_QUI_ES_9				4	Convidat	Invitado	Guest
+T2_NUM_ORDRE_9	Referent a la persona present 9: Número d'ordre de la persona 9	Referente a la persona presente 9: Número de orden de la persona 9	Referent a la persona present 9: Order number of person 9				
+T2_H_HABITUAL_10	Referent a la persona present 10: Considera que aquest habitatge és la seva residència habitual?	Referente a la persona presente 10: ¿Considera que esta vivienda es su residencia habitual?	Referring to present person 10: Do you consider this home to be your usual residence?				
+T2_H_HABITUAL_10				1	Sí	Sí	Yes
+T2_H_HABITUAL_10				6	No	No	No
+T2_DESP_10	Referent a la persona present 10: Comparteix despeses o ingressos de la llar?	Referente a la persona presente 10: ¿Comparte gastos y/o ingresos del hogar?	Referent a la persona present 10: Do you share household expenses or income?				
+T2_DESP_10				1	Sí	Sí	Yes
+T2_DESP_10				6	No	No	No
+T2_QUI_ES_10	Referent a la persona present 10: Vostè és?	Referente a la persona presente 10: ¿Usted es?	Referent a la persona present 10: Is it you?				
+T2_QUI_ES_10				1	Membre de la llar	Miembro del hogar	Household member
+T2_QUI_ES_10				2	Servei domèstic	Servicio doméstico	Domestic service
+T2_QUI_ES_10				3	Hoste	Huésped	Host 
+T2_QUI_ES_10				4	Convidat	Invitado	Guest
+T2_NUM_ORDRE_10	Referent a la persona present 10: Número d'ordre de la persona 10	Referente a la persona presente 10: Número de orden de la persona 10	Referent a la persona present 10: Order number of person 10				
+T2_H_HABITUAL_11	Referent a la persona present 11: Considera que aquest habitatge és la seva residència habitual?	Referente a la persona presente 11: ¿Considera que esta vivienda es su residencia habitual?	Referring to present person 11: Do you consider this home to be your usual residence?				
+T2_H_HABITUAL_11				1	Sí	Sí	Yes
+T2_H_HABITUAL_11				6	No	No	No
+T2_DESP_11	Referent a la persona present 11: Comparteix despeses o ingressos de la llar?	Referente a la persona presente 11: ¿Comparte gastos y/o ingresos del hogar?	Referent a la persona present 11: Do you share household expenses or income?				
+T2_DESP_11				1	Sí	Sí	Yes
+T2_DESP_11				6	No	No	No
+T2_QUI_ES_11	Referent a la persona present 11: Vostè és?	Referente a la persona presente 11: ¿Usted es?	Referent a la persona present 11: Is it you?				
+T2_QUI_ES_11				1	Membre de la llar	Miembro del hogar	Household member
+T2_QUI_ES_11				2	Servei domèstic	Servicio doméstico	Domestic service
+T2_QUI_ES_11				3	Hoste	Huésped	Host 
+T2_QUI_ES_11				4	Convidat	Invitado	Guest
+T2_NUM_ORDRE_11	Referent a la persona present 11: Número d'ordre de la persona 11	Referente a la persona presente 11: Número de orden de la persona 11	Referent a la persona present 11: Order number of person 11				
+T2_H_HABITUAL_12	Referent a la persona present 12: Considera que aquest habitatge és la seva residència habitual?	Referente a la persona presente 12: ¿Considera que esta vivienda es su residencia habitual?	Referring to present person 12: Do you consider this home to be your usual residence?				
+T2_H_HABITUAL_12				1	Sí	Sí	Yes
+T2_H_HABITUAL_12				6	No	No	No
+T2_DESP_12	Referent a la persona present 12: Comparteix despeses o ingressos de la llar?	Referente a la persona presente 12: ¿Comparte gastos y/o ingresos del hogar?	Referent a la persona present 12: Do you share household expenses or income?				
+T2_DESP_12				1	Sí	Sí	Yes
+T2_DESP_12				6	No	No	No
+T2_QUI_ES_12	Referent a la persona present 12: Vostè és?	Referente a la persona presente 12: ¿Usted es?	Referent a la persona present 12: Is it you?				
+T2_QUI_ES_12				1	Membre de la llar	Miembro del hogar	Household member
+T2_QUI_ES_12				2	Servei domèstic	Servicio doméstico	Domestic service
+T2_QUI_ES_12				3	Hoste	Huésped	Host 
+T2_QUI_ES_12				4	Convidat	Invitado	Guest
+T2_NUM_ORDRE_12	Referent a la persona present 12: Número d'ordre de la persona 12	Referente a la persona presente 12: Número de orden de la persona 12	Referent a la persona present 12: Order number of person 12				
+T2_H_HABITUAL_13	Referent a la persona present 13: Considera que aquest habitatge és la seva residència habitual?	Referente a la persona presente 13: ¿Considera que esta vivienda es su residencia habitual?	Referring to present person 13: Do you consider this home to be your usual residence?				
+T2_H_HABITUAL_13				1	Sí	Sí	Yes
+T2_H_HABITUAL_13				6	No	No	No
+T2_DESP_13	Referent a la persona present 13: Comparteix despeses o ingressos de la llar?	Referente a la persona presente 13: ¿Comparte gastos y/o ingresos del hogar?	Referent a la persona present 13: Do you share household expenses or income?				
+T2_DESP_13				1	Sí	Sí	Yes
+T2_DESP_13				6	No	No	No
+T2_QUI_ES_13	Referent a la persona present 13: Vostè és?	Referente a la persona presente 13: ¿Usted es?	Referent a la persona present 13: Is it you?				
+T2_QUI_ES_13				1	Membre de la llar	Miembro del hogar	Household member
+T2_QUI_ES_13				2	Servei domèstic	Servicio doméstico	Domestic service
+T2_QUI_ES_13				3	Hoste	Huésped	Host 
+T2_QUI_ES_13				4	Convidat	Invitado	Guest
+T2_NUM_ORDRE_13	Referent a la persona present 13: Número d'ordre de la persona 13	Referente a la persona presente 13: Número de orden de la persona 13	Referent a la persona present 13: Order number of person 13				
+T2_H_HABITUAL_14	Referent a la persona present 14: Considera que aquest habitatge és la seva residència habitual?	Referente a la persona presente 14: ¿Considera que esta vivienda es su residencia habitual?	Referring to present person 14: Do you consider this home to be your usual residence?				
+T2_H_HABITUAL_14				1	Sí	Sí	Yes
+T2_H_HABITUAL_14				6	No	No	No
+T2_DESP_14	Referent a la persona present 14: Comparteix despeses o ingressos de la llar?	Referente a la persona presente 14: ¿Comparte gastos y/o ingresos del hogar?	Referent a la persona present 14: Do you share household expenses or income?				
+T2_DESP_14				1	Sí	Sí	Yes
+T2_DESP_14				6	No	No	No
+T2_QUI_ES_14	Referent a la persona present 14: Vostè és?	Referente a la persona presente 14: ¿Usted es?	Referent a la persona present 14: Is it you?				
+T2_QUI_ES_14				1	Membre de la llar	Miembro del hogar	Household member
+T2_QUI_ES_14				2	Servei domèstic	Servicio doméstico	Domestic service
+T2_QUI_ES_14				3	Hoste	Huésped	Host 
+T2_QUI_ES_14				4	Convidat	Invitado	Guest
+T2_NUM_ORDRE_14	Referent a la persona present 14: Número d'ordre de la persona 14	Referente a la persona presente 14: Número de orden de la persona 14	Referent a la persona present 14: Order number of person 14				
+T2_H_HABITUAL_15	Referent a la persona present 15: Considera que aquest habitatge és la seva residència habitual?	Referente a la persona presente 15: ¿Considera que esta vivienda es su residencia habitual?	Referring to present person 15: Do you consider this home to be your usual residence?				
+T2_H_HABITUAL_15				1	Sí	Sí	Yes
+T2_H_HABITUAL_15				6	No	No	No
+T2_DESP_15	Referent a la persona present 15: Comparteix despeses o ingressos de la llar?	Referente a la persona presente 15: ¿Comparte gastos y/o ingresos del hogar?	Referent a la persona present 15: Do you share household expenses or income?				
+T2_DESP_15				1	Sí	Sí	Yes
+T2_DESP_15				6	No	No	No
+T2_QUI_ES_15	Referent a la persona present 15: Vostè és?	Referente a la persona presente 15: ¿Usted es?	Referent a la persona present 15: Is it you?				
+T2_QUI_ES_15				1	Membre de la llar	Miembro del hogar	Household member
+T2_QUI_ES_15				2	Servei domèstic	Servicio doméstico	Domestic service
+T2_QUI_ES_15				3	Hoste	Huésped	Host 
+T2_QUI_ES_15				4	Convidat	Invitado	Guest
+T2_NUM_ORDRE_15	Referent a la persona present 15: Número d'ordre de la persona 15	Referente a la persona presente 15: Número de orden de la persona 15	Referent a la persona present 15: Order number of person 15				
+T3_ABSENCIA_1	Referent a la persona absent 1: Quina és la causa de l'absència?	Referente a la persona ausente 1: ¿Cuál es la causa de la ausencia?	Referent a la persona absent 1: What is the reason for the absence?				
+T3_ABSENCIA_1				1	Per motiu de treball, estudis o viatge	Por motivos de trabajo, estudios o viaje	For work, study or travel reasons
+T3_ABSENCIA_1				6	Altres motius: està internat en un hospital o altra institució, residència, presó, etc.	Otros motivos: está internado en un hospital u otra institución, residencia, prisión, etc.	Other reasons: being hospitalised or in another institution, in a retirement home, prison, etc.
+T3_DUR_ABS_1	Referent a la persona absent 1: Quina és la durada total prevista de l'absència?	Referente a la persona ausente 1: ¿Cuál es la duración total prevista de la ausencia?	Referent a la persona absent 1: What is the expected total length of absence?				
+T3_DUR_ABS_1				1	Menor o igual a 6 mesos	Menor o igual a 6 meses	Less than or equal to 6 months
+T3_DUR_ABS_1				6	Major de 6 mesos	Mayor que 6 meses	Over 6 months old
+T3_DESP2_1	Referent a la persona absent 1: Comparteix despeses o ingressos de la llar?	Referente a la persona ausente 1: ¿Comparte gastos y/o ingresos del hogar?	Referent a la persona absent 1: Do you share household expenses or income?				
+T3_DESP2_1				1	Sí	Sí	Yes
+T3_DESP2_1				6	No	No	No
+T3_ES2_1	Referent a la persona absent 1: Tipus de membre de la llar que és la persona 1 absent	Referente a la persona ausente 1: Tipo de miembro del hogar que es la persona 1 ausente	Referent a la persona absent 1: Type of household member who is absent person 1 				
+T3_ES2_1				1	Membre de la llar	Miembro del hogar	Household member
+T3_ES2_1				2	Servei domèstic	Servicio doméstico	Domestic service
+T3_ES2_1				3	Hoste	Huésped	Host 
+T3_ES2_1				4	Convidat	Invitado	Guest
+T3_NUM_ORDRE_1	Referent a la persona absent 1: Número d'ordre de la persona 1	Referente a la persona ausente 1: Número de orden de la persona 1	Referent a la persona absent 1: Order number of person 1				
+T3_ABSENCIA_2	Referent a la persona absent 2: Quina és la causa de l'absència?	Referente a la persona ausente 2: ¿Cuál es la causa de la ausencia?	Referent a la persona absent 2: What is the reason for the absence?				
+T3_ABSENCIA_2				1	Per motiu de treball, estudis o viatge	Por motivos de trabajo, estudios o viaje	For work, study or travel reasons
+T3_ABSENCIA_2				6	Altres motius: està internat en un hospital o altra institució, residència, presó, etc.	Otros motivos: está internado en un hospital u otra institución, residencia, prisión, etc.	Other reasons: being hospitalised or in another institution, in a retirement home, prison, etc.
+T3_DUR_ABS_2	Referent a la persona absent 2: Quina és la durada total prevista de l'absència?	Referente a la persona ausente 2: ¿Cuál es la duración total prevista de la ausencia?	Referent a la persona absent 2: What is the expected total length of absence?				
+T3_DUR_ABS_2				1	Menor o igual a 6 mesos	Menor o igual a 6 meses	Less than or equal to 6 months
+T3_DUR_ABS_2				6	Major de 6 mesos	Mayor que 6 meses	Over 6 months old
+T3_DESP2_2	Referent a la persona absent 2: Comparteix despeses o ingressos de la llar?	Referente a la persona ausente 2: ¿Comparte gastos y/o ingresos del hogar?	Referent a la persona absent 2: Do you share household expenses or income?				
+T3_DESP2_2				1	Sí	Sí	Yes
+T3_DESP2_2				6	No	No	No
+T3_ES2_2	Referent a la persona absent 2: Tipus de membre de la llar que és la persona 2 absent	Referente a la persona ausente 2: Tipo de miembro del hogar que es la persona 2 ausente	Referent a la persona absent 2: Type of household member who is absent person 2 				
+T3_ES2_2				1	Membre de la llar	Miembro del hogar	Household member
+T3_ES2_2				2	Servei domèstic	Servicio doméstico	Domestic service
+T3_ES2_2				3	Hoste	Huésped	Host 
+T3_ES2_2				4	Convidat	Invitado	Guest
+T3_NUM_ORDRE_2	Referent a la persona absent 2: Número d'ordre de la persona 2	Referente a la persona ausente 2: Número de orden de la persona 2	Referent a la persona absent 2: Order number of person 2				
+T3_ABSENCIA_3	Referent a la persona absent 3: Quina és la causa de l'absència?	Referente a la persona ausente 3: ¿Cuál es la causa de la ausencia?	Referent a la persona absent 3: What is the reason for the absence?				
+T3_ABSENCIA_3				1	Per motiu de treball, estudis o viatge	Por motivos de trabajo, estudios o viaje	For work, study or travel reasons
+T3_ABSENCIA_3				6	Altres motius: està internat en un hospital o altra institució, residència, presó, etc.	Otros motivos: está internado en un hospital u otra institución, residencia, prisión, etc.	Other reasons: being hospitalised or in another institution, in a retirement home, prison, etc.
+T3_DUR_ABS_3	Referent a la persona absent 3: Quina és la durada total prevista de l'absència?	Referente a la persona ausente 3: ¿Cuál es la duración total prevista de la ausencia?	Referent a la persona absent 3: What is the expected total length of absence?				
+T3_DUR_ABS_3				1	Menor o igual a 6 mesos	Menor o igual a 6 meses	Less than or equal to 6 months
+T3_DUR_ABS_3				6	Major de 6 mesos	Mayor que 6 meses	Over 6 months old
+T3_DESP2_3	Referent a la persona absent 3: Comparteix despeses o ingressos de la llar?	Referente a la persona ausente 3: ¿Comparte gastos y/o ingresos del hogar?	Referent a la persona absent 3: Do you share household expenses or income?				
+T3_DESP2_3				1	Sí	Sí	Yes
+T3_DESP2_3				6	No	No	No
+T3_ES2_3	Referent a la persona absent 3: Tipus de membre de la llar que és la persona 3 absent	Referente a la persona ausente 3: Tipo de miembro del hogar que es la persona 3 ausente	Referent a la persona absent 3: Type of household member who is absent person 3 				
+T3_ES2_3				1	Membre de la llar	Miembro del hogar	Household member
+T3_ES2_3				2	Servei domèstic	Servicio doméstico	Domestic service
+T3_ES2_3				3	Hoste	Huésped	Host 
+T3_ES2_3				4	Convidat	Invitado	Guest
+T3_NUM_ORDRE_3	Referent a la persona absent 3: Número d'ordre de la persona 3	Referente a la persona ausente 3: Número de orden de la persona 3	Referent a la persona absent 3: Order number of person 3				
+T3_ABSENCIA_4	Referent a la persona absent 4: Quina és la causa de l'absència?	Referente a la persona ausente 4: ¿Cuál es la causa de la ausencia?	Referent a la persona absent 4: What is the reason for the absence?				
+T3_ABSENCIA_4				1	Per motiu de treball, estudis o viatge	Por motivos de trabajo, estudios o viaje	For work, study or travel reasons
+T3_ABSENCIA_4				6	Altres motius: està internat en un hospital o altra institució, residència, presó, etc.	Otros motivos: está internado en un hospital u otra institución, residencia, prisión, etc.	Other reasons: being hospitalised or in another institution, in a retirement home, prison, etc.
+T3_DUR_ABS_4	Referent a la persona absent 4: Quina és la durada total prevista de l'absència?	Referente a la persona ausente 4: ¿Cuál es la duración total prevista de la ausencia?	Referent a la persona absent 4: What is the expected total length of absence?				
+T3_DUR_ABS_4				1	Menor o igual a 6 mesos	Menor o igual a 6 meses	Less than or equal to 6 months
+T3_DUR_ABS_4				6	Major de 6 mesos	Mayor que 6 meses	Over 6 months old
+T3_DESP2_4	Referent a la persona absent 4: Comparteix despeses o ingressos de la llar?	Referente a la persona ausente 4: ¿Comparte gastos y/o ingresos del hogar?	Referent a la persona absent 4: Do you share household expenses or income?				
+T3_DESP2_4				1	Sí	Sí	Yes
+T3_DESP2_4				6	No	No	No
+T3_ES2_4	Referent a la persona absent 4: Tipus de membre de la llar que és la persona 4 absent	Referente a la persona ausente 4: Tipo de miembro del hogar que es la persona 4 ausente	Referent a la persona absent 4: Type of household member who is absent person 4 				
+T3_ES2_4				1	Membre de la llar	Miembro del hogar	Household member
+T3_ES2_4				2	Servei domèstic	Servicio doméstico	Domestic service
+T3_ES2_4				3	Hoste	Huésped	Host 
+T3_ES2_4				4	Convidat	Invitado	Guest
+T3_NUM_ORDRE_4	Referent a la persona absent 4: Número d'ordre de la persona 4	Referente a la persona ausente 4: Número de orden de la persona 4	Referent a la persona absent 4: Order number of person 4				
+T3_ABSENCIA_5	Referent a la persona absent 5: Quina és la causa de l'absència?	Referente a la persona ausente 5: ¿Cuál es la causa de la ausencia?	Referent a la persona absent 5: What is the reason for the absence?				
+T3_ABSENCIA_5				1	Per motiu de treball, estudis o viatge	Por motivos de trabajo, estudios o viaje	For work, study or travel reasons
+T3_ABSENCIA_5				6	Altres motius: està internat en un hospital o altra institució, residència, presó, etc.	Otros motivos: está internado en un hospital u otra institución, residencia, prisión, etc.	Other reasons: being hospitalised or in another institution, in a retirement home, prison, etc.
+T3_DUR_ABS_5	Referent a la persona absent 5: Quina és la durada total prevista de l'absència?	Referente a la persona ausente 5: ¿Cuál es la duración total prevista de la ausencia?	Referent a la persona absent 5: What is the expected total length of absence?				
+T3_DUR_ABS_5				1	Menor o igual a 6 mesos	Menor o igual a 6 meses	Less than or equal to 6 months
+T3_DUR_ABS_5				6	Major de 6 mesos	Mayor que 6 meses	Over 6 months old
+T3_DESP2_5	Referent a la persona absent 5: Comparteix despeses o ingressos de la llar?	Referente a la persona ausente 5: ¿Comparte gastos y/o ingresos del hogar?	Referent a la persona absent 5: Do you share household expenses or income?				
+T3_DESP2_5				1	Sí	Sí	Yes
+T3_DESP2_5				6	No	No	No
+T3_ES2_5	Referent a la persona absent 5: Tipus de membre de la llar que és la persona 5 absent	Referente a la persona ausente 5: Tipo de miembro del hogar que es la persona 5 ausente	Referent a la persona absent 5: Type of household member who is absent person 5 				
+T3_ES2_5				1	Membre de la llar	Miembro del hogar	Household member
+T3_ES2_5				2	Servei domèstic	Servicio doméstico	Domestic service
+T3_ES2_5				3	Hoste	Huésped	Host 
+T3_ES2_5				4	Convidat	Invitado	Guest
+T3_NUM_ORDRE_5	Referent a la persona absent 5: Número d'ordre de la persona 5	Referente a la persona ausente 5: Número de orden de la persona 5	Referent a la persona absent 5: Order number of person 5				
+T3_ABSENCIA_6	Referent a la persona absent 6: Quina és la causa de l'absència?	Referente a la persona ausente 6: ¿Cuál es la causa de la ausencia?	Referent a la persona absent 6: What is the reason for the absence?				
+T3_ABSENCIA_6				1	Per motiu de treball, estudis o viatge	Por motivos de trabajo, estudios o viaje	For work, study or travel reasons
+T3_ABSENCIA_6				6	Altres motius: està internat en un hospital o altra institució, residència, presó, etc.	Otros motivos: está internado en un hospital u otra institución, residencia, prisión, etc.	Other reasons: being hospitalised or in another institution, in a retirement home, prison, etc.
+T3_DUR_ABS_6	Referent a la persona absent 6: Quina és la durada total prevista de l'absència?	Referente a la persona ausente 6: ¿Cuál es la duración total prevista de la ausencia?	Referent a la persona absent 6: What is the expected total length of absence?				
+T3_DUR_ABS_6				1	Menor o igual a 6 mesos	Menor o igual a 6 meses	Less than or equal to 6 months
+T3_DUR_ABS_6				6	Major de 6 mesos	Mayor que 6 meses	Over 6 months old
+T3_DESP2_6	Referent a la persona absent 6: Comparteix despeses o ingressos de la llar?	Referente a la persona ausente 6: ¿Comparte gastos y/o ingresos del hogar?	Referent a la persona absent 6: Do you share household expenses or income?				
+T3_DESP2_6				1	Sí	Sí	Yes
+T3_DESP2_6				6	No	No	No
+T3_ES2_6	Referent a la persona absent 6: Tipus de membre de la llar que és la persona 6 absent	Referente a la persona ausente 6: Tipo de miembro del hogar que es la persona 6 ausente	Referent a la persona absent 6: Type of household member who is absent person 6 				
+T3_ES2_6				1	Membre de la llar	Miembro del hogar	Household member
+T3_ES2_6				2	Servei domèstic	Servicio doméstico	Domestic service
+T3_ES2_6				3	Hoste	Huésped	Host 
+T3_ES2_6				4	Convidat	Invitado	Guest
+T3_NUM_ORDRE_6	Referent a la persona absent 6: Número d'ordre de la persona 6	Referente a la persona ausente 6: Número de orden de la persona 6	Referent a la persona absent 6: Order number of person 6				
+T3_ABSENCIA_7	Referent a la persona absent 7: Quina és la causa de l'absència?	Referente a la persona ausente 7: ¿Cuál es la causa de la ausencia?	Referent a la persona absent 7: What is the reason for the absence?				
+T3_ABSENCIA_7				1	Per motiu de treball, estudis o viatge	Por motivos de trabajo, estudios o viaje	For work, study or travel reasons
+T3_ABSENCIA_7				6	Altres motius: està internat en un hospital o altra institució, residència, presó, etc.	Otros motivos: está internado en un hospital u otra institución, residencia, prisión, etc.	Other reasons: being hospitalised or in another institution, in a retirement home, prison, etc.
+T3_DUR_ABS_7	Referent a la persona absent 7: Quina és la durada total prevista de l'absència?	Referente a la persona ausente 7: ¿Cuál es la duración total prevista de la ausencia?	Referent a la persona absent 7: What is the expected total length of absence?				
+T3_DUR_ABS_7				1	Menor o igual a 6 mesos	Menor o igual a 6 meses	Less than or equal to 6 months
+T3_DUR_ABS_7				6	Major de 6 mesos	Mayor que 6 meses	Over 6 months old
+T3_DESP2_7	Referent a la persona absent 7: Comparteix despeses o ingressos de la llar?	Referente a la persona ausente 7: ¿Comparte gastos y/o ingresos del hogar?	Referent a la persona absent 7: Do you share household expenses or income?				
+T3_DESP2_7				1	Sí	Sí	Yes
+T3_DESP2_7				6	No	No	No
+T3_ES2_7	Referent a la persona absent 7: Tipus de membre de la llar que és la persona 7 absent	Referente a la persona ausente 7: Tipo de miembro del hogar que es la persona 7 ausente	Referent a la persona absent 7: Type of household member who is absent person 7 				
+T3_ES2_7				1	Membre de la llar	Miembro del hogar	Household member
+T3_ES2_7				2	Servei domèstic	Servicio doméstico	Domestic service
+T3_ES2_7				3	Hoste	Huésped	Host 
+T3_ES2_7				4	Convidat	Invitado	Guest
+T3_NUM_ORDRE_7	Referent a la persona absent 7: Número d'ordre de la persona 7	Referente a la persona ausente 7: Número de orden de la persona 7	Referent a la persona absent 7: Order number of person 7				
+T3_ABSENCIA_8	Referent a la persona absent 8: Quina és la causa de l'absència?	Referente a la persona ausente 8: ¿Cuál es la causa de la ausencia?	Referent a la persona absent 8: What is the reason for the absence?				
+T3_ABSENCIA_8				1	Per motiu de treball, estudis o viatge	Por motivos de trabajo, estudios o viaje	For work, study or travel reasons
+T3_ABSENCIA_8				6	Altres motius: està internat en un hospital o altra institució, residència, presó, etc.	Otros motivos: está internado en un hospital u otra institución, residencia, prisión, etc.	Other reasons: being hospitalised or in another institution, in a retirement home, prison, etc.
+T3_DUR_ABS_8	Referent a la persona absent 8: Quina és la durada total prevista de l'absència?	Referente a la persona ausente 8: ¿Cuál es la duración total prevista de la ausencia?	Referent a la persona absent 8: What is the expected total length of absence?				
+T3_DUR_ABS_8				1	Menor o igual a 6 mesos	Menor o igual a 6 meses	Less than or equal to 6 months
+T3_DUR_ABS_8				6	Major de 6 mesos	Mayor que 6 meses	Over 6 months old
+T3_DESP2_8	Referent a la persona absent 8: Comparteix despeses o ingressos de la llar?	Referente a la persona ausente 8: ¿Comparte gastos y/o ingresos del hogar?	Referent a la persona absent 8: Do you share household expenses or income?				
+T3_DESP2_8				1	Sí	Sí	Yes
+T3_DESP2_8				6	No	No	No
+T3_ES2_8	Referent a la persona absent 8: Tipus de membre de la llar que és la persona 8 absent	Referente a la persona ausente 8: Tipo de miembro del hogar que es la persona 8 ausente	Referent a la persona absent 8: Type of household member who is absent person 8 				
+T3_ES2_8				1	Membre de la llar	Miembro del hogar	Household member
+T3_ES2_8				2	Servei domèstic	Servicio doméstico	Domestic service
+T3_ES2_8				3	Hoste	Huésped	Host 
+T3_ES2_8				4	Convidat	Invitado	Guest
+T3_NUM_ORDRE_8	Referent a la persona absent 8: Número d'ordre de la persona 8	Referente a la persona ausente 8: Número de orden de la persona 8	Referent a la persona absent 8: Order number of person 8				
+T3_ABSENCIA_9	Referent a la persona absent 9: Quina és la causa de l'absència?	Referente a la persona ausente 9: ¿Cuál es la causa de la ausencia?	Referent a la persona absent 9: What is the reason for the absence?				
+T3_ABSENCIA_9				1	Per motiu de treball, estudis o viatge	Por motivos de trabajo, estudios o viaje	For work, study or travel reasons
+T3_ABSENCIA_9				6	Altres motius: està internat en un hospital o altra institució, residència, presó, etc.	Otros motivos: está internado en un hospital u otra institución, residencia, prisión, etc.	Other reasons: being hospitalised or in another institution, in a retirement home, prison, etc.
+T3_DUR_ABS_9	Referent a la persona absent 9: Quina és la durada total prevista de l'absència?	Referente a la persona ausente 9: ¿Cuál es la duración total prevista de la ausencia?	Referent a la persona absent 9: What is the expected total length of absence?				
+T3_DUR_ABS_9				1	Menor o igual a 6 mesos	Menor o igual a 6 meses	Less than or equal to 6 months
+T3_DUR_ABS_9				6	Major de 6 mesos	Mayor que 6 meses	Over 6 months old
+T3_DESP2_9	Referent a la persona absent 9: Comparteix despeses o ingressos de la llar?	Referente a la persona ausente 9: ¿Comparte gastos y/o ingresos del hogar?	Referent a la persona absent 9: Do you share household expenses or income?				
+T3_DESP2_9				1	Sí	Sí	Yes
+T3_DESP2_9				6	No	No	No
+T3_ES2_9	Referent a la persona absent 9: Tipus de membre de la llar que és la persona 9 absent	Referente a la persona ausente 9: Tipo de miembro del hogar que es la persona 9 ausente	Referent a la persona absent 9: Type of household member who is absent person 9 				
+T3_ES2_9				1	Membre de la llar	Miembro del hogar	Household member
+T3_ES2_9				2	Servei domèstic	Servicio doméstico	Domestic service
+T3_ES2_9				3	Hoste	Huésped	Host 
+T3_ES2_9				4	Convidat	Invitado	Guest
+T3_NUM_ORDRE_9	Referent a la persona absent 9: Número d'ordre de la persona 9	Referente a la persona ausente 9: Número de orden de la persona 9	Referent a la persona absent 9: Order number of person 9				
+T3_ABSENCIA_10	Referent a la persona absent 10: Quina és la causa de l'absència?	Referente a la persona ausente 10: ¿Cuál es la causa de la ausencia?	Referent a la persona absent 10: What is the reason for the absence?				
+T3_ABSENCIA_10				1	Per motiu de treball, estudis o viatge	Por motivos de trabajo, estudios o viaje	For work, study or travel reasons
+T3_ABSENCIA_10				6	Altres motius: està internat en un hospital o altra institució, residència, presó, etc.	Otros motivos: está internado en un hospital u otra institución, residencia, prisión, etc.	Other reasons: being hospitalised or in another institution, in a retirement home, prison, etc.
+T3_DUR_ABS_10	Referent a la persona absent 10: Quina és la durada total prevista de l'absència?	Referente a la persona ausente 10: ¿Cuál es la duración total prevista de la ausencia?	Referent a la persona absent 10: What is the expected total length of absence?				
+T3_DUR_ABS_10				1	Menor o igual a 6 mesos	Menor o igual a 6 meses	Less than or equal to 6 months
+T3_DUR_ABS_10				6	Major de 6 mesos	Mayor que 6 meses	Over 6 months old
+T3_DESP2_10	Referent a la persona absent 10: Comparteix despeses o ingressos de la llar?	Referente a la persona ausente 10: ¿Comparte gastos y/o ingresos del hogar?	Referent a la persona absent 10: Do you share household expenses or income?				
+T3_DESP2_10				1	Sí	Sí	Yes
+T3_DESP2_10				6	No	No	No
+T3_ES2_10	Referent a la persona absent 10: Tipus de membre de la llar que és la persona 10 absent	Referente a la persona ausente 10: Tipo de miembro del hogar que es la persona 10 ausente	Referent a la persona absent 10: Type of household member who is absent person 10 				
+T3_ES2_10				1	Membre de la llar	Miembro del hogar	Household member
+T3_ES2_10				2	Servei domèstic	Servicio doméstico	Domestic service
+T3_ES2_10				3	Hoste	Huésped	Host 
+T3_ES2_10				4	Convidat	Invitado	Guest
+T3_NUM_ORDRE_10	Referent a la persona absent 10: Número d'ordre de la persona 10	Referente a la persona ausente 10: Número de orden de la persona 10	Referent a la persona absent 10: Order number of person 10				
+T3_ABSENCIA_11	Referent a la persona absent 11: Quina és la causa de l'absència?	Referente a la persona ausente 11: ¿Cuál es la causa de la ausencia?	Referent a la persona absent 11: What is the reason for the absence?				
+T3_ABSENCIA_11				1	Per motiu de treball, estudis o viatge	Por motivos de trabajo, estudios o viaje	For work, study or travel reasons
+T3_ABSENCIA_11				6	Altres motius: està internat en un hospital o altra institució, residència, presó, etc.	Otros motivos: está internado en un hospital u otra institución, residencia, prisión, etc.	Other reasons: being hospitalised or in another institution, in a retirement home, prison, etc.
+T3_DUR_ABS_11	Referent a la persona absent 11: Quina és la durada total prevista de l'absència?	Referente a la persona ausente 11: ¿Cuál es la duración total prevista de la ausencia?	Referent a la persona absent 11: What is the expected total length of absence?				
+T3_DUR_ABS_11				1	Menor o igual a 6 mesos	Menor o igual a 6 meses	Less than or equal to 6 months
+T3_DUR_ABS_11				6	Major de 6 mesos	Mayor que 6 meses	Over 6 months old
+T3_DESP2_11	Referent a la persona absent 11: Comparteix despeses o ingressos de la llar?	Referente a la persona ausente 11: ¿Comparte gastos y/o ingresos del hogar?	Referent a la persona absent 11: Do you share household expenses or income?				
+T3_DESP2_11				1	Sí	Sí	Yes
+T3_DESP2_11				6	No	No	No
+T3_ES2_11	Referent a la persona absent 11: Tipus de membre de la llar que és la persona 11 absent	Referente a la persona ausente 11: Tipo de miembro del hogar que es la persona 11 ausente	Referent a la persona absent 11: Type of household member who is absent person 11 				
+T3_ES2_11				1	Membre de la llar	Miembro del hogar	Household member
+T3_ES2_11				2	Servei domèstic	Servicio doméstico	Domestic service
+T3_ES2_11				3	Hoste	Huésped	Host 
+T3_ES2_11				4	Convidat	Invitado	Guest
+T3_NUM_ORDRE_11	Referent a la persona absent 11: Número d'ordre de la persona 11	Referente a la persona ausente 11: Número de orden de la persona 11	Referent a la persona absent 11: Order number of person 11				
+T3_ABSENCIA_12	Referent a la persona absent 12: Quina és la causa de l'absència?	Referente a la persona ausente 12: ¿Cuál es la causa de la ausencia?	Referent a la persona absent 12: What is the reason for the absence?				
+T3_ABSENCIA_12				1	Per motiu de treball, estudis o viatge	Por motivos de trabajo, estudios o viaje	For work, study or travel reasons
+T3_ABSENCIA_12				6	Altres motius: està internat en un hospital o altra institució, residència, presó, etc.	Otros motivos: está internado en un hospital u otra institución, residencia, prisión, etc.	Other reasons: being hospitalised or in another institution, in a retirement home, prison, etc.
+T3_DUR_ABS_12	Referent a la persona absent 12: Quina és la durada total prevista de l'absència?	Referente a la persona ausente 12: ¿Cuál es la duración total prevista de la ausencia?	Referent a la persona absent 12: What is the expected total length of absence?				
+T3_DUR_ABS_12				1	Menor o igual a 6 mesos	Menor o igual a 6 meses	Less than or equal to 6 months
+T3_DUR_ABS_12				6	Major de 6 mesos	Mayor que 6 meses	Over 6 months old
+T3_DESP2_12	Referent a la persona absent 12: Comparteix despeses o ingressos de la llar?	Referente a la persona ausente 12: ¿Comparte gastos y/o ingresos del hogar?	Referent a la persona absent 12: Do you share household expenses or income?				
+T3_DESP2_12				1	Sí	Sí	Yes
+T3_DESP2_12				6	No	No	No
+T3_ES2_12	Referent a la persona absent 12: Tipus de membre de la llar que és la persona 12 absent	Referente a la persona ausente 12: Tipo de miembro del hogar que es la persona 12 ausente	Referent a la persona absent 12: Type of household member who is absent person 12 				
+T3_ES2_12				1	Membre de la llar	Miembro del hogar	Household member
+T3_ES2_12				2	Servei domèstic	Servicio doméstico	Domestic service
+T3_ES2_12				3	Hoste	Huésped	Host 
+T3_ES2_12				4	Convidat	Invitado	Guest
+T3_NUM_ORDRE_12	Referent a la persona absent 12: Número d'ordre de la persona 12	Referente a la persona ausente 12: Número de orden de la persona 12	Referent a la persona absent 12: Order number of person 12				
+T3_ABSENCIA_13	Referent a la persona absent 13: Quina és la causa de l'absència?	Referente a la persona ausente 13: ¿Cuál es la causa de la ausencia?	Referent a la persona absent 13: What is the reason for the absence?				
+T3_ABSENCIA_13				1	Per motiu de treball, estudis o viatge	Por motivos de trabajo, estudios o viaje	For work, study or travel reasons
+T3_ABSENCIA_13				6	Altres motius: està internat en un hospital o altra institució, residència, presó, etc.	Otros motivos: está internado en un hospital u otra institución, residencia, prisión, etc.	Other reasons: being hospitalised or in another institution, in a retirement home, prison, etc.
+T3_DUR_ABS_13	Referent a la persona absent 13: Quina és la durada total prevista de l'absència?	Referente a la persona ausente 13: ¿Cuál es la duración total prevista de la ausencia?	Referent a la persona absent 13: What is the expected total length of absence?				
+T3_DUR_ABS_13				1	Menor o igual a 6 mesos	Menor o igual a 6 meses	Less than or equal to 6 months
+T3_DUR_ABS_13				6	Major de 6 mesos	Mayor que 6 meses	Over 6 months old
+T3_DESP2_13	Referent a la persona absent 13: Comparteix despeses o ingressos de la llar?	Referente a la persona ausente 13: ¿Comparte gastos y/o ingresos del hogar?	Referent a la persona absent 13: Do you share household expenses or income?				
+T3_DESP2_13				1	Sí	Sí	Yes
+T3_DESP2_13				6	No	No	No
+T3_ES2_13	Referent a la persona absent 13: Tipus de membre de la llar que és la persona 13 absent	Referente a la persona ausente 13: Tipo de miembro del hogar que es la persona 13 ausente	Referent a la persona absent 13: Type of household member who is absent person 13 				
+T3_ES2_13				1	Membre de la llar	Miembro del hogar	Household member
+T3_ES2_13				2	Servei domèstic	Servicio doméstico	Domestic service
+T3_ES2_13				3	Hoste	Huésped	Host 
+T3_ES2_13				4	Convidat	Invitado	Guest
+T3_NUM_ORDRE_13	Referent a la persona absent 13: Número d'ordre de la persona 13	Referente a la persona ausente 13: Número de orden de la persona 13	Referent a la persona absent 13: Order number of person 13				
+T3_ABSENCIA_14	Referent a la persona absent 14: Quina és la causa de l'absència?	Referente a la persona ausente 14: ¿Cuál es la causa de la ausencia?	Referent a la persona absent 14: What is the reason for the absence?				
+T3_ABSENCIA_14				1	Per motiu de treball, estudis o viatge	Por motivos de trabajo, estudios o viaje	For work, study or travel reasons
+T3_ABSENCIA_14				6	Altres motius: està internat en un hospital o altra institució, residència, presó, etc.	Otros motivos: está internado en un hospital u otra institución, residencia, prisión, etc.	Other reasons: being hospitalised or in another institution, in a retirement home, prison, etc.
+T3_DUR_ABS_14	Referent a la persona absent 14: Quina és la durada total prevista de l'absència?	Referente a la persona ausente 14: ¿Cuál es la duración total prevista de la ausencia?	Referent a la persona absent 14: What is the expected total length of absence?				
+T3_DUR_ABS_14				1	Menor o igual a 6 mesos	Menor o igual a 6 meses	Less than or equal to 6 months
+T3_DUR_ABS_14				6	Major de 6 mesos	Mayor que 6 meses	Over 6 months old
+T3_DESP2_14	Referent a la persona absent 14: Comparteix despeses o ingressos de la llar?	Referente a la persona ausente 14: ¿Comparte gastos y/o ingresos del hogar?	Referent a la persona absent 14: Do you share household expenses or income?				
+T3_DESP2_14				1	Sí	Sí	Yes
+T3_DESP2_14				6	No	No	No
+T3_ES2_14	Referent a la persona absent 14: Tipus de membre de la llar que és la persona 14 absent	Referente a la persona ausente 14: Tipo de miembro del hogar que es la persona 14 ausente	Referent a la persona absent 14: Type of household member who is absent person 14 				
+T3_ES2_14				1	Membre de la llar	Miembro del hogar	Household member
+T3_ES2_14				2	Servei domèstic	Servicio doméstico	Domestic service
+T3_ES2_14				3	Hoste	Huésped	Host 
+T3_ES2_14				4	Convidat	Invitado	Guest
+T3_NUM_ORDRE_14	Referent a la persona absent 14: Número d'ordre de la persona 14	Referente a la persona ausente 14: Número de orden de la persona 14	Referent a la persona absent 14: Order number of person 14				
+T3_ABSENCIA_15	Referent a la persona absent 15: Quina és la causa de l'absència?	Referente a la persona ausente 15: ¿Cuál es la causa de la ausencia?	Referent a la persona absent 15: What is the reason for the absence?				
+T3_ABSENCIA_15				1	Per motiu de treball, estudis o viatge	Por motivos de trabajo, estudios o viaje	For work, study or travel reasons
+T3_ABSENCIA_15				6	Altres motius: està internat en un hospital o altra institució, residència, presó, etc.	Otros motivos: está internado en un hospital u otra institución, residencia, prisión, etc.	Other reasons: being hospitalised or in another institution, in a retirement home, prison, etc.
+T3_DUR_ABS_15	Referent a la persona absent 15: Quina és la durada total prevista de l'absència?	Referente a la persona ausente 15: ¿Cuál es la duración total prevista de la ausencia?	Referent a la persona absent 15: What is the expected total length of absence?				
+T3_DUR_ABS_15				1	Menor o igual a 6 mesos	Menor o igual a 6 meses	Less than or equal to 6 months
+T3_DUR_ABS_15				6	Major de 6 mesos	Mayor que 6 meses	Over 6 months old
+T3_DESP2_15	Referent a la persona absent 15: Comparteix despeses o ingressos de la llar?	Referente a la persona ausente 15: ¿Comparte gastos y/o ingresos del hogar?	Referent a la persona absent 15: Do you share household expenses or income?				
+T3_DESP2_15				1	Sí	Sí	Yes
+T3_DESP2_15				6	No	No	No
+T3_ES2_15	Referent a la persona absent 15: Tipus de membre de la llar que és la persona 15 absent	Referente a la persona ausente 15: Tipo de miembro del hogar que es la persona 15 ausente	Referent a la persona absent 15: Type of household member who is absent person 15 				
+T3_ES2_15				1	Membre de la llar	Miembro del hogar	Household member
+T3_ES2_15				2	Servei domèstic	Servicio doméstico	Domestic service
+T3_ES2_15				3	Hoste	Huésped	Host 
+T3_ES2_15				4	Convidat	Invitado	Guest
+T3_NUM_ORDRE_15	Referent a la persona absent 15: Número d'ordre de la persona 15	Referente a la persona ausente 15: Número de orden de la persona 15	Referent a la persona absent 15: Order number of person 15				
+T4_SEXE_1	Sexe de la persona 1	Sexo de la persona 1	Sex of person 1				
+T4_SEXE_1				1	Home	Hombre	Man
+T4_SEXE_1				6	Dona	Mujer	Woman
+T4_MES_NAIX_1	Mes de naixement de la persona 1	Mes de nacimiento de la persona 1	Month of birth of person 1				
+T4_ANY_NAIX_1	Any de naixement de la persona 1	Año de nacimiento de la persona 1	Year of birth of person 1				
+T4_EDAT_1	Edat de la persona 1 (només si desconeix la data de naixement)	Edad de la persona 1 (sólo si desconoce la fecha de nacimiento)	Age of person 1 (only if the date of birth is not known)				
+T4_REL_ACT_1	Relació amb l'activitat econòmica de la persona 1	Relación con la actividad económica de la persona 1	Relationship with the economic activity of person 1				
+T4_REL_ACT_1				1	Ocupat	Ocupado	Employed
+T4_REL_ACT_1				2	Parat 	Parado	Unemployed
+T4_REL_ACT_1				3	Estudiant	Estudiante	Student
+T4_REL_ACT_1				4	Jubilat, prejubitat	Jubilado, prejubilado	Retired, pre-retired
+T4_REL_ACT_1				5	Cobrant una pensió de viduïtat o orfandat	Cobrando una pensión de viudedad u orfandad	Receiving a widow/widower’s or orphan's pension
+T4_REL_ACT_1				7	Fent tasques de voluntariat social	Realizando tareas de voluntariado social	Social volunteer work
+T4_REL_ACT_1				8	Fent tasques de la llar	Realizando tareas del hogar	Household tasks
+T4_REL_ACT_1				9	Una altra situació d'inactivitat	Otra situación de inactividad	Another situation of inactivity
+T4_SEXE_2	Sexe de la persona 2	Sexo de la persona 2	Sex of person 2				
+T4_SEXE_2				1	Home	Hombre	Man
+T4_SEXE_2				6	Dona	Mujer	Woman
+T4_MES_NAIX_2	Mes de naixement de la persona 2	Mes de nacimiento de la persona 2	Month of birth of person 2				
+T4_ANY_NAIX_2	Any de naixement de la persona 2	Año de nacimiento de la persona 2	Year of birth of person 2				
+T4_EDAT_2	Edat de la persona 2 (només si desconeix la data de naixement)	Edad de la persona 2 (sólo si desconoce la fecha de nacimiento)	Age of person 2 (only if the date of birth is not known)				
+T4_REL_ACT_2	Relació amb l'activitat econòmica de la persona 2	Relación con la actividad económica de la persona 2	Relationship with the economic activity of person 2				
+T4_REL_ACT_2				1	Ocupat	Ocupado	Employed
+T4_REL_ACT_2				2	Parat 	Parado	Unemployed
+T4_REL_ACT_2				3	Estudiant	Estudiante	Student
+T4_REL_ACT_2				4	Jubilat, prejubitat	Jubilado, prejubilado	Retired, pre-retired
+T4_REL_ACT_2				5	Cobrant una pensió de viduïtat o orfandat	Cobrando una pensión de viudedad u orfandad	Receiving a widow/widower’s or orphan's pension
+T4_REL_ACT_2				7	Fent tasques de voluntariat social	Realizando tareas de voluntariado social	Social volunteer work
+T4_REL_ACT_2				8	Fent tasques de la llar	Realizando tareas del hogar	Household tasks
+T4_REL_ACT_2				9	Una altra situació d'inactivitat	Otra situación de inactividad	Another situation of inactivity
+T4_SEXE_3	Sexe de la persona 3	Sexo de la persona 3	Sex of person 3				
+T4_SEXE_3				1	Home	Hombre	Man
+T4_SEXE_3				6	Dona	Mujer	Woman
+T4_MES_NAIX_3	Mes de naixement de la persona 3	Mes de nacimiento de la persona 3	Month of birth of person 3				
+T4_ANY_NAIX_3	Any de naixement de la persona 3	Año de nacimiento de la persona 3	Year of birth of person 3				
+T4_EDAT_3	Edat de la persona 3 (només si desconeix la data de naixement)	Edad de la persona 3 (sólo si desconoce la fecha de nacimiento)	Age of person 3 (only if the date of birth is not known)				
+T4_REL_ACT_3	Relació amb l'activitat econòmica de la persona 3	Relación con la actividad económica de la persona 3	Relationship with the economic activity of person 3				
+T4_REL_ACT_3				1	Ocupat	Ocupado	Employed
+T4_REL_ACT_3				2	Parat 	Parado	Unemployed
+T4_REL_ACT_3				3	Estudiant	Estudiante	Student
+T4_REL_ACT_3				4	Jubilat, prejubitat	Jubilado, prejubilado	Retired, pre-retired
+T4_REL_ACT_3				5	Cobrant una pensió de viduïtat o orfandat	Cobrando una pensión de viudedad u orfandad	Receiving a widow/widower’s or orphan's pension
+T4_REL_ACT_3				7	Fent tasques de voluntariat social	Realizando tareas de voluntariado social	Social volunteer work
+T4_REL_ACT_3				8	Fent tasques de la llar	Realizando tareas del hogar	Household tasks
+T4_REL_ACT_3				9	Una altra situació d'inactivitat	Otra situación de inactividad	Another situation of inactivity
+T4_SEXE_4	Sexe de la persona 4	Sexo de la persona 4	Sex of person 4				
+T4_SEXE_4				1	Home	Hombre	Man
+T4_SEXE_4				6	Dona	Mujer	Woman
+T4_MES_NAIX_4	Mes de naixement de la persona 4	Mes de nacimiento de la persona 4	Month of birth of person 4				
+T4_ANY_NAIX_4	Any de naixement de la persona 4	Año de nacimiento de la persona 4	Year of birth of person 4				
+T4_EDAT_4	Edat de la persona 4 (només si desconeix la data de naixement)	Edad de la persona 4 (sólo si desconoce la fecha de nacimiento)	Age of person 4 (only if the date of birth is not known)				
+T4_REL_ACT_4	Relació amb l'activitat econòmica de la persona 4	Relación con la actividad económica de la persona 4	Relationship with the economic activity of person 4				
+T4_REL_ACT_4				1	Ocupat	Ocupado	Employed
+T4_REL_ACT_4				2	Parat 	Parado	Unemployed
+T4_REL_ACT_4				3	Estudiant	Estudiante	Student
+T4_REL_ACT_4				4	Jubilat, prejubitat	Jubilado, prejubilado	Retired, pre-retired
+T4_REL_ACT_4				5	Cobrant una pensió de viduïtat o orfandat	Cobrando una pensión de viudedad u orfandad	Receiving a widow/widower’s or orphan's pension
+T4_REL_ACT_4				7	Fent tasques de voluntariat social	Realizando tareas de voluntariado social	Social volunteer work
+T4_REL_ACT_4				8	Fent tasques de la llar	Realizando tareas del hogar	Household tasks
+T4_REL_ACT_4				9	Una altra situació d'inactivitat	Otra situación de inactividad	Another situation of inactivity
+T4_SEXE_5	Sexe de la persona 5	Sexo de la persona 5	Sex of person 5				
+T4_SEXE_5				1	Home	Hombre	Man
+T4_SEXE_5				6	Dona	Mujer	Woman
+T4_MES_NAIX_5	Mes de naixement de la persona 5	Mes de nacimiento de la persona 5	Month of birth of person 5				
+T4_ANY_NAIX_5	Any de naixement de la persona 5	Año de nacimiento de la persona 5	Year of birth of person 5				
+T4_EDAT_5	Edat de la persona 5 (només si desconeix la data de naixement)	Edad de la persona 5 (sólo si desconoce la fecha de nacimiento)	Age of person 5 (only if the date of birth is not known)				
+T4_REL_ACT_5	Relació amb l'activitat econòmica de la persona 5	Relación con la actividad económica de la persona 5	Relationship with the economic activity of person 5				
+T4_REL_ACT_5				1	Ocupat	Ocupado	Employed
+T4_REL_ACT_5				2	Parat 	Parado	Unemployed
+T4_REL_ACT_5				3	Estudiant	Estudiante	Student
+T4_REL_ACT_5				4	Jubilat, prejubitat	Jubilado, prejubilado	Retired, pre-retired
+T4_REL_ACT_5				5	Cobrant una pensió de viduïtat o orfandat	Cobrando una pensión de viudedad u orfandad	Receiving a widow/widower’s or orphan's pension
+T4_REL_ACT_5				7	Fent tasques de voluntariat social	Realizando tareas de voluntariado social	Social volunteer work
+T4_REL_ACT_5				8	Fent tasques de la llar	Realizando tareas del hogar	Household tasks
+T4_REL_ACT_5				9	Una altra situació d'inactivitat	Otra situación de inactividad	Another situation of inactivity
+T4_SEXE_6	Sexe de la persona 6	Sexo de la persona 6	Sex of person 6				
+T4_SEXE_6				1	Home	Hombre	Man
+T4_SEXE_6				6	Dona	Mujer	Woman
+T4_MES_NAIX_6	Mes de naixement de la persona 6	Mes de nacimiento de la persona 6	Month of birth of person 6				
+T4_ANY_NAIX_6	Any de naixement de la persona 6	Año de nacimiento de la persona 6	Year of birth of person 6				
+T4_EDAT_6	Edat de la persona 6 (només si desconeix la data de naixement)	Edad de la persona 6 (sólo si desconoce la fecha de nacimiento)	Age of person 6 (only if the date of birth is not known)				
+T4_REL_ACT_6	Relació amb l'activitat econòmica de la persona 6	Relación con la actividad económica de la persona 6	Relationship with the economic activity of person 6				
+T4_REL_ACT_6				1	Ocupat	Ocupado	Employed
+T4_REL_ACT_6				2	Parat 	Parado	Unemployed
+T4_REL_ACT_6				3	Estudiant	Estudiante	Student
+T4_REL_ACT_6				4	Jubilat, prejubitat	Jubilado, prejubilado	Retired, pre-retired
+T4_REL_ACT_6				5	Cobrant una pensió de viduïtat o orfandat	Cobrando una pensión de viudedad u orfandad	Receiving a widow/widower’s or orphan's pension
+T4_REL_ACT_6				7	Fent tasques de voluntariat social	Realizando tareas de voluntariado social	Social volunteer work
+T4_REL_ACT_6				8	Fent tasques de la llar	Realizando tareas del hogar	Household tasks
+T4_REL_ACT_6				9	Una altra situació d'inactivitat	Otra situación de inactividad	Another situation of inactivity
+T4_SEXE_7	Sexe de la persona 7	Sexo de la persona 7	Sex of person 7				
+T4_SEXE_7				1	Home	Hombre	Man
+T4_SEXE_7				6	Dona	Mujer	Woman
+T4_MES_NAIX_7	Mes de naixement de la persona 7	Mes de nacimiento de la persona 7	Month of birth of person 7				
+T4_ANY_NAIX_7	Any de naixement de la persona 7	Año de nacimiento de la persona 7	Year of birth of person 7				
+T4_EDAT_7	Edat de la persona 7 (només si desconeix la data de naixement)	Edad de la persona 7 (sólo si desconoce la fecha de nacimiento)	Age of person 7 (only if the date of birth is not known)				
+T4_REL_ACT_7	Relació amb l'activitat econòmica de la persona 7	Relación con la actividad económica de la persona 7	Relationship with the economic activity of person 7				
+T4_REL_ACT_7				1	Ocupat	Ocupado	Employed
+T4_REL_ACT_7				2	Parat 	Parado	Unemployed
+T4_REL_ACT_7				3	Estudiant	Estudiante	Student
+T4_REL_ACT_7				4	Jubilat, prejubitat	Jubilado, prejubilado	Retired, pre-retired
+T4_REL_ACT_7				5	Cobrant una pensió de viduïtat o orfandat	Cobrando una pensión de viudedad u orfandad	Receiving a widow/widower’s or orphan's pension
+T4_REL_ACT_7				7	Fent tasques de voluntariat social	Realizando tareas de voluntariado social	Social volunteer work
+T4_REL_ACT_7				8	Fent tasques de la llar	Realizando tareas del hogar	Household tasks
+T4_REL_ACT_7				9	Una altra situació d'inactivitat	Otra situación de inactividad	Another situation of inactivity
+T4_SEXE_8	Sexe de la persona 8	Sexo de la persona 8	Sex of person 8				
+T4_SEXE_8				1	Home	Hombre	Man
+T4_SEXE_8				6	Dona	Mujer	Woman
+T4_MES_NAIX_8	Mes de naixement de la persona 8	Mes de nacimiento de la persona 8	Month of birth of person 8				
+T4_ANY_NAIX_8	Any de naixement de la persona 8	Año de nacimiento de la persona 8	Year of birth of person 8				
+T4_EDAT_8	Edat de la persona 8 (només si desconeix la data de naixement)	Edad de la persona 8 (sólo si desconoce la fecha de nacimiento)	Age of person 8 (only if the date of birth is not known)				
+T4_REL_ACT_8	Relació amb l'activitat econòmica de la persona 8	Relación con la actividad económica de la persona 8	Relationship with the economic activity of person 8				
+T4_REL_ACT_8				1	Ocupat	Ocupado	Employed
+T4_REL_ACT_8				2	Parat 	Parado	Unemployed
+T4_REL_ACT_8				3	Estudiant	Estudiante	Student
+T4_REL_ACT_8				4	Jubilat, prejubitat	Jubilado, prejubilado	Retired, pre-retired
+T4_REL_ACT_8				5	Cobrant una pensió de viduïtat o orfandat	Cobrando una pensión de viudedad u orfandad	Receiving a widow/widower’s or orphan's pension
+T4_REL_ACT_8				7	Fent tasques de voluntariat social	Realizando tareas de voluntariado social	Social volunteer work
+T4_REL_ACT_8				8	Fent tasques de la llar	Realizando tareas del hogar	Household tasks
+T4_REL_ACT_8				9	Una altra situació d'inactivitat	Otra situación de inactividad	Another situation of inactivity
+T4_SEXE_9	Sexe de la persona 9	Sexo de la persona 9	Sex of person 9				
+T4_SEXE_9				1	Home	Hombre	Man
+T4_SEXE_9				6	Dona	Mujer	Woman
+T4_MES_NAIX_9	Mes de naixement de la persona 9	Mes de nacimiento de la persona 9	Month of birth of person 9				
+T4_ANY_NAIX_9	Any de naixement de la persona 9	Año de nacimiento de la persona 9	Year of birth of person 9				
+T4_EDAT_9	Edat de la persona 9 (només si desconeix la data de naixement)	Edad de la persona 9 (sólo si desconoce la fecha de nacimiento)	Age of person 9 (only if the date of birth is not known)				
+T4_REL_ACT_9	Relació amb l'activitat econòmica de la persona 9	Relación con la actividad económica de la persona 9	Relationship with the economic activity of person 9				
+T4_REL_ACT_9				1	Ocupat	Ocupado	Employed
+T4_REL_ACT_9				2	Parat 	Parado	Unemployed
+T4_REL_ACT_9				3	Estudiant	Estudiante	Student
+T4_REL_ACT_9				4	Jubilat, prejubitat	Jubilado, prejubilado	Retired, pre-retired
+T4_REL_ACT_9				5	Cobrant una pensió de viduïtat o orfandat	Cobrando una pensión de viudedad u orfandad	Receiving a widow/widower’s or orphan's pension
+T4_REL_ACT_9				7	Fent tasques de voluntariat social	Realizando tareas de voluntariado social	Social volunteer work
+T4_REL_ACT_9				8	Fent tasques de la llar	Realizando tareas del hogar	Household tasks
+T4_REL_ACT_9				9	Una altra situació d'inactivitat	Otra situación de inactividad	Another situation of inactivity
+T4_SEXE_10	Sexe de la persona 10	Sexo de la persona 10	Sex of person 10				
+T4_SEXE_10				1	Home	Hombre	Man
+T4_SEXE_10				6	Dona	Mujer	Woman
+T4_MES_NAIX_10	Mes de naixement de la persona 10	Mes de nacimiento de la persona 10	Month of birth of person 10				
+T4_ANY_NAIX_10	Any de naixement de la persona 10	Año de nacimiento de la persona 10	Year of birth of person 10				
+T4_EDAT_10	Edat de la persona 10 (només si desconeix la data de naixement)	Edad de la persona 10 (sólo si desconoce la fecha de nacimiento)	Age of person 10 (only if the date of birth is not known)				
+T4_REL_ACT_10	Relació amb l'activitat econòmica de la persona 10	Relación con la actividad económica de la persona 10	Relationship with the economic activity of person 10				
+T4_REL_ACT_10				1	Ocupat	Ocupado	Employed
+T4_REL_ACT_10				2	Parat 	Parado	Unemployed
+T4_REL_ACT_10				3	Estudiant	Estudiante	Student
+T4_REL_ACT_10				4	Jubilat, prejubitat	Jubilado, prejubilado	Retired, pre-retired
+T4_REL_ACT_10				5	Cobrant una pensió de viduïtat o orfandat	Cobrando una pensión de viudedad u orfandad	Receiving a widow/widower’s or orphan's pension
+T4_REL_ACT_10				7	Fent tasques de voluntariat social	Realizando tareas de voluntariado social	Social volunteer work
+T4_REL_ACT_10				8	Fent tasques de la llar	Realizando tareas del hogar	Household tasks
+T4_REL_ACT_10				9	Una altra situació d'inactivitat	Otra situación de inactividad	Another situation of inactivity
+T4_SEXE_11	Sexe de la persona 11	Sexo de la persona 11	Sex of person 11				
+T4_SEXE_11				1	Home	Hombre	Man
+T4_SEXE_11				6	Dona	Mujer	Woman
+T4_MES_NAIX_11	Mes de naixement de la persona 11	Mes de nacimiento de la persona 11	Month of birth of person 11				
+T4_ANY_NAIX_11	Any de naixement de la persona 11	Año de nacimiento de la persona 11	Year of birth of person 11				
+T4_EDAT_11	Edat de la persona 11 (només si desconeix la data de naixement)	Edad de la persona 11 (sólo si desconoce la fecha de nacimiento)	Age of person 11 (only if the date of birth is not known)				
+T4_REL_ACT_11	Relació amb l'activitat econòmica de la persona 11	Relación con la actividad económica de la persona 11	Relationship with the economic activity of person 11				
+T4_REL_ACT_11				1	Ocupat	Ocupado	Employed
+T4_REL_ACT_11				2	Parat 	Parado	Unemployed
+T4_REL_ACT_11				3	Estudiant	Estudiante	Student
+T4_REL_ACT_11				4	Jubilat, prejubitat	Jubilado, prejubilado	Retired, pre-retired
+T4_REL_ACT_11				5	Cobrant una pensió de viduïtat o orfandat	Cobrando una pensión de viudedad u orfandad	Receiving a widow/widower’s or orphan's pension
+T4_REL_ACT_11				7	Fent tasques de voluntariat social	Realizando tareas de voluntariado social	Social volunteer work
+T4_REL_ACT_11				8	Fent tasques de la llar	Realizando tareas del hogar	Household tasks
+T4_REL_ACT_11				9	Una altra situació d'inactivitat	Otra situación de inactividad	Another situation of inactivity
+T4_SEXE_12	Sexe de la persona 12	Sexo de la persona 12	Sex of person 12				
+T4_SEXE_12				1	Home	Hombre	Man
+T4_SEXE_12				6	Dona	Mujer	Woman
+T4_MES_NAIX_12	Mes de naixement de la persona 12	Mes de nacimiento de la persona 12	Month of birth of person 12				
+T4_ANY_NAIX_12	Any de naixement de la persona 12	Año de nacimiento de la persona 12	Year of birth of person 12				
+T4_EDAT_12	Edat de la persona 12 (només si desconeix la data de naixement)	Edad de la persona 12 (sólo si desconoce la fecha de nacimiento)	Age of person 12 (only if the date of birth is not known)				
+T4_REL_ACT_12	Relació amb l'activitat econòmica de la persona 12	Relación con la actividad económica de la persona 12	Relationship with the economic activity of person 12				
+T4_REL_ACT_12				1	Ocupat	Ocupado	Employed
+T4_REL_ACT_12				2	Parat 	Parado	Unemployed
+T4_REL_ACT_12				3	Estudiant	Estudiante	Student
+T4_REL_ACT_12				4	Jubilat, prejubitat	Jubilado, prejubilado	Retired, pre-retired
+T4_REL_ACT_12				5	Cobrant una pensió de viduïtat o orfandat	Cobrando una pensión de viudedad u orfandad	Receiving a widow/widower’s or orphan's pension
+T4_REL_ACT_12				7	Fent tasques de voluntariat social	Realizando tareas de voluntariado social	Social volunteer work
+T4_REL_ACT_12				8	Fent tasques de la llar	Realizando tareas del hogar	Household tasks
+T4_REL_ACT_12				9	Una altra situació d'inactivitat	Otra situación de inactividad	Another situation of inactivity
+T4_SEXE_13	Sexe de la persona 13	Sexo de la persona 13	Sex of person 13				
+T4_SEXE_13				1	Home	Hombre	Man
+T4_SEXE_13				6	Dona	Mujer	Woman
+T4_MES_NAIX_13	Mes de naixement de la persona 13	Mes de nacimiento de la persona 13	Month of birth of person 13				
+T4_ANY_NAIX_13	Any de naixement de la persona 13	Año de nacimiento de la persona 13	Year of birth of person 13				
+T4_EDAT_13	Edat de la persona 13 (només si desconeix la data de naixement)	Edad de la persona 13 (sólo si desconoce la fecha de nacimiento)	Age of person 13 (only if the date of birth is not known)				
+T4_REL_ACT_13	Relació amb l'activitat econòmica de la persona 13	Relación con la actividad económica de la persona 13	Relationship with the economic activity of person 13				
+T4_REL_ACT_13				1	Ocupat	Ocupado	Employed
+T4_REL_ACT_13				2	Parat 	Parado	Unemployed
+T4_REL_ACT_13				3	Estudiant	Estudiante	Student
+T4_REL_ACT_13				4	Jubilat, prejubitat	Jubilado, prejubilado	Retired, pre-retired
+T4_REL_ACT_13				5	Cobrant una pensió de viduïtat o orfandat	Cobrando una pensión de viudedad u orfandad	Receiving a widow/widower’s or orphan's pension
+T4_REL_ACT_13				7	Fent tasques de voluntariat social	Realizando tareas de voluntariado social	Social volunteer work
+T4_REL_ACT_13				8	Fent tasques de la llar	Realizando tareas del hogar	Household tasks
+T4_REL_ACT_13				9	Una altra situació d'inactivitat	Otra situación de inactividad	Another situation of inactivity
+T4_SEXE_14	Sexe de la persona 14	Sexo de la persona 14	Sex of person 14				
+T4_SEXE_14				1	Home	Hombre	Man
+T4_SEXE_14				6	Dona	Mujer	Woman
+T4_MES_NAIX_14	Mes de naixement de la persona 14	Mes de nacimiento de la persona 14	Month of birth of person 14				
+T4_ANY_NAIX_14	Any de naixement de la persona 14	Año de nacimiento de la persona 14	Year of birth of person 14				
+T4_EDAT_14	Edat de la persona 14 (només si desconeix la data de naixement)	Edad de la persona 14 (sólo si desconoce la fecha de nacimiento)	Age of person 14 (only if the date of birth is not known)				
+T4_REL_ACT_14	Relació amb l'activitat econòmica de la persona 14	Relación con la actividad económica de la persona 14	Relationship with the economic activity of person 14				
+T4_REL_ACT_14				1	Ocupat	Ocupado	Employed
+T4_REL_ACT_14				2	Parat 	Parado	Unemployed
+T4_REL_ACT_14				3	Estudiant	Estudiante	Student
+T4_REL_ACT_14				4	Jubilat, prejubitat	Jubilado, prejubilado	Retired, pre-retired
+T4_REL_ACT_14				5	Cobrant una pensió de viduïtat o orfandat	Cobrando una pensión de viudedad u orfandad	Receiving a widow/widower’s or orphan's pension
+T4_REL_ACT_14				7	Fent tasques de voluntariat social	Realizando tareas de voluntariado social	Social volunteer work
+T4_REL_ACT_14				8	Fent tasques de la llar	Realizando tareas del hogar	Household tasks
+T4_REL_ACT_14				9	Una altra situació d'inactivitat	Otra situación de inactividad	Another situation of inactivity
+T4_SEXE_15	Sexe de la persona 15	Sexo de la persona 15	Sex of person 15				
+T4_SEXE_15				1	Home	Hombre	Man
+T4_SEXE_15				6	Dona	Mujer	Woman
+T4_MES_NAIX_15	Mes de naixement de la persona 15	Mes de nacimiento de la persona 15	Month of birth of person 15				
+T4_ANY_NAIX_15	Any de naixement de la persona 15	Año de nacimiento de la persona 15	Year of birth of person 15				
+T4_EDAT_15	Edat de la persona 15 (només si desconeix la data de naixement)	Edad de la persona 15 (sólo si desconoce la fecha de nacimiento)	Age of person 15 (only if the date of birth is not known)				
+T4_REL_ACT_15	Relació amb l'activitat econòmica de la persona 15	Relación con la actividad económica de la persona 15	Relationship with the economic activity of person 15				
+T4_REL_ACT_15				1	Ocupat	Ocupado	Employed
+T4_REL_ACT_15				2	Parat 	Parado	Unemployed
+T4_REL_ACT_15				3	Estudiant	Estudiante	Student
+T4_REL_ACT_15				4	Jubilat, prejubitat	Jubilado, prejubilado	Retired, pre-retired
+T4_REL_ACT_15				5	Cobrant una pensió de viduïtat o orfandat	Cobrando una pensión de viudedad u orfandad	Receiving a widow/widower’s or orphan's pension
+T4_REL_ACT_15				7	Fent tasques de voluntariat social	Realizando tareas de voluntariado social	Social volunteer work
+T4_REL_ACT_15				8	Fent tasques de la llar	Realizando tareas del hogar	Household tasks
+T4_REL_ACT_15				9	Una altra situació d'inactivitat	Otra situación de inactividad	Another situation of inactivity
+T4_PARENTIU02_1	Parentiu de la persona 2 amb la persona 1	Parentesco de la persona 2 con la persona 1	Kinship of person 2 with person 1				
+T4_PARENTIU02_1				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU02_1				02	Fill	Hijo	Son
+T4_PARENTIU02_1				03	Germà	Hermano	Brother
+T4_PARENTIU02_1				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU02_1				05	Net	Nieto	Grandson
+T4_PARENTIU02_1				06	Avi	Abuelo	Grandfather
+T4_PARENTIU02_1				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU02_1				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU02_1				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU02_1				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU02_1				11	No emparentat	No emparentado	Not related
+T4_PARENTIU03_1	Parentiu de la persona 3 amb la persona 1	Parentesco de la persona 3 con la persona 1	Kinship of person 3 with person 1				
+T4_PARENTIU03_1				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU03_1				02	Fill	Hijo	Son
+T4_PARENTIU03_1				03	Germà	Hermano	Brother
+T4_PARENTIU03_1				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU03_1				05	Net	Nieto	Grandson
+T4_PARENTIU03_1				06	Avi	Abuelo	Grandfather
+T4_PARENTIU03_1				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU03_1				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU03_1				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU03_1				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU03_1				11	No emparentat	No emparentado	Not related
+T4_PARENTIU03_2	Parentiu de la persona 3 amb la persona 2	Parentesco de la persona 3 con la persona 2	Kinship of person 3 with person 2				
+T4_PARENTIU03_2				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU03_2				02	Fill	Hijo	Son
+T4_PARENTIU03_2				03	Germà	Hermano	Brother
+T4_PARENTIU03_2				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU03_2				05	Net	Nieto	Grandson
+T4_PARENTIU03_2				06	Avi	Abuelo	Grandfather
+T4_PARENTIU03_2				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU03_2				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU03_2				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU03_2				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU03_2				11	No emparentat	No emparentado	Not related
+T4_PARENTIU04_1	Parentiu de la persona 4 amb la persona 1	Parentesco de la persona 4 con la persona 1	Kinship of person 4 with person 1				
+T4_PARENTIU04_1				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU04_1				02	Fill	Hijo	Son
+T4_PARENTIU04_1				03	Germà	Hermano	Brother
+T4_PARENTIU04_1				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU04_1				05	Net	Nieto	Grandson
+T4_PARENTIU04_1				06	Avi	Abuelo	Grandfather
+T4_PARENTIU04_1				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU04_1				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU04_1				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU04_1				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU04_1				11	No emparentat	No emparentado	Not related
+T4_PARENTIU04_2	Parentiu de la persona 4 amb la persona 2	Parentesco de la persona 4 con la persona 2	Kinship of person 4 with person 2				
+T4_PARENTIU04_2				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU04_2				02	Fill	Hijo	Son
+T4_PARENTIU04_2				03	Germà	Hermano	Brother
+T4_PARENTIU04_2				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU04_2				05	Net	Nieto	Grandson
+T4_PARENTIU04_2				06	Avi	Abuelo	Grandfather
+T4_PARENTIU04_2				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU04_2				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU04_2				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU04_2				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU04_2				11	No emparentat	No emparentado	Not related
+T4_PARENTIU04_3	Parentiu de la persona 4 amb la persona 3	Parentesco de la persona 4 con la persona 3	Kinship of person 4 with person 3				
+T4_PARENTIU04_3				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU04_3				02	Fill	Hijo	Son
+T4_PARENTIU04_3				03	Germà	Hermano	Brother
+T4_PARENTIU04_3				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU04_3				05	Net	Nieto	Grandson
+T4_PARENTIU04_3				06	Avi	Abuelo	Grandfather
+T4_PARENTIU04_3				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU04_3				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU04_3				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU04_3				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU04_3				11	No emparentat	No emparentado	Not related
+T4_PARENTIU05_1	Parentiu de la persona 5 amb la persona 1	Parentesco de la persona 5 con la persona 1	Kinship of person 5 with person 1				
+T4_PARENTIU05_1				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU05_1				02	Fill	Hijo	Son
+T4_PARENTIU05_1				03	Germà	Hermano	Brother
+T4_PARENTIU05_1				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU05_1				05	Net	Nieto	Grandson
+T4_PARENTIU05_1				06	Avi	Abuelo	Grandfather
+T4_PARENTIU05_1				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU05_1				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU05_1				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU05_1				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU05_1				11	No emparentat	No emparentado	Not related
+T4_PARENTIU05_2	Parentiu de la persona 5 amb la persona 2	Parentesco de la persona 5 con la persona 2	Kinship of person 5 with person 2				
+T4_PARENTIU05_2				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU05_2				02	Fill	Hijo	Son
+T4_PARENTIU05_2				03	Germà	Hermano	Brother
+T4_PARENTIU05_2				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU05_2				05	Net	Nieto	Grandson
+T4_PARENTIU05_2				06	Avi	Abuelo	Grandfather
+T4_PARENTIU05_2				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU05_2				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU05_2				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU05_2				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU05_2				11	No emparentat	No emparentado	Not related
+T4_PARENTIU05_3	Parentiu de la persona 5 amb la persona 3	Parentesco de la persona 5 con la persona 3	Kinship of person 5 with person 3				
+T4_PARENTIU05_3				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU05_3				02	Fill	Hijo	Son
+T4_PARENTIU05_3				03	Germà	Hermano	Brother
+T4_PARENTIU05_3				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU05_3				05	Net	Nieto	Grandson
+T4_PARENTIU05_3				06	Avi	Abuelo	Grandfather
+T4_PARENTIU05_3				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU05_3				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU05_3				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU05_3				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU05_3				11	No emparentat	No emparentado	Not related
+T4_PARENTIU05_4	Parentiu de la persona 5 amb la persona 4	Parentesco de la persona 5 con la persona 4	Kinship of person 5 with person 4				
+T4_PARENTIU05_4				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU05_4				02	Fill	Hijo	Son
+T4_PARENTIU05_4				03	Germà	Hermano	Brother
+T4_PARENTIU05_4				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU05_4				05	Net	Nieto	Grandson
+T4_PARENTIU05_4				06	Avi	Abuelo	Grandfather
+T4_PARENTIU05_4				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU05_4				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU05_4				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU05_4				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU05_4				11	No emparentat	No emparentado	Not related
+T4_PARENTIU06_1	Parentiu de la persona 6 amb la persona 1	Parentesco de la persona 6 con la persona 1	Kinship of person 6 with person 1				
+T4_PARENTIU06_1				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU06_1				02	Fill	Hijo	Son
+T4_PARENTIU06_1				03	Germà	Hermano	Brother
+T4_PARENTIU06_1				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU06_1				05	Net	Nieto	Grandson
+T4_PARENTIU06_1				06	Avi	Abuelo	Grandfather
+T4_PARENTIU06_1				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU06_1				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU06_1				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU06_1				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU06_1				11	No emparentat	No emparentado	Not related
+T4_PARENTIU06_2	Parentiu de la persona 6 amb la persona 2	Parentesco de la persona 6 con la persona 2	Kinship of person 6 with person 2				
+T4_PARENTIU06_2				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU06_2				02	Fill	Hijo	Son
+T4_PARENTIU06_2				03	Germà	Hermano	Brother
+T4_PARENTIU06_2				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU06_2				05	Net	Nieto	Grandson
+T4_PARENTIU06_2				06	Avi	Abuelo	Grandfather
+T4_PARENTIU06_2				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU06_2				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU06_2				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU06_2				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU06_2				11	No emparentat	No emparentado	Not related
+T4_PARENTIU06_3	Parentiu de la persona 6 amb la persona 3	Parentesco de la persona 6 con la persona 3	Kinship of person 6 with person 3				
+T4_PARENTIU06_3				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU06_3				02	Fill	Hijo	Son
+T4_PARENTIU06_3				03	Germà	Hermano	Brother
+T4_PARENTIU06_3				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU06_3				05	Net	Nieto	Grandson
+T4_PARENTIU06_3				06	Avi	Abuelo	Grandfather
+T4_PARENTIU06_3				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU06_3				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU06_3				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU06_3				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU06_3				11	No emparentat	No emparentado	Not related
+T4_PARENTIU06_4	Parentiu de la persona 6 amb la persona 4	Parentesco de la persona 6 con la persona 4	Kinship of person 6 with person 4				
+T4_PARENTIU06_4				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU06_4				02	Fill	Hijo	Son
+T4_PARENTIU06_4				03	Germà	Hermano	Brother
+T4_PARENTIU06_4				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU06_4				05	Net	Nieto	Grandson
+T4_PARENTIU06_4				06	Avi	Abuelo	Grandfather
+T4_PARENTIU06_4				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU06_4				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU06_4				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU06_4				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU06_4				11	No emparentat	No emparentado	Not related
+T4_PARENTIU06_5	Parentiu de la persona 6 amb la persona 5	Parentesco de la persona 6 con la persona 5	Kinship of person 6 with person 5				
+T4_PARENTIU06_5				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU06_5				02	Fill	Hijo	Son
+T4_PARENTIU06_5				03	Germà	Hermano	Brother
+T4_PARENTIU06_5				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU06_5				05	Net	Nieto	Grandson
+T4_PARENTIU06_5				06	Avi	Abuelo	Grandfather
+T4_PARENTIU06_5				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU06_5				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU06_5				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU06_5				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU06_5				11	No emparentat	No emparentado	Not related
+T4_PARENTIU07_1	Parentiu de la persona 7 amb la persona 1	Parentesco de la persona 7 con la persona 1	Kinship of person 7 with person 1				
+T4_PARENTIU07_1				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU07_1				02	Fill	Hijo	Son
+T4_PARENTIU07_1				03	Germà	Hermano	Brother
+T4_PARENTIU07_1				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU07_1				05	Net	Nieto	Grandson
+T4_PARENTIU07_1				06	Avi	Abuelo	Grandfather
+T4_PARENTIU07_1				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU07_1				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU07_1				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU07_1				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU07_1				11	No emparentat	No emparentado	Not related
+T4_PARENTIU07_2	Parentiu de la persona 7 amb la persona 2	Parentesco de la persona 7 con la persona 2	Kinship of person 7 with person 2				
+T4_PARENTIU07_2				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU07_2				02	Fill	Hijo	Son
+T4_PARENTIU07_2				03	Germà	Hermano	Brother
+T4_PARENTIU07_2				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU07_2				05	Net	Nieto	Grandson
+T4_PARENTIU07_2				06	Avi	Abuelo	Grandfather
+T4_PARENTIU07_2				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU07_2				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU07_2				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU07_2				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU07_2				11	No emparentat	No emparentado	Not related
+T4_PARENTIU07_3	Parentiu de la persona 7 amb la persona 3	Parentesco de la persona 7 con la persona 3	Kinship of person 7 with person 3				
+T4_PARENTIU07_3				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU07_3				02	Fill	Hijo	Son
+T4_PARENTIU07_3				03	Germà	Hermano	Brother
+T4_PARENTIU07_3				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU07_3				05	Net	Nieto	Grandson
+T4_PARENTIU07_3				06	Avi	Abuelo	Grandfather
+T4_PARENTIU07_3				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU07_3				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU07_3				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU07_3				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU07_3				11	No emparentat	No emparentado	Not related
+T4_PARENTIU07_4	Parentiu de la persona 7 amb la persona 4	Parentesco de la persona 7 con la persona 4	Kinship of person 7 with person 4				
+T4_PARENTIU07_4				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU07_4				02	Fill	Hijo	Son
+T4_PARENTIU07_4				03	Germà	Hermano	Brother
+T4_PARENTIU07_4				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU07_4				05	Net	Nieto	Grandson
+T4_PARENTIU07_4				06	Avi	Abuelo	Grandfather
+T4_PARENTIU07_4				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU07_4				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU07_4				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU07_4				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU07_4				11	No emparentat	No emparentado	Not related
+T4_PARENTIU07_5	Parentiu de la persona 7 amb la persona 5	Parentesco de la persona 7 con la persona 5	Kinship of person 7 with person 5				
+T4_PARENTIU07_5				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU07_5				02	Fill	Hijo	Son
+T4_PARENTIU07_5				03	Germà	Hermano	Brother
+T4_PARENTIU07_5				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU07_5				05	Net	Nieto	Grandson
+T4_PARENTIU07_5				06	Avi	Abuelo	Grandfather
+T4_PARENTIU07_5				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU07_5				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU07_5				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU07_5				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU07_5				11	No emparentat	No emparentado	Not related
+T4_PARENTIU07_6	Parentiu de la persona 7 amb la persona 6	Parentesco de la persona 7 con la persona 6	Kinship of person 7 with person 6				
+T4_PARENTIU07_6				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU07_6				02	Fill	Hijo	Son
+T4_PARENTIU07_6				03	Germà	Hermano	Brother
+T4_PARENTIU07_6				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU07_6				05	Net	Nieto	Grandson
+T4_PARENTIU07_6				06	Avi	Abuelo	Grandfather
+T4_PARENTIU07_6				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU07_6				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU07_6				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU07_6				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU07_6				11	No emparentat	No emparentado	Not related
+T4_PARENTIU08_1	Parentiu de la persona 8 amb la persona 1	Parentesco de la persona 8 con la persona 1	Kinship of person 8 with person 1				
+T4_PARENTIU08_1				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU08_1				02	Fill	Hijo	Son
+T4_PARENTIU08_1				03	Germà	Hermano	Brother
+T4_PARENTIU08_1				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU08_1				05	Net	Nieto	Grandson
+T4_PARENTIU08_1				06	Avi	Abuelo	Grandfather
+T4_PARENTIU08_1				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU08_1				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU08_1				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU08_1				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU08_1				11	No emparentat	No emparentado	Not related
+T4_PARENTIU08_2	Parentiu de la persona 8 amb la persona 2	Parentesco de la persona 8 con la persona 2	Kinship of person 8 with person 2				
+T4_PARENTIU08_2				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU08_2				02	Fill	Hijo	Son
+T4_PARENTIU08_2				03	Germà	Hermano	Brother
+T4_PARENTIU08_2				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU08_2				05	Net	Nieto	Grandson
+T4_PARENTIU08_2				06	Avi	Abuelo	Grandfather
+T4_PARENTIU08_2				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU08_2				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU08_2				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU08_2				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU08_2				11	No emparentat	No emparentado	Not related
+T4_PARENTIU08_3	Parentiu de la persona 8 amb la persona 3	Parentesco de la persona 8 con la persona 3	Kinship of person 8 with person 3				
+T4_PARENTIU08_3				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU08_3				02	Fill	Hijo	Son
+T4_PARENTIU08_3				03	Germà	Hermano	Brother
+T4_PARENTIU08_3				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU08_3				05	Net	Nieto	Grandson
+T4_PARENTIU08_3				06	Avi	Abuelo	Grandfather
+T4_PARENTIU08_3				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU08_3				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU08_3				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU08_3				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU08_3				11	No emparentat	No emparentado	Not related
+T4_PARENTIU08_4	Parentiu de la persona 8 amb la persona 4	Parentesco de la persona 8 con la persona 4	Kinship of person 8 with person 4				
+T4_PARENTIU08_4				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU08_4				02	Fill	Hijo	Son
+T4_PARENTIU08_4				03	Germà	Hermano	Brother
+T4_PARENTIU08_4				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU08_4				05	Net	Nieto	Grandson
+T4_PARENTIU08_4				06	Avi	Abuelo	Grandfather
+T4_PARENTIU08_4				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU08_4				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU08_4				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU08_4				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU08_4				11	No emparentat	No emparentado	Not related
+T4_PARENTIU08_5	Parentiu de la persona 8 amb la persona 5	Parentesco de la persona 8 con la persona 5	Kinship of person 8 with person 5				
+T4_PARENTIU08_5				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU08_5				02	Fill	Hijo	Son
+T4_PARENTIU08_5				03	Germà	Hermano	Brother
+T4_PARENTIU08_5				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU08_5				05	Net	Nieto	Grandson
+T4_PARENTIU08_5				06	Avi	Abuelo	Grandfather
+T4_PARENTIU08_5				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU08_5				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU08_5				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU08_5				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU08_5				11	No emparentat	No emparentado	Not related
+T4_PARENTIU08_6	Parentiu de la persona 8 amb la persona 6	Parentesco de la persona 8 con la persona 6	Kinship of person 8 with person 6				
+T4_PARENTIU08_6				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU08_6				02	Fill	Hijo	Son
+T4_PARENTIU08_6				03	Germà	Hermano	Brother
+T4_PARENTIU08_6				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU08_6				05	Net	Nieto	Grandson
+T4_PARENTIU08_6				06	Avi	Abuelo	Grandfather
+T4_PARENTIU08_6				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU08_6				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU08_6				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU08_6				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU08_6				11	No emparentat	No emparentado	Not related
+T4_PARENTIU08_7	Parentiu de la persona 8 amb la persona 7	Parentesco de la persona 8 con la persona 7	Kinship of person 8 with person 7				
+T4_PARENTIU08_7				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU08_7				02	Fill	Hijo	Son
+T4_PARENTIU08_7				03	Germà	Hermano	Brother
+T4_PARENTIU08_7				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU08_7				05	Net	Nieto	Grandson
+T4_PARENTIU08_7				06	Avi	Abuelo	Grandfather
+T4_PARENTIU08_7				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU08_7				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU08_7				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU08_7				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU08_7				11	No emparentat	No emparentado	Not related
+T4_PARENTIU09_1	Parentiu de la persona 9 amb la persona 1	Parentesco de la persona 9 con la persona 1	Kinship of person 9 with person 1				
+T4_PARENTIU09_1				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU09_1				02	Fill	Hijo	Son
+T4_PARENTIU09_1				03	Germà	Hermano	Brother
+T4_PARENTIU09_1				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU09_1				05	Net	Nieto	Grandson
+T4_PARENTIU09_1				06	Avi	Abuelo	Grandfather
+T4_PARENTIU09_1				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU09_1				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU09_1				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU09_1				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU09_1				11	No emparentat	No emparentado	Not related
+T4_PARENTIU09_2	Parentiu de la persona 9 amb la persona 2	Parentesco de la persona 9 con la persona 2	Kinship of person 9 with person 2				
+T4_PARENTIU09_2				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU09_2				02	Fill	Hijo	Son
+T4_PARENTIU09_2				03	Germà	Hermano	Brother
+T4_PARENTIU09_2				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU09_2				05	Net	Nieto	Grandson
+T4_PARENTIU09_2				06	Avi	Abuelo	Grandfather
+T4_PARENTIU09_2				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU09_2				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU09_2				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU09_2				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU09_2				11	No emparentat	No emparentado	Not related
+T4_PARENTIU09_3	Parentiu de la persona 9 amb la persona 3	Parentesco de la persona 9 con la persona 3	Kinship of person 9 with person 3				
+T4_PARENTIU09_3				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU09_3				02	Fill	Hijo	Son
+T4_PARENTIU09_3				03	Germà	Hermano	Brother
+T4_PARENTIU09_3				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU09_3				05	Net	Nieto	Grandson
+T4_PARENTIU09_3				06	Avi	Abuelo	Grandfather
+T4_PARENTIU09_3				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU09_3				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU09_3				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU09_3				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU09_3				11	No emparentat	No emparentado	Not related
+T4_PARENTIU09_4	Parentiu de la persona 9 amb la persona 4	Parentesco de la persona 9 con la persona 4	Kinship of person 9 with person 4				
+T4_PARENTIU09_4				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU09_4				02	Fill	Hijo	Son
+T4_PARENTIU09_4				03	Germà	Hermano	Brother
+T4_PARENTIU09_4				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU09_4				05	Net	Nieto	Grandson
+T4_PARENTIU09_4				06	Avi	Abuelo	Grandfather
+T4_PARENTIU09_4				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU09_4				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU09_4				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU09_4				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU09_4				11	No emparentat	No emparentado	Not related
+T4_PARENTIU09_5	Parentiu de la persona 9 amb la persona 5	Parentesco de la persona 9 con la persona 5	Kinship of person 9 with person 5				
+T4_PARENTIU09_5				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU09_5				02	Fill	Hijo	Son
+T4_PARENTIU09_5				03	Germà	Hermano	Brother
+T4_PARENTIU09_5				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU09_5				05	Net	Nieto	Grandson
+T4_PARENTIU09_5				06	Avi	Abuelo	Grandfather
+T4_PARENTIU09_5				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU09_5				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU09_5				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU09_5				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU09_5				11	No emparentat	No emparentado	Not related
+T4_PARENTIU09_6	Parentiu de la persona 9 amb la persona 6	Parentesco de la persona 9 con la persona 6	Kinship of person 9 with person 6				
+T4_PARENTIU09_6				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU09_6				02	Fill	Hijo	Son
+T4_PARENTIU09_6				03	Germà	Hermano	Brother
+T4_PARENTIU09_6				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU09_6				05	Net	Nieto	Grandson
+T4_PARENTIU09_6				06	Avi	Abuelo	Grandfather
+T4_PARENTIU09_6				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU09_6				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU09_6				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU09_6				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU09_6				11	No emparentat	No emparentado	Not related
+T4_PARENTIU09_7	Parentiu de la persona 9 amb la persona 7	Parentesco de la persona 9 con la persona 7	Kinship of person 9 with person 7				
+T4_PARENTIU09_7				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU09_7				02	Fill	Hijo	Son
+T4_PARENTIU09_7				03	Germà	Hermano	Brother
+T4_PARENTIU09_7				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU09_7				05	Net	Nieto	Grandson
+T4_PARENTIU09_7				06	Avi	Abuelo	Grandfather
+T4_PARENTIU09_7				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU09_7				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU09_7				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU09_7				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU09_7				11	No emparentat	No emparentado	Not related
+T4_PARENTIU09_8	Parentiu de la persona 9 amb la persona 8	Parentesco de la persona 9 con la persona 8	Kinship of person 9 with person 8				
+T4_PARENTIU09_8				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU09_8				02	Fill	Hijo	Son
+T4_PARENTIU09_8				03	Germà	Hermano	Brother
+T4_PARENTIU09_8				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU09_8				05	Net	Nieto	Grandson
+T4_PARENTIU09_8				06	Avi	Abuelo	Grandfather
+T4_PARENTIU09_8				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU09_8				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU09_8				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU09_8				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU09_8				11	No emparentat	No emparentado	Not related
+T4_PARENTIU10_1	Parentiu de la persona 10 amb la persona 1	Parentesco de la persona 10 con la persona 1	Kinship of person 10 with person 1				
+T4_PARENTIU10_1				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU10_1				02	Fill	Hijo	Son
+T4_PARENTIU10_1				03	Germà	Hermano	Brother
+T4_PARENTIU10_1				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU10_1				05	Net	Nieto	Grandson
+T4_PARENTIU10_1				06	Avi	Abuelo	Grandfather
+T4_PARENTIU10_1				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU10_1				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU10_1				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU10_1				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU10_1				11	No emparentat	No emparentado	Not related
+T4_PARENTIU10_2	Parentiu de la persona 10 amb la persona 2	Parentesco de la persona 10 con la persona 2	Kinship of person 10 with person 2				
+T4_PARENTIU10_2				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU10_2				02	Fill	Hijo	Son
+T4_PARENTIU10_2				03	Germà	Hermano	Brother
+T4_PARENTIU10_2				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU10_2				05	Net	Nieto	Grandson
+T4_PARENTIU10_2				06	Avi	Abuelo	Grandfather
+T4_PARENTIU10_2				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU10_2				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU10_2				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU10_2				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU10_2				11	No emparentat	No emparentado	Not related
+T4_PARENTIU10_3	Parentiu de la persona 10 amb la persona 3	Parentesco de la persona 10 con la persona 3	Kinship of person 10 with person 3				
+T4_PARENTIU10_3				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU10_3				02	Fill	Hijo	Son
+T4_PARENTIU10_3				03	Germà	Hermano	Brother
+T4_PARENTIU10_3				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU10_3				05	Net	Nieto	Grandson
+T4_PARENTIU10_3				06	Avi	Abuelo	Grandfather
+T4_PARENTIU10_3				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU10_3				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU10_3				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU10_3				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU10_3				11	No emparentat	No emparentado	Not related
+T4_PARENTIU10_4	Parentiu de la persona 10 amb la persona 4	Parentesco de la persona 10 con la persona 4	Kinship of person 10 with person 4				
+T4_PARENTIU10_4				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU10_4				02	Fill	Hijo	Son
+T4_PARENTIU10_4				03	Germà	Hermano	Brother
+T4_PARENTIU10_4				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU10_4				05	Net	Nieto	Grandson
+T4_PARENTIU10_4				06	Avi	Abuelo	Grandfather
+T4_PARENTIU10_4				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU10_4				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU10_4				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU10_4				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU10_4				11	No emparentat	No emparentado	Not related
+T4_PARENTIU10_5	Parentiu de la persona 10 amb la persona 5	Parentesco de la persona 10 con la persona 5	Kinship of person 10 with person 5				
+T4_PARENTIU10_5				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU10_5				02	Fill	Hijo	Son
+T4_PARENTIU10_5				03	Germà	Hermano	Brother
+T4_PARENTIU10_5				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU10_5				05	Net	Nieto	Grandson
+T4_PARENTIU10_5				06	Avi	Abuelo	Grandfather
+T4_PARENTIU10_5				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU10_5				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU10_5				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU10_5				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU10_5				11	No emparentat	No emparentado	Not related
+T4_PARENTIU10_6	Parentiu de la persona 10 amb la persona 6	Parentesco de la persona 10 con la persona 6	Kinship of person 10 with person 6				
+T4_PARENTIU10_6				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU10_6				02	Fill	Hijo	Son
+T4_PARENTIU10_6				03	Germà	Hermano	Brother
+T4_PARENTIU10_6				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU10_6				05	Net	Nieto	Grandson
+T4_PARENTIU10_6				06	Avi	Abuelo	Grandfather
+T4_PARENTIU10_6				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU10_6				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU10_6				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU10_6				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU10_6				11	No emparentat	No emparentado	Not related
+T4_PARENTIU10_7	Parentiu de la persona 10 amb la persona 7	Parentesco de la persona 10 con la persona 7	Kinship of person 10 with person 7				
+T4_PARENTIU10_7				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU10_7				02	Fill	Hijo	Son
+T4_PARENTIU10_7				03	Germà	Hermano	Brother
+T4_PARENTIU10_7				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU10_7				05	Net	Nieto	Grandson
+T4_PARENTIU10_7				06	Avi	Abuelo	Grandfather
+T4_PARENTIU10_7				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU10_7				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU10_7				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU10_7				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU10_7				11	No emparentat	No emparentado	Not related
+T4_PARENTIU10_8	Parentiu de la persona 10 amb la persona 8	Parentesco de la persona 10 con la persona 8	Kinship of person 10 with person 8				
+T4_PARENTIU10_8				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU10_8				02	Fill	Hijo	Son
+T4_PARENTIU10_8				03	Germà	Hermano	Brother
+T4_PARENTIU10_8				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU10_8				05	Net	Nieto	Grandson
+T4_PARENTIU10_8				06	Avi	Abuelo	Grandfather
+T4_PARENTIU10_8				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU10_8				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU10_8				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU10_8				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU10_8				11	No emparentat	No emparentado	Not related
+T4_PARENTIU10_9	Parentiu de la persona 10 amb la persona 9	Parentesco de la persona 10 con la persona 9	Kinship of person 10 with person 9				
+T4_PARENTIU10_9				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU10_9				02	Fill	Hijo	Son
+T4_PARENTIU10_9				03	Germà	Hermano	Brother
+T4_PARENTIU10_9				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU10_9				05	Net	Nieto	Grandson
+T4_PARENTIU10_9				06	Avi	Abuelo	Grandfather
+T4_PARENTIU10_9				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU10_9				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU10_9				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU10_9				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU10_9				11	No emparentat	No emparentado	Not related
+T4_PARENTIU11_1	Parentiu de la persona 11 amb la persona 1	Parentesco de la persona 11 con la persona 1	Kinship of person 11 with person 1				
+T4_PARENTIU11_1				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU11_1				02	Fill	Hijo	Son
+T4_PARENTIU11_1				03	Germà	Hermano	Brother
+T4_PARENTIU11_1				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU11_1				05	Net	Nieto	Grandson
+T4_PARENTIU11_1				06	Avi	Abuelo	Grandfather
+T4_PARENTIU11_1				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU11_1				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU11_1				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU11_1				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU11_1				11	No emparentat	No emparentado	Not related
+T4_PARENTIU11_2	Parentiu de la persona 11 amb la persona 2	Parentesco de la persona 11 con la persona 2	Kinship of person 11 with person 2				
+T4_PARENTIU11_2				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU11_2				02	Fill	Hijo	Son
+T4_PARENTIU11_2				03	Germà	Hermano	Brother
+T4_PARENTIU11_2				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU11_2				05	Net	Nieto	Grandson
+T4_PARENTIU11_2				06	Avi	Abuelo	Grandfather
+T4_PARENTIU11_2				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU11_2				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU11_2				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU11_2				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU11_2				11	No emparentat	No emparentado	Not related
+T4_PARENTIU11_3	Parentiu de la persona 11 amb la persona 3	Parentesco de la persona 11 con la persona 3	Kinship of person 11 with person 3				
+T4_PARENTIU11_3				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU11_3				02	Fill	Hijo	Son
+T4_PARENTIU11_3				03	Germà	Hermano	Brother
+T4_PARENTIU11_3				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU11_3				05	Net	Nieto	Grandson
+T4_PARENTIU11_3				06	Avi	Abuelo	Grandfather
+T4_PARENTIU11_3				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU11_3				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU11_3				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU11_3				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU11_3				11	No emparentat	No emparentado	Not related
+T4_PARENTIU11_4	Parentiu de la persona 11 amb la persona 4	Parentesco de la persona 11 con la persona 4	Kinship of person 11 with person 4				
+T4_PARENTIU11_4				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU11_4				02	Fill	Hijo	Son
+T4_PARENTIU11_4				03	Germà	Hermano	Brother
+T4_PARENTIU11_4				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU11_4				05	Net	Nieto	Grandson
+T4_PARENTIU11_4				06	Avi	Abuelo	Grandfather
+T4_PARENTIU11_4				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU11_4				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU11_4				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU11_4				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU11_4				11	No emparentat	No emparentado	Not related
+T4_PARENTIU11_5	Parentiu de la persona 11 amb la persona 5	Parentesco de la persona 11 con la persona 5	Kinship of person 11 with person 5				
+T4_PARENTIU11_5				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU11_5				02	Fill	Hijo	Son
+T4_PARENTIU11_5				03	Germà	Hermano	Brother
+T4_PARENTIU11_5				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU11_5				05	Net	Nieto	Grandson
+T4_PARENTIU11_5				06	Avi	Abuelo	Grandfather
+T4_PARENTIU11_5				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU11_5				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU11_5				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU11_5				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU11_5				11	No emparentat	No emparentado	Not related
+T4_PARENTIU11_6	Parentiu de la persona 11 amb la persona 6	Parentesco de la persona 11 con la persona 6	Kinship of person 11 with person 6				
+T4_PARENTIU11_6				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU11_6				02	Fill	Hijo	Son
+T4_PARENTIU11_6				03	Germà	Hermano	Brother
+T4_PARENTIU11_6				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU11_6				05	Net	Nieto	Grandson
+T4_PARENTIU11_6				06	Avi	Abuelo	Grandfather
+T4_PARENTIU11_6				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU11_6				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU11_6				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU11_6				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU11_6				11	No emparentat	No emparentado	Not related
+T4_PARENTIU11_7	Parentiu de la persona 11 amb la persona 7	Parentesco de la persona 11 con la persona 7	Kinship of person 11 with person 7				
+T4_PARENTIU11_7				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU11_7				02	Fill	Hijo	Son
+T4_PARENTIU11_7				03	Germà	Hermano	Brother
+T4_PARENTIU11_7				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU11_7				05	Net	Nieto	Grandson
+T4_PARENTIU11_7				06	Avi	Abuelo	Grandfather
+T4_PARENTIU11_7				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU11_7				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU11_7				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU11_7				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU11_7				11	No emparentat	No emparentado	Not related
+T4_PARENTIU11_8	Parentiu de la persona 11 amb la persona 8	Parentesco de la persona 11 con la persona 8	Kinship of person 11 with person 8				
+T4_PARENTIU11_8				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU11_8				02	Fill	Hijo	Son
+T4_PARENTIU11_8				03	Germà	Hermano	Brother
+T4_PARENTIU11_8				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU11_8				05	Net	Nieto	Grandson
+T4_PARENTIU11_8				06	Avi	Abuelo	Grandfather
+T4_PARENTIU11_8				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU11_8				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU11_8				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU11_8				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU11_8				11	No emparentat	No emparentado	Not related
+T4_PARENTIU11_9	Parentiu de la persona 11 amb la persona 9	Parentesco de la persona 11 con la persona 9	Kinship of person 11 with person 9				
+T4_PARENTIU11_9				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU11_9				02	Fill	Hijo	Son
+T4_PARENTIU11_9				03	Germà	Hermano	Brother
+T4_PARENTIU11_9				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU11_9				05	Net	Nieto	Grandson
+T4_PARENTIU11_9				06	Avi	Abuelo	Grandfather
+T4_PARENTIU11_9				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU11_9				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU11_9				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU11_9				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU11_9				11	No emparentat	No emparentado	Not related
+T4_PARENTIU11_10	Parentiu de la persona 11 amb la persona 10	Parentesco de la persona 11 con la persona 10	Kinship of person 11 with person 10				
+T4_PARENTIU11_10				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU11_10				02	Fill	Hijo	Son
+T4_PARENTIU11_10				03	Germà	Hermano	Brother
+T4_PARENTIU11_10				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU11_10				05	Net	Nieto	Grandson
+T4_PARENTIU11_10				06	Avi	Abuelo	Grandfather
+T4_PARENTIU11_10				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU11_10				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU11_10				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU11_10				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU11_10				11	No emparentat	No emparentado	Not related
+T4_PARENTIU12_1	Parentiu de la persona 12 amb la persona 1	Parentesco de la persona 12 con la persona 1	Kinship of person 12 with person 1				
+T4_PARENTIU12_1				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU12_1				02	Fill	Hijo	Son
+T4_PARENTIU12_1				03	Germà	Hermano	Brother
+T4_PARENTIU12_1				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU12_1				05	Net	Nieto	Grandson
+T4_PARENTIU12_1				06	Avi	Abuelo	Grandfather
+T4_PARENTIU12_1				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU12_1				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU12_1				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU12_1				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU12_1				11	No emparentat	No emparentado	Not related
+T4_PARENTIU12_2	Parentiu de la persona 12 amb la persona 2	Parentesco de la persona 12 con la persona 2	Kinship of person 12 with person 2				
+T4_PARENTIU12_2				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU12_2				02	Fill	Hijo	Son
+T4_PARENTIU12_2				03	Germà	Hermano	Brother
+T4_PARENTIU12_2				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU12_2				05	Net	Nieto	Grandson
+T4_PARENTIU12_2				06	Avi	Abuelo	Grandfather
+T4_PARENTIU12_2				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU12_2				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU12_2				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU12_2				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU12_2				11	No emparentat	No emparentado	Not related
+T4_PARENTIU12_3	Parentiu de la persona 12 amb la persona 3	Parentesco de la persona 12 con la persona 3	Kinship of person 12 with person 3				
+T4_PARENTIU12_3				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU12_3				02	Fill	Hijo	Son
+T4_PARENTIU12_3				03	Germà	Hermano	Brother
+T4_PARENTIU12_3				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU12_3				05	Net	Nieto	Grandson
+T4_PARENTIU12_3				06	Avi	Abuelo	Grandfather
+T4_PARENTIU12_3				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU12_3				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU12_3				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU12_3				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU12_3				11	No emparentat	No emparentado	Not related
+T4_PARENTIU12_4	Parentiu de la persona 12 amb la persona 4	Parentesco de la persona 12 con la persona 4	Kinship of person 12 with person 4				
+T4_PARENTIU12_4				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU12_4				02	Fill	Hijo	Son
+T4_PARENTIU12_4				03	Germà	Hermano	Brother
+T4_PARENTIU12_4				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU12_4				05	Net	Nieto	Grandson
+T4_PARENTIU12_4				06	Avi	Abuelo	Grandfather
+T4_PARENTIU12_4				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU12_4				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU12_4				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU12_4				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU12_4				11	No emparentat	No emparentado	Not related
+T4_PARENTIU12_5	Parentiu de la persona 12 amb la persona 5	Parentesco de la persona 12 con la persona 5	Kinship of person 12 with person 5				
+T4_PARENTIU12_5				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU12_5				02	Fill	Hijo	Son
+T4_PARENTIU12_5				03	Germà	Hermano	Brother
+T4_PARENTIU12_5				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU12_5				05	Net	Nieto	Grandson
+T4_PARENTIU12_5				06	Avi	Abuelo	Grandfather
+T4_PARENTIU12_5				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU12_5				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU12_5				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU12_5				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU12_5				11	No emparentat	No emparentado	Not related
+T4_PARENTIU12_6	Parentiu de la persona 12 amb la persona 6	Parentesco de la persona 12 con la persona 6	Kinship of person 12 with person 6				
+T4_PARENTIU12_6				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU12_6				02	Fill	Hijo	Son
+T4_PARENTIU12_6				03	Germà	Hermano	Brother
+T4_PARENTIU12_6				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU12_6				05	Net	Nieto	Grandson
+T4_PARENTIU12_6				06	Avi	Abuelo	Grandfather
+T4_PARENTIU12_6				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU12_6				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU12_6				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU12_6				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU12_6				11	No emparentat	No emparentado	Not related
+T4_PARENTIU12_7	Parentiu de la persona 12 amb la persona 7	Parentesco de la persona 12 con la persona 7	Kinship of person 12 with person 7				
+T4_PARENTIU12_7				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU12_7				02	Fill	Hijo	Son
+T4_PARENTIU12_7				03	Germà	Hermano	Brother
+T4_PARENTIU12_7				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU12_7				05	Net	Nieto	Grandson
+T4_PARENTIU12_7				06	Avi	Abuelo	Grandfather
+T4_PARENTIU12_7				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU12_7				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU12_7				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU12_7				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU12_7				11	No emparentat	No emparentado	Not related
+T4_PARENTIU12_8	Parentiu de la persona 12 amb la persona 8	Parentesco de la persona 12 con la persona 8	Kinship of person 12 with person 8				
+T4_PARENTIU12_8				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU12_8				02	Fill	Hijo	Son
+T4_PARENTIU12_8				03	Germà	Hermano	Brother
+T4_PARENTIU12_8				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU12_8				05	Net	Nieto	Grandson
+T4_PARENTIU12_8				06	Avi	Abuelo	Grandfather
+T4_PARENTIU12_8				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU12_8				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU12_8				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU12_8				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU12_8				11	No emparentat	No emparentado	Not related
+T4_PARENTIU12_9	Parentiu de la persona 12 amb la persona 9	Parentesco de la persona 12 con la persona 9	Kinship of person 12 with person 9				
+T4_PARENTIU12_9				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU12_9				02	Fill	Hijo	Son
+T4_PARENTIU12_9				03	Germà	Hermano	Brother
+T4_PARENTIU12_9				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU12_9				05	Net	Nieto	Grandson
+T4_PARENTIU12_9				06	Avi	Abuelo	Grandfather
+T4_PARENTIU12_9				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU12_9				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU12_9				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU12_9				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU12_9				11	No emparentat	No emparentado	Not related
+T4_PARENTIU12_10	Parentiu de la persona 12 amb la persona 10	Parentesco de la persona 12 con la persona 10	Kinship of person 12 with person 10				
+T4_PARENTIU12_10				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU12_10				02	Fill	Hijo	Son
+T4_PARENTIU12_10				03	Germà	Hermano	Brother
+T4_PARENTIU12_10				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU12_10				05	Net	Nieto	Grandson
+T4_PARENTIU12_10				06	Avi	Abuelo	Grandfather
+T4_PARENTIU12_10				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU12_10				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU12_10				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU12_10				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU12_10				11	No emparentat	No emparentado	Not related
+T4_PARENTIU12_11	Parentiu de la persona 12 amb la persona 11	Parentesco de la persona 12 con la persona 11	Kinship of person 12 with person 11				
+T4_PARENTIU12_11				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU12_11				02	Fill	Hijo	Son
+T4_PARENTIU12_11				03	Germà	Hermano	Brother
+T4_PARENTIU12_11				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU12_11				05	Net	Nieto	Grandson
+T4_PARENTIU12_11				06	Avi	Abuelo	Grandfather
+T4_PARENTIU12_11				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU12_11				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU12_11				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU12_11				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU12_11				11	No emparentat	No emparentado	Not related
+T4_PARENTIU13_1	Parentiu de la persona 13 amb la persona 1	Parentesco de la persona 13 con la persona 1	Kinship of person 13 with person 1				
+T4_PARENTIU13_1				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU13_1				02	Fill	Hijo	Son
+T4_PARENTIU13_1				03	Germà	Hermano	Brother
+T4_PARENTIU13_1				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU13_1				05	Net	Nieto	Grandson
+T4_PARENTIU13_1				06	Avi	Abuelo	Grandfather
+T4_PARENTIU13_1				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU13_1				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU13_1				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU13_1				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU13_1				11	No emparentat	No emparentado	Not related
+T4_PARENTIU13_2	Parentiu de la persona 13 amb la persona 2	Parentesco de la persona 13 con la persona 2	Kinship of person 13 with person 2				
+T4_PARENTIU13_2				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU13_2				02	Fill	Hijo	Son
+T4_PARENTIU13_2				03	Germà	Hermano	Brother
+T4_PARENTIU13_2				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU13_2				05	Net	Nieto	Grandson
+T4_PARENTIU13_2				06	Avi	Abuelo	Grandfather
+T4_PARENTIU13_2				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU13_2				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU13_2				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU13_2				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU13_2				11	No emparentat	No emparentado	Not related
+T4_PARENTIU13_3	Parentiu de la persona 13 amb la persona 3	Parentesco de la persona 13 con la persona 3	Kinship of person 13 with person 3				
+T4_PARENTIU13_3				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU13_3				02	Fill	Hijo	Son
+T4_PARENTIU13_3				03	Germà	Hermano	Brother
+T4_PARENTIU13_3				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU13_3				05	Net	Nieto	Grandson
+T4_PARENTIU13_3				06	Avi	Abuelo	Grandfather
+T4_PARENTIU13_3				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU13_3				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU13_3				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU13_3				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU13_3				11	No emparentat	No emparentado	Not related
+T4_PARENTIU13_4	Parentiu de la persona 13 amb la persona 4	Parentesco de la persona 13 con la persona 4	Kinship of person 13 with person 4				
+T4_PARENTIU13_4				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU13_4				02	Fill	Hijo	Son
+T4_PARENTIU13_4				03	Germà	Hermano	Brother
+T4_PARENTIU13_4				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU13_4				05	Net	Nieto	Grandson
+T4_PARENTIU13_4				06	Avi	Abuelo	Grandfather
+T4_PARENTIU13_4				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU13_4				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU13_4				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU13_4				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU13_4				11	No emparentat	No emparentado	Not related
+T4_PARENTIU13_5	Parentiu de la persona 13 amb la persona 5	Parentesco de la persona 13 con la persona 5	Kinship of person 13 with person 5				
+T4_PARENTIU13_5				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU13_5				02	Fill	Hijo	Son
+T4_PARENTIU13_5				03	Germà	Hermano	Brother
+T4_PARENTIU13_5				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU13_5				05	Net	Nieto	Grandson
+T4_PARENTIU13_5				06	Avi	Abuelo	Grandfather
+T4_PARENTIU13_5				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU13_5				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU13_5				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU13_5				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU13_5				11	No emparentat	No emparentado	Not related
+T4_PARENTIU13_6	Parentiu de la persona 13 amb la persona 6	Parentesco de la persona 13 con la persona 6	Kinship of person 13 with person 6				
+T4_PARENTIU13_6				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU13_6				02	Fill	Hijo	Son
+T4_PARENTIU13_6				03	Germà	Hermano	Brother
+T4_PARENTIU13_6				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU13_6				05	Net	Nieto	Grandson
+T4_PARENTIU13_6				06	Avi	Abuelo	Grandfather
+T4_PARENTIU13_6				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU13_6				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU13_6				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU13_6				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU13_6				11	No emparentat	No emparentado	Not related
+T4_PARENTIU13_7	Parentiu de la persona 13 amb la persona 7	Parentesco de la persona 13 con la persona 7	Kinship of person 13 with person 7				
+T4_PARENTIU13_7				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU13_7				02	Fill	Hijo	Son
+T4_PARENTIU13_7				03	Germà	Hermano	Brother
+T4_PARENTIU13_7				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU13_7				05	Net	Nieto	Grandson
+T4_PARENTIU13_7				06	Avi	Abuelo	Grandfather
+T4_PARENTIU13_7				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU13_7				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU13_7				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU13_7				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU13_7				11	No emparentat	No emparentado	Not related
+T4_PARENTIU13_8	Parentiu de la persona 13 amb la persona 8	Parentesco de la persona 13 con la persona 8	Kinship of person 13 with person 8				
+T4_PARENTIU13_8				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU13_8				02	Fill	Hijo	Son
+T4_PARENTIU13_8				03	Germà	Hermano	Brother
+T4_PARENTIU13_8				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU13_8				05	Net	Nieto	Grandson
+T4_PARENTIU13_8				06	Avi	Abuelo	Grandfather
+T4_PARENTIU13_8				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU13_8				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU13_8				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU13_8				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU13_8				11	No emparentat	No emparentado	Not related
+T4_PARENTIU13_9	Parentiu de la persona 13 amb la persona 9	Parentesco de la persona 13 con la persona 9	Kinship of person 13 with person 9				
+T4_PARENTIU13_9				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU13_9				02	Fill	Hijo	Son
+T4_PARENTIU13_9				03	Germà	Hermano	Brother
+T4_PARENTIU13_9				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU13_9				05	Net	Nieto	Grandson
+T4_PARENTIU13_9				06	Avi	Abuelo	Grandfather
+T4_PARENTIU13_9				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU13_9				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU13_9				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU13_9				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU13_9				11	No emparentat	No emparentado	Not related
+T4_PARENTIU13_10	Parentiu de la persona 13 amb la persona 10	Parentesco de la persona 13 con la persona 10	Kinship of person 13 with person 10				
+T4_PARENTIU13_10				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU13_10				02	Fill	Hijo	Son
+T4_PARENTIU13_10				03	Germà	Hermano	Brother
+T4_PARENTIU13_10				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU13_10				05	Net	Nieto	Grandson
+T4_PARENTIU13_10				06	Avi	Abuelo	Grandfather
+T4_PARENTIU13_10				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU13_10				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU13_10				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU13_10				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU13_10				11	No emparentat	No emparentado	Not related
+T4_PARENTIU13_11	Parentiu de la persona 13 amb la persona 11	Parentesco de la persona 13 con la persona 11	Kinship of person 13 with person 11				
+T4_PARENTIU13_11				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU13_11				02	Fill	Hijo	Son
+T4_PARENTIU13_11				03	Germà	Hermano	Brother
+T4_PARENTIU13_11				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU13_11				05	Net	Nieto	Grandson
+T4_PARENTIU13_11				06	Avi	Abuelo	Grandfather
+T4_PARENTIU13_11				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU13_11				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU13_11				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU13_11				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU13_11				11	No emparentat	No emparentado	Not related
+T4_PARENTIU13_12	Parentiu de la persona 13 amb la persona 12	Parentesco de la persona 13 con la persona 12	Kinship of person 13 with person 12				
+T4_PARENTIU13_12				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU13_12				02	Fill	Hijo	Son
+T4_PARENTIU13_12				03	Germà	Hermano	Brother
+T4_PARENTIU13_12				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU13_12				05	Net	Nieto	Grandson
+T4_PARENTIU13_12				06	Avi	Abuelo	Grandfather
+T4_PARENTIU13_12				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU13_12				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU13_12				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU13_12				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU13_12				11	No emparentat	No emparentado	Not related
+T4_PARENTIU14_1	Parentiu de la persona 14 amb la persona 1	Parentesco de la persona 14 con la persona 1	Kinship of person 14 with person 1				
+T4_PARENTIU14_1				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU14_1				02	Fill	Hijo	Son
+T4_PARENTIU14_1				03	Germà	Hermano	Brother
+T4_PARENTIU14_1				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU14_1				05	Net	Nieto	Grandson
+T4_PARENTIU14_1				06	Avi	Abuelo	Grandfather
+T4_PARENTIU14_1				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU14_1				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU14_1				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU14_1				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU14_1				11	No emparentat	No emparentado	Not related
+T4_PARENTIU14_2	Parentiu de la persona 14 amb la persona 2	Parentesco de la persona 14 con la persona 2	Kinship of person 14 with person 2				
+T4_PARENTIU14_2				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU14_2				02	Fill	Hijo	Son
+T4_PARENTIU14_2				03	Germà	Hermano	Brother
+T4_PARENTIU14_2				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU14_2				05	Net	Nieto	Grandson
+T4_PARENTIU14_2				06	Avi	Abuelo	Grandfather
+T4_PARENTIU14_2				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU14_2				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU14_2				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU14_2				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU14_2				11	No emparentat	No emparentado	Not related
+T4_PARENTIU14_3	Parentiu de la persona 14 amb la persona 3	Parentesco de la persona 14 con la persona 3	Kinship of person 14 with person 3				
+T4_PARENTIU14_3				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU14_3				02	Fill	Hijo	Son
+T4_PARENTIU14_3				03	Germà	Hermano	Brother
+T4_PARENTIU14_3				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU14_3				05	Net	Nieto	Grandson
+T4_PARENTIU14_3				06	Avi	Abuelo	Grandfather
+T4_PARENTIU14_3				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU14_3				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU14_3				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU14_3				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU14_3				11	No emparentat	No emparentado	Not related
+T4_PARENTIU14_4	Parentiu de la persona 14 amb la persona 4	Parentesco de la persona 14 con la persona 4	Kinship of person 14 with person 4				
+T4_PARENTIU14_4				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU14_4				02	Fill	Hijo	Son
+T4_PARENTIU14_4				03	Germà	Hermano	Brother
+T4_PARENTIU14_4				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU14_4				05	Net	Nieto	Grandson
+T4_PARENTIU14_4				06	Avi	Abuelo	Grandfather
+T4_PARENTIU14_4				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU14_4				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU14_4				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU14_4				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU14_4				11	No emparentat	No emparentado	Not related
+T4_PARENTIU14_5	Parentiu de la persona 14 amb la persona 5	Parentesco de la persona 14 con la persona 5	Kinship of person 14 with person 5				
+T4_PARENTIU14_5				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU14_5				02	Fill	Hijo	Son
+T4_PARENTIU14_5				03	Germà	Hermano	Brother
+T4_PARENTIU14_5				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU14_5				05	Net	Nieto	Grandson
+T4_PARENTIU14_5				06	Avi	Abuelo	Grandfather
+T4_PARENTIU14_5				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU14_5				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU14_5				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU14_5				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU14_5				11	No emparentat	No emparentado	Not related
+T4_PARENTIU14_6	Parentiu de la persona 14 amb la persona 6	Parentesco de la persona 14 con la persona 6	Kinship of person 14 with person 6				
+T4_PARENTIU14_6				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU14_6				02	Fill	Hijo	Son
+T4_PARENTIU14_6				03	Germà	Hermano	Brother
+T4_PARENTIU14_6				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU14_6				05	Net	Nieto	Grandson
+T4_PARENTIU14_6				06	Avi	Abuelo	Grandfather
+T4_PARENTIU14_6				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU14_6				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU14_6				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU14_6				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU14_6				11	No emparentat	No emparentado	Not related
+T4_PARENTIU14_7	Parentiu de la persona 14 amb la persona 7	Parentesco de la persona 14 con la persona 7	Kinship of person 14 with person 7				
+T4_PARENTIU14_7				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU14_7				02	Fill	Hijo	Son
+T4_PARENTIU14_7				03	Germà	Hermano	Brother
+T4_PARENTIU14_7				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU14_7				05	Net	Nieto	Grandson
+T4_PARENTIU14_7				06	Avi	Abuelo	Grandfather
+T4_PARENTIU14_7				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU14_7				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU14_7				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU14_7				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU14_7				11	No emparentat	No emparentado	Not related
+T4_PARENTIU14_8	Parentiu de la persona 14 amb la persona 8	Parentesco de la persona 14 con la persona 8	Kinship of person 14 with person 8				
+T4_PARENTIU14_8				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU14_8				02	Fill	Hijo	Son
+T4_PARENTIU14_8				03	Germà	Hermano	Brother
+T4_PARENTIU14_8				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU14_8				05	Net	Nieto	Grandson
+T4_PARENTIU14_8				06	Avi	Abuelo	Grandfather
+T4_PARENTIU14_8				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU14_8				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU14_8				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU14_8				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU14_8				11	No emparentat	No emparentado	Not related
+T4_PARENTIU14_9	Parentiu de la persona 14 amb la persona 9	Parentesco de la persona 14 con la persona 9	Kinship of person 14 with person 9				
+T4_PARENTIU14_9				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU14_9				02	Fill	Hijo	Son
+T4_PARENTIU14_9				03	Germà	Hermano	Brother
+T4_PARENTIU14_9				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU14_9				05	Net	Nieto	Grandson
+T4_PARENTIU14_9				06	Avi	Abuelo	Grandfather
+T4_PARENTIU14_9				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU14_9				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU14_9				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU14_9				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU14_9				11	No emparentat	No emparentado	Not related
+T4_PARENTIU14_10	Parentiu de la persona 14 amb la persona 10	Parentesco de la persona 14 con la persona 10	Kinship of person 14 with person 10				
+T4_PARENTIU14_10				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU14_10				02	Fill	Hijo	Son
+T4_PARENTIU14_10				03	Germà	Hermano	Brother
+T4_PARENTIU14_10				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU14_10				05	Net	Nieto	Grandson
+T4_PARENTIU14_10				06	Avi	Abuelo	Grandfather
+T4_PARENTIU14_10				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU14_10				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU14_10				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU14_10				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU14_10				11	No emparentat	No emparentado	Not related
+T4_PARENTIU14_11	Parentiu de la persona 14 amb la persona 11	Parentesco de la persona 14 con la persona 11	Kinship of person 14 with person 11				
+T4_PARENTIU14_11				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU14_11				02	Fill	Hijo	Son
+T4_PARENTIU14_11				03	Germà	Hermano	Brother
+T4_PARENTIU14_11				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU14_11				05	Net	Nieto	Grandson
+T4_PARENTIU14_11				06	Avi	Abuelo	Grandfather
+T4_PARENTIU14_11				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU14_11				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU14_11				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU14_11				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU14_11				11	No emparentat	No emparentado	Not related
+T4_PARENTIU14_12	Parentiu de la persona 14 amb la persona 12	Parentesco de la persona 14 con la persona 12	Kinship of person 14 with person 12				
+T4_PARENTIU14_12				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU14_12				02	Fill	Hijo	Son
+T4_PARENTIU14_12				03	Germà	Hermano	Brother
+T4_PARENTIU14_12				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU14_12				05	Net	Nieto	Grandson
+T4_PARENTIU14_12				06	Avi	Abuelo	Grandfather
+T4_PARENTIU14_12				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU14_12				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU14_12				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU14_12				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU14_12				11	No emparentat	No emparentado	Not related
+T4_PARENTIU14_13	Parentiu de la persona 14 amb la persona 13	Parentesco de la persona 14 con la persona 13	Kinship of person 14 with person 13				
+T4_PARENTIU14_13				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU14_13				02	Fill	Hijo	Son
+T4_PARENTIU14_13				03	Germà	Hermano	Brother
+T4_PARENTIU14_13				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU14_13				05	Net	Nieto	Grandson
+T4_PARENTIU14_13				06	Avi	Abuelo	Grandfather
+T4_PARENTIU14_13				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU14_13				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU14_13				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU14_13				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU14_13				11	No emparentat	No emparentado	Not related
+T4_PARENTIU15_1	Parentiu de la persona 15 amb la persona 1	Parentesco de la persona 15 con la persona 1	Kinship of person 15 with person 1				
+T4_PARENTIU15_1				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU15_1				02	Fill	Hijo	Son
+T4_PARENTIU15_1				03	Germà	Hermano	Brother
+T4_PARENTIU15_1				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU15_1				05	Net	Nieto	Grandson
+T4_PARENTIU15_1				06	Avi	Abuelo	Grandfather
+T4_PARENTIU15_1				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU15_1				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU15_1				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU15_1				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU15_1				11	No emparentat	No emparentado	Not related
+T4_PARENTIU15_2	Parentiu de la persona 15 amb la persona 2	Parentesco de la persona 15 con la persona 2	Kinship of person 15 with person 2				
+T4_PARENTIU15_2				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU15_2				02	Fill	Hijo	Son
+T4_PARENTIU15_2				03	Germà	Hermano	Brother
+T4_PARENTIU15_2				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU15_2				05	Net	Nieto	Grandson
+T4_PARENTIU15_2				06	Avi	Abuelo	Grandfather
+T4_PARENTIU15_2				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU15_2				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU15_2				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU15_2				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU15_2				11	No emparentat	No emparentado	Not related
+T4_PARENTIU15_3	Parentiu de la persona 15 amb la persona 3	Parentesco de la persona 15 con la persona 3	Kinship of person 15 with person 3				
+T4_PARENTIU15_3				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU15_3				02	Fill	Hijo	Son
+T4_PARENTIU15_3				03	Germà	Hermano	Brother
+T4_PARENTIU15_3				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU15_3				05	Net	Nieto	Grandson
+T4_PARENTIU15_3				06	Avi	Abuelo	Grandfather
+T4_PARENTIU15_3				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU15_3				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU15_3				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU15_3				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU15_3				11	No emparentat	No emparentado	Not related
+T4_PARENTIU15_4	Parentiu de la persona 15 amb la persona 4	Parentesco de la persona 15 con la persona 4	Kinship of person 15 with person 4				
+T4_PARENTIU15_4				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU15_4				02	Fill	Hijo	Son
+T4_PARENTIU15_4				03	Germà	Hermano	Brother
+T4_PARENTIU15_4				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU15_4				05	Net	Nieto	Grandson
+T4_PARENTIU15_4				06	Avi	Abuelo	Grandfather
+T4_PARENTIU15_4				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU15_4				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU15_4				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU15_4				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU15_4				11	No emparentat	No emparentado	Not related
+T4_PARENTIU15_5	Parentiu de la persona 15 amb la persona 5	Parentesco de la persona 15 con la persona 5	Kinship of person 15 with person 5				
+T4_PARENTIU15_5				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU15_5				02	Fill	Hijo	Son
+T4_PARENTIU15_5				03	Germà	Hermano	Brother
+T4_PARENTIU15_5				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU15_5				05	Net	Nieto	Grandson
+T4_PARENTIU15_5				06	Avi	Abuelo	Grandfather
+T4_PARENTIU15_5				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU15_5				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU15_5				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU15_5				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU15_5				11	No emparentat	No emparentado	Not related
+T4_PARENTIU15_6	Parentiu de la persona 15 amb la persona 6	Parentesco de la persona 15 con la persona 6	Kinship of person 15 with person 6				
+T4_PARENTIU15_6				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU15_6				02	Fill	Hijo	Son
+T4_PARENTIU15_6				03	Germà	Hermano	Brother
+T4_PARENTIU15_6				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU15_6				05	Net	Nieto	Grandson
+T4_PARENTIU15_6				06	Avi	Abuelo	Grandfather
+T4_PARENTIU15_6				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU15_6				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU15_6				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU15_6				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU15_6				11	No emparentat	No emparentado	Not related
+T4_PARENTIU15_7	Parentiu de la persona 15 amb la persona 7	Parentesco de la persona 15 con la persona 7	Kinship of person 15 with person 7				
+T4_PARENTIU15_7				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU15_7				02	Fill	Hijo	Son
+T4_PARENTIU15_7				03	Germà	Hermano	Brother
+T4_PARENTIU15_7				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU15_7				05	Net	Nieto	Grandson
+T4_PARENTIU15_7				06	Avi	Abuelo	Grandfather
+T4_PARENTIU15_7				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU15_7				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU15_7				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU15_7				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU15_7				11	No emparentat	No emparentado	Not related
+T4_PARENTIU15_8	Parentiu de la persona 15 amb la persona 8	Parentesco de la persona 15 con la persona 8	Kinship of person 15 with person 8				
+T4_PARENTIU15_8				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU15_8				02	Fill	Hijo	Son
+T4_PARENTIU15_8				03	Germà	Hermano	Brother
+T4_PARENTIU15_8				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU15_8				05	Net	Nieto	Grandson
+T4_PARENTIU15_8				06	Avi	Abuelo	Grandfather
+T4_PARENTIU15_8				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU15_8				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU15_8				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU15_8				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU15_8				11	No emparentat	No emparentado	Not related
+T4_PARENTIU15_9	Parentiu de la persona 15 amb la persona 9	Parentesco de la persona 15 con la persona 9	Kinship of person 15 with person 9				
+T4_PARENTIU15_9				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU15_9				02	Fill	Hijo	Son
+T4_PARENTIU15_9				03	Germà	Hermano	Brother
+T4_PARENTIU15_9				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU15_9				05	Net	Nieto	Grandson
+T4_PARENTIU15_9				06	Avi	Abuelo	Grandfather
+T4_PARENTIU15_9				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU15_9				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU15_9				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU15_9				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU15_9				11	No emparentat	No emparentado	Not related
+T4_PARENTIU15_10	Parentiu de la persona 15 amb la persona 10	Parentesco de la persona 15 con la persona 10	Kinship of person 15 with person 10				
+T4_PARENTIU15_10				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU15_10				02	Fill	Hijo	Son
+T4_PARENTIU15_10				03	Germà	Hermano	Brother
+T4_PARENTIU15_10				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU15_10				05	Net	Nieto	Grandson
+T4_PARENTIU15_10				06	Avi	Abuelo	Grandfather
+T4_PARENTIU15_10				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU15_10				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU15_10				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU15_10				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU15_10				11	No emparentat	No emparentado	Not related
+T4_PARENTIU15_11	Parentiu de la persona 15 amb la persona 11	Parentesco de la persona 15 con la persona 11	Kinship of person 15 with person 11				
+T4_PARENTIU15_11				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU15_11				02	Fill	Hijo	Son
+T4_PARENTIU15_11				03	Germà	Hermano	Brother
+T4_PARENTIU15_11				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU15_11				05	Net	Nieto	Grandson
+T4_PARENTIU15_11				06	Avi	Abuelo	Grandfather
+T4_PARENTIU15_11				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU15_11				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU15_11				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU15_11				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU15_11				11	No emparentat	No emparentado	Not related
+T4_PARENTIU15_12	Parentiu de la persona 15 amb la persona 12	Parentesco de la persona 15 con la persona 12	Kinship of person 15 with person 12				
+T4_PARENTIU15_12				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU15_12				02	Fill	Hijo	Son
+T4_PARENTIU15_12				03	Germà	Hermano	Brother
+T4_PARENTIU15_12				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU15_12				05	Net	Nieto	Grandson
+T4_PARENTIU15_12				06	Avi	Abuelo	Grandfather
+T4_PARENTIU15_12				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU15_12				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU15_12				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU15_12				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU15_12				11	No emparentat	No emparentado	Not related
+T4_PARENTIU15_13	Parentiu de la persona 15 amb la persona 13	Parentesco de la persona 15 con la persona 13	Kinship of person 15 with person 13				
+T4_PARENTIU15_13				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU15_13				02	Fill	Hijo	Son
+T4_PARENTIU15_13				03	Germà	Hermano	Brother
+T4_PARENTIU15_13				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU15_13				05	Net	Nieto	Grandson
+T4_PARENTIU15_13				06	Avi	Abuelo	Grandfather
+T4_PARENTIU15_13				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU15_13				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU15_13				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU15_13				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU15_13				11	No emparentat	No emparentado	Not related
+T4_PARENTIU15_14	Parentiu de la persona 15 amb la persona 14	Parentesco de la persona 15 con la persona 14	Kinship of person 15 with person 14				
+T4_PARENTIU15_14				01	Cònjuge o parella	Cónyugue o pareja	Spouse or partner
+T4_PARENTIU15_14				02	Fill	Hijo	Son
+T4_PARENTIU15_14				03	Germà	Hermano	Brother
+T4_PARENTIU15_14				04	Pare/mare	Padre, madre	Father/mother
+T4_PARENTIU15_14				05	Net	Nieto	Grandson
+T4_PARENTIU15_14				06	Avi	Abuelo	Grandfather
+T4_PARENTIU15_14				07	Gendre/jove	Hierno	Son-in-law
+T4_PARENTIU15_14				08	Cunyat	Cuñado	Brother-in-law
+T4_PARENTIU15_14				09	Sogre	Suegro	Father-in-law
+T4_PARENTIU15_14				10	Un altre parent	Otro parentesco	Another kinship
+T4_PARENTIU15_14				11	No emparentat	No emparentado	Not related
+T5_TIPUS_LLAR	1. Anoti el tipus de llar	1. Anote el tipo de hogar	1. Write down the type of home				
+T5_TIPUS_LLAR				1	Llar unipersonal	Hogar unipersonal	Single-person home
+T5_TIPUS_LLAR				2	Parella sola	Pareja sola	Couple only
+T5_TIPUS_LLAR				3	Parella amb algun fill menor de 25 anys	Pareja con algún hijo menor de 25 años	Couple with a child under 25 years old
+T5_TIPUS_LLAR				4	Parella amb tots els fills de 25 anys i més	Pareja con todos los hijos de 25 años y más	Couple with all children aged 25 and over
+T5_TIPUS_LLAR				5	Pare o mare sols amb algun fill menor de 25 anys	Padre o madre solos con algún hijo menor de 25 años	Single parent with a child under 25 years old
+T5_TIPUS_LLAR				6	Pare o mare sols amb tots els fills de 25 anys i més	Padre o madre solos con todos los hijos de 25 años y más	Single parent with all children aged 25 and over
+T5_TIPUS_LLAR				7	Parella amb algun fill menor de 25 anys i altres persones	Pareja con algún hijo menor de 25 años y otras personas	Couple with a child under 25 years old and other people
+T5_TIPUS_LLAR				8	Pare o mare sols amb algun fill menor de 25 anys i altres persones	Padre o madre solos con algún hijo menor de 25 años y otros	Single parent with a child under 25 years old and others
+T5_TIPUS_LLAR				9	Un altre tipus de llar	Otro tipo de hogar	Other type of household
+T5_NUM_MEMBRES	Anoti el nombre de membres de la llar	Anote el número de miembros del hogar	Write down the number of household members				
+T5_CURA	2. Cura dels infants membres de llar. Sense comptar l'ensenyament obligatori en escoles, algun infant de la llar menor de 10 anys és atès habitualment en algun centre o per persones que no formin part de la llar?	2. Cuidado de los niños miembros de hogar. Sin contar la enseñanza obligatoria en escuelas, ¿algún niño del hogar menor de 10 años es atendido habitualmente en algún centro o por personas que no formen parte del hogar?	2. Caring for child members of the home. Not counting compulsory education, are any children under the age of 10 in the home regularly cared for in a centre or by people who are not part of the household?				
+T5_CURA				1	Sí	Sí	Yes
+T5_CURA				6	No	No	No
+T5_NUM_CURA	2. Cura dels infants membres de la llar. Nombre de infants atesos menors de 10 anys	2. Cuidado de los niños miembros del hogar. Número de niños atendidos menores de 10 años	2. Caring for child members of the household. Number of children cared for under 10 years old.				
+T5_AD_DEP	3. Adults dependents de la llar. Algun adult de la llar es troba en situació de dependència?	3. Adultos dependientes del hogar. ¿Algún adulto del hogar se encuentra en situación de dependencia?	3. Dependent adults in the household. Are there any dependent adults in the household?				
+T5_AD_DEP				1	Sí	Sí	Yes
+T5_AD_DEP				6	No	No	No
+T5_INGRESSOS	4. Ingressos econòmics. Indiqui en quin interval se situen els ingressos mensuals mitjans nets del total de membres de la llar, és a dir, deduint-ne els impostos i les cotitzacions socials. (Inclogui la part proporcional mensual corresponent de les pagues extraordinàries i altres ingressos extraordinaris, sempre que es percebin regularment)	4. Ingresos económicos. Indique en qué intervalo se sitúan los ingresos mensuales medios netos del total de miembros del hogar, es decir, deduciendo sus impuestos y cotizaciones sociales. (Incluya la parte proporcional mensual correspondiente de las pagas extraordinarias y otros ingresos extraordinarios, siempre que se perciban regularmente)	4. Income. State the range of the average total net monthly income of the household members, i.e. after deducting taxes and social security contributions. (Include the proportional monthly part of extra payments and other extra income, provided it is received regularly)				
+T5_INGRESSOS				1	700 € o menys	700 € o menos	700 € or less
+T5_INGRESSOS				2	De 701 € a 1.000 €	De 701 € a 1.000 €	From 701 € to 1,000 €
+T5_INGRESSOS				3	De 1.001 € a 1.400 €	De 1.001 € a 1.400 €	From 1,001 € to 1,400 €
+T5_INGRESSOS				4	De 1.401 € a 1.700 €	De 1.401 € a 1.700 €	From 1,401 € to 1,700 €
+T5_INGRESSOS				5	De 1.701 € a 2.000 €	De 1.701 € a 2.000 €	From 1,701 € to 2,000 €
+T5_INGRESSOS				6	De 2.001 € a 2.300 €	De 2.001 € a 2.300 €	From 2,001 € to 2,300 €
+T5_INGRESSOS				7	De 2.301 € a 2.600 €	De 2.301 € a 2.600 €	From 2,301 € to 2,600 €
+T5_INGRESSOS				8	De 2.601 € a 3.100 €	De 2.601 € a 3.100 €	From 2,601 € to 3,100 €
+T5_INGRESSOS				9	De 3.101 € a 4.000 €	De 3.101 € a 4.000 €	From 3,101 € to 4,000 €
+T5_INGRESSOS				10	Més de 4.000 €	Más de 4.000 €	More than 4,000 €
+T5_INGRESSOS				98	No ho sap	No lo sabe	Don't know
+T5_INGRESSOS				99	No hi consta	No consta	No answer
+T5_AJ_REBUTS01	5. Ajuts rebuts per a la llar. Activitats culinàries: Ha rebut ajut d'una persona aliena a la llar en les darreres 4 setmanes?	5. Ayudas recibidas para el hogar. Actividades culinarias: ¿Ha recibido ayuda de una persona ajena al hogar en las últimas 4 semanas?	5. Help received by the household. Culinary activities: Have you received any help from someone outside the home in the last 4 weeks?				
+T5_AJ_REBUTS01				1	Sí	Sí	Yes
+T5_AJ_REBUTS01				6	No	No	No
+T5_AJ_HORES01	5. Ajuts rebuts per a la llar. Activitats culinàries: Mitjana d'hores setmanals d'aquest ajut	5. Ayudas recibidas para el hogar. Actividades culinarias: Media de horas semanales de esta ayuda	5. Ajuts rebuts per a la llar. Activitats culinàries: Average hours per week of this help				
+T5_AJ_PAGAR01	5. Ajuts rebuts per a la llar. Activitats culinàries: Acostuma a pagar-los?	5. Ayudas recibidas para el hogar. Actividades culinarias: ¿Suele pagarlos?	5. Ajuts rebuts per a la llar. Activitats culinàries: Do you usually pay them?				
+T5_AJ_PAGAR01				1	Sí	Sí	Yes
+T5_AJ_PAGAR01				6	No	No	No
+T5_AJ_REBUTS02	5. Ajuts rebuts per a la llar. Manteniment de la llar: Ha rebut ajut d'una persona aliena a la llar en les darreres 4 setmanes?	5. Ayudas recibidas para el hogar. Mantenimiento del hogar: ¿Ha recibido ayuda de una persona ajena al hogar en las últimas 4 semanas?	5. Ajuts rebuts per a la llar. Home maintenance: Have you received any help from someone outside the home in the last 4 weeks?				
+T5_AJ_REBUTS02				1	Sí	Sí	Yes
+T5_AJ_REBUTS02				6	No	No	No
+T5_AJ_HORES02	5. Ajuts rebuts per a la llar. Manteniment de la llar: Mitjana d'hores setmanals d'aquest ajut	5. Ayudas recibidas para el hogar. Mantenimiento del hogar: Media de horas semanales de esta ayuda	5. Ajuts rebuts per a la llar. Manteniment de la llar: Average hours per week of this help				
+T5_AJ_PAGAR02	5. Ajuts rebuts per a la llar. Manteniment de la llar: Acostuma a pagar-los?	5. Ayudas recibidas para el hogar. Mantenimiento del hogar: ¿Suele pagarlos?	5. Ajuts rebuts per a la llar. Manteniment de la llar: Acostuma a pagar-los?				
+T5_AJ_PAGAR02				1	Sí	Sí	Yes
+T5_AJ_PAGAR02				6	No	No	No
+T5_AJ_REBUTS03	5. Ajuts rebuts per a la llar. Confecció i preparació de la roba: Ha rebut ajut d'una persona aliena a la llar en les darreres 4 setmanes?	5. Ayudas recibidas para el hogar. Confección y preparación de la ropa: ¿Ha recibido ayuda de una persona ajena al hogar en las últimas 4 semanas?	5. Ajuts rebuts per a la llar. Confecció i preparació de la roba: Ha rebut ajut d'una persona aliena a la llar en les darreres 4 setmanes?				
+T5_AJ_REBUTS03				1	Sí	Sí	Yes
+T5_AJ_REBUTS03				6	No	No	No
+T5_AJ_HORES03	5. Ajuts rebuts per a la llar. Confecció i preparació de la roba: Mitjana d'hores setmanals d'aquest ajut	5. Ayudas recibidas para el hogar. Confección y preparación de la ropa: Media de horas semanales de esta ayuda	5. Ajuts rebuts per a la llar. Confecció i preparació de la roba: Mitjana d'hores setmanals d'aquest ajut				
+T5_AJ_PAGAR03	5. Ajuts rebuts per a la llar. Confecció i preparació de la roba: Acostuma a pagar-los?	5. Ayudas recibidas para el hogar. Confección y preparación de la ropa: ¿Suele pagarlos?	5. Ajuts rebuts per a la llar. Confecció i preparació de la roba: Acostuma a pagar-los?				
+T5_AJ_PAGAR03				1	Sí	Sí	Yes
+T5_AJ_PAGAR03				6	No	No	No
+T5_AJ_REBUTS04	5. Ajuts rebuts per a la llar. Jardineria i cura d'animals: Ha rebut ajut d'una persona aliena a la llar en les darreres 4 setmanes?	5. Ayudas recibidas para el hogar. Jardinería y atención de animales: ¿Ha recibido ayuda de una persona ajena al hogar en las últimas 4 semanas?	5. Ajuts rebuts per a la llar. Jardineria i cura d'animals: Ha rebut ajut d'una persona aliena a la llar en les darreres 4 setmanes?				
+T5_AJ_REBUTS04				1	Sí	Sí	Yes
+T5_AJ_REBUTS04				6	No	No	No
+T5_AJ_HORES04	5. Ajuts rebuts per a la llar. Jardineria i cura d'animals: Mitjana d'hores setmanals d'aquest ajut	5. Ayudas recibidas para el hogar. Jardinería y atención de animales: Media de horas semanales de esta ayuda	5. Ajuts rebuts per a la llar. Jardineria i cura d'animals: Mitjana d'hores setmanals d'aquest ajut				
+T5_AJ_PAGAR04	5. Ajuts rebuts per a la llar. Jardineria i cura d'animals: Acostuma a pagar-los?	5. Ayudas recibidas para el hogar. Jardinería y atención de animales: ¿Suele pagarlos?	5. Ajuts rebuts per a la llar. Jardineria i cura d'animals: Acostuma a pagar-los?				
+T5_AJ_PAGAR04				1	Sí	Sí	Yes
+T5_AJ_PAGAR04				6	No	No	No
+T5_AJ_REBUTS05	5. Ajuts rebuts per a la llar. Construcció i reparacions: Ha rebut ajut d'una persona aliena a la llar en les darreres 4 setmanes?	5. Ayudas recibidas para el hogar. Construcción y reparaciones: ¿Ha recibido ayuda de una persona ajena al hogar en las últimas 4 semanas?	5. Ajuts rebuts per a la llar. Construcció i reparacions: Ha rebut ajut d'una persona aliena a la llar en les darreres 4 setmanes?				
+T5_AJ_REBUTS05				1	Sí	Sí	Yes
+T5_AJ_REBUTS05				6	No	No	No
+T5_AJ_HORES05	5. Ajuts rebuts per a la llar. Construcció i reparacions: Mitjana d'hores setmanals d'aquest ajut	5. Ayudas recibidas para el hogar. Construcción y reparaciones: Media de horas semanales de esta ayuda	5. Ajuts rebuts per a la llar. Construcció i reparacions: Mitjana d'hores setmanals d'aquest ajut				
+T5_AJ_PAGAR05	5. Ajuts rebuts per a la llar. Construcció i reparacions: Acostuma a pagar-los?	5. Ayudas recibidas para el hogar. Construcción y reparaciones: ¿Suele pagarlos?	5. Ajuts rebuts per a la llar. Construcció i reparacions: Acostuma a pagar-los?				
+T5_AJ_PAGAR05				1	Sí	Sí	Yes
+T5_AJ_PAGAR05				6	No	No	No
+T5_AJ_REBUTS06	5. Ajuts rebuts per a la llar. Compres i serveis: Ha rebut ajut d'una persona aliena a la llar en les darreres 4 setmanes?	5. Ayudas recibidas para el hogar. Compras y servicios: ¿Ha recibido ayuda de una persona ajena al hogar en las últimas 4 semanas?	5. Ajuts rebuts per a la llar. Compres i serveis: Ha rebut ajut d'una persona aliena a la llar en les darreres 4 setmanes?				
+T5_AJ_REBUTS06				1	Sí	Sí	Yes
+T5_AJ_REBUTS06				6	No	No	No
+T5_AJ_HORES06	5. Ajuts rebuts per a la llar. Compres i serveis: Mitjana d'hores setmanals d'aquest ajut	5. Ayudas recibidas para el hogar. Compras y servicios: Media de horas semanales de esta ayuda	5. Ajuts rebuts per a la llar. Compres i serveis: Mitjana d'hores setmanals d'aquest ajut				
+T5_AJ_PAGAR06	5. Ajuts rebuts per a la llar. Compres i serveis: Acostuma a pagar-los?	5. Ayudas recibidas para el hogar. Compras y servicios: ¿Suele pagarlos?	5. Ajuts rebuts per a la llar. Compres i serveis: Acostuma a pagar-los?				
+T5_AJ_PAGAR06				1	Sí	Sí	Yes
+T5_AJ_PAGAR06				6	No	No	No
+T5_AJ_REBUTS07	5. Ajuts rebuts per a la llar. Gestions de la llar: Ha rebut ajut d'una persona aliena a la llar en les darreres 4 setmanes?	5. Ayudas recibidas para el hogar. Gestiones del hogar: ¿Ha recibido ayuda de una persona ajena al hogar en las últimas 4 semanas?	5. Ajuts rebuts per a la llar. Gestions de la llar: Ha rebut ajut d'una persona aliena a la llar en les darreres 4 setmanes?				
+T5_AJ_REBUTS07				1	Sí	Sí	Yes
+T5_AJ_REBUTS07				6	No	No	No
+T5_AJ_HORES07	5. Ajuts rebuts per a la llar. Gestions de la llar: Mitjana d'hores setmanals d'aquest ajut	5. Ayudas recibidas para el hogar. Gestiones del hogar: Media de horas semanales de esta ayuda	5. Ajuts rebuts per a la llar. Gestions de la llar: Mitjana d'hores setmanals d'aquest ajut				
+T5_AJ_PAGAR07	5. Ajuts rebuts per a la llar. Gestions de la llar: Acostuma a pagar-los?	5. Ayudas recibidas para el hogar. Gestiones del hogar: ¿Suele pagarlos?	5. Ajuts rebuts per a la llar. Gestions de la llar: Acostuma a pagar-los?				
+T5_AJ_PAGAR07				1	Sí	Sí	Yes
+T5_AJ_PAGAR07				6	No	No	No
+T5_AJ_REBUTS08	5. Ajuts rebuts per a la llar. Cura d'infants: Ha rebut ajut d'una persona aliena a la llar en les darreres 4 setmanes?	5. Ayudas recibidas para el hogar. Atención de niños: ¿Ha recibido ayuda de una persona ajena al hogar en las últimas 4 semanas?	5. Ajuts rebuts per a la llar. Cura d'infants: Ha rebut ajut d'una persona aliena a la llar en les darreres 4 setmanes?				
+T5_AJ_REBUTS08				1	Sí	Sí	Yes
+T5_AJ_REBUTS08				6	No	No	No
+T5_AJ_HORES08	5. Ajuts rebuts per a la llar. Cura d'infants: Mitjana d'hores setmanals d'aquest ajut	5. Ayudas recibidas para el hogar. Atención de niños: Media de horas semanales de esta ayuda	5. Ajuts rebuts per a la llar. Cura d'infants: Mitjana d'hores setmanals d'aquest ajut				
+T5_AJ_PAGAR08	5. Ajuts rebuts per a la llar. Cura d'infants: Acostuma a pagar-los?	5. Ayudas recibidas para el hogar. Atención de niños: ¿Suele pagarlos?	5. Ajuts rebuts per a la llar. Cura d'infants: Acostuma a pagar-los?				
+T5_AJ_PAGAR08				1	Sí	Sí	Yes
+T5_AJ_PAGAR08				6	No	No	No
+T5_AJ_REBUTS09	5. Ajuts rebuts per a la llar. Cura d'adults: Ha rebut ajut d'una persona aliena a la llar en les darreres 4 setmanes?	5. Ayudas recibidas para el hogar. Atención de adultos: ¿Ha recibido ayuda de una persona ajena al hogar en las últimas 4 semanas?	5. Ajuts rebuts per a la llar. Cura d'adults: Ha rebut ajut d'una persona aliena a la llar en les darreres 4 setmanes?				
+T5_AJ_REBUTS09				1	Sí	Sí	Yes
+T5_AJ_REBUTS09				6	No	No	No
+T5_AJ_HORES09	5. Ajuts rebuts per a la llar. Cura d'adults: Mitjana d'hores setmanals d'aquest ajut	5. Ayudas recibidas para el hogar. Atención de adultos: Media de horas semanales de esta ayuda	5. Ajuts rebuts per a la llar. Cura d'adults: Mitjana d'hores setmanals d'aquest ajut				
+T5_AJ_PAGAR09	5. Ajuts rebuts per a la llar. Cura d'adults: Acostuma a pagar-los?	5. Ayudas recibidas por el hogar. Atención de adultos: ¿Suele pagarlos?	5. Ajuts rebuts per a la llar. Cura d'adults: Acostuma a pagar-los?				
+T5_AJ_PAGAR09				1	Sí	Sí	Yes
+T5_AJ_PAGAR09				6	No	No	No
+T5_AJ_REBUTS10	5. Ajuts rebuts per a la llar. Altres (especifiqui): Ha rebut ajut d'una persona aliena a la llar en les darreres 4 setmanes?	5. Ayudas recibidas para el hogar. Otros (especifique): ¿Ha recibido ayuda de una persona ajena al hogar en las últimas 4 semanas?	5. Ajuts rebuts per a la llar. Altres (especifiqui): Ha rebut ajut d'una persona aliena a la llar en les darreres 4 setmanes?				
+T5_AJ_REBUTS10				1	Sí	Sí	Yes
+T5_AJ_REBUTS10				6	No	No	No
+T5_AJ_HORES10	5. Ajuts rebuts per a la llar. Altres (especifiqui): Mitjana d'hores setmanals d'aquest ajut	5. Ayudas recibidas para el hogar. Otros (especifique): Media de horas semanales de esta ayuda	5. Ajuts rebuts per a la llar. Altres (especifiqui): Mitjana d'hores setmanals d'aquest ajut				
+T5_AJ_PAGAR10	5. Ajuts rebuts per a la llar. Altres (especifiqui): Acostuma a pagar-los?	5. Ayudas recibidas para el hogar. Otros (especifique): ¿Suele pagarlos?	5. Ajuts rebuts per a la llar. Altres (especifiqui): Acostuma a pagar-los?				
+T5_AJ_PAGAR10				1	Sí	Sí	Yes
+T5_AJ_PAGAR10				6	No	No	No
+PES_LLARS_CALMAR	Factor d'elevació de les llars calibrat multiplicat per 1.000 (Factor elevació = PES_LLARS_CALMAR / 1.000)	Factor de elevación de los hogares calibrado multiplicado por 1.000 (Factor elevación = PES_LLARS_CALMAR / 1.000)	Calibrated inflation factor of the households multiplied by 1,000 (Factor elevació = PES_LLARS_CALMAR / 1.000)				
