@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 # 🧱 Foundations · Fundamentos de Data Analytics
 
@@ -40,26 +40,26 @@ Esta primera fase construye una base transversal: importar y transformar datos, 
 
 ---
 
-## 🗂�?Estructura
+## 🗂️ Estructura
 
 <details>
 <summary><b>Ver árbol de carpetas</b> (clic para desplegar)</summary>
 
 ```text
 Foundations/
-�?├── ApuntsCibernarium/              Material docente y documentación de consulta
-�?├── MySql/
-�?  ├── Exercices/                  Consultas, joins, subconsultas y examen
-�?  ├── Samples/                    Bases de datos y conjuntos de práctica
-�?  └── CheatSheets/                Referencias rápidas de SQL
-�?├── PowerBi/
-�?  ├── Exercices/                  Informes y dashboards desarrollados
-�?  └── Samples/                    Ficheros de apoyo para visualización
-�?├── Python/
-�?  ├── Exercices/                  Notebooks, prácticas y evaluación
-�?  ├── Samples/                    CSV y documentación de apoyo
-�?  └── CheatSheet/                 Referencias de Python, pandas y Jupyter
-�?└── README.md
+│├── ApuntsCibernarium/              Material docente y documentación de consulta
+│├── MySql/
+│  ├── Exercices/                  Consultas, joins, subconsultas y examen
+│  ├── Samples/                    Bases de datos y conjuntos de práctica
+│  └── CheatSheets/                Referencias rápidas de SQL
+│├── PowerBi/
+│  ├── Exercices/                  Informes y dashboards desarrollados
+│  └── Samples/                    Ficheros de apoyo para visualización
+│├── Python/
+│  ├── Exercices/                  Notebooks, prácticas y evaluación
+│  ├── Samples/                    CSV y documentación de apoyo
+│  └── CheatSheet/                 Referencias de Python, pandas y Jupyter
+│└── README.md
 ```
 
 </details>
@@ -105,7 +105,7 @@ Entre los ejercicios aplicados se incluyen el análisis de cursos de Udemy, libr
 
 ---
 
-## 🛠�?Stack técnico
+## 🛠️ Stack técnico
 
 - **Hojas de cálculo y ETL:** Excel, Power Query y Power Pivot.
 - **Base de datos:** MySQL y MySQL Workbench.
@@ -117,10 +117,10 @@ Entre los ejercicios aplicados se incluyen el análisis de cursos de Udemy, libr
 
 ## 🧭 Cómo navegar esta fase
 
-- **Para revisar SQL �?* comienza por `MySql/Exercices/` y continúa con los casos de `JOIN` y subconsultas.
-- **Para revisar Python �?* abre los notebooks de `Python/Exercices/`; las tareas avanzan desde sintaxis básica hasta análisis con varias tablas.
-- **Para revisar visualización �?* abre los `.pbix` de `PowerBi/Exercices/`.
-- **Para consultar teoría �?* utiliza `ApuntsCibernarium/` y las carpetas de referencias rápidas.
+- **Para revisar SQL →** comienza por `MySql/Exercices/` y continúa con los casos de `JOIN` y subconsultas.
+- **Para revisar Python →** abre los notebooks de `Python/Exercices/`; las tareas avanzan desde sintaxis básica hasta análisis con varias tablas.
+- **Para revisar visualización →** abre los `.pbix` de `PowerBi/Exercices/`.
+- **Para consultar teoría →** utiliza `ApuntsCibernarium/` y las carpetas de referencias rápidas.
 
 ---
 

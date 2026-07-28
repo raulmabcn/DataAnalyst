@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 # 📊 Data Analyst · Learning Journey & Portfolio
 

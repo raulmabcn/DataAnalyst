@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 # 🚀 Specialization · Data Analytics
 
@@ -41,22 +41,22 @@ La especialización amplía los fundamentos mediante casos progresivos: una base
 
 ---
 
-## 🗂�?Estructura
+## 🗂️ Estructura
 
 <details>
 <summary><b>Ver árbol de carpetas</b> (clic para desplegar)</summary>
 
 ```text
 Specialization/
-�?├── BasicNotionsSQL/                Consultas, joins y subconsultas
+│├── BasicNotionsSQL/                Consultas, joins y subconsultas
 ├── TableManiputaltionSQL/          DDL, DML, integridad y vistas
 ├── DatabaseCreationSQL/            Esquema en estrella y carga por SQL
 ├── MongodbQueries/                 Consultas, agregaciones y geodatos
-�?├── PythonBasics/                   Funciones, validación y automatización
+│├── PythonBasics/                   Funciones, validación y automatización
 ├── PythonPandas/                   Transformación y análisis tabular
 ├── PythonVisualData/               Visualización e interpretación
 ├── PythonAPIsREST/                 Consumo de APIs y exportación
-�?├── PowerBiDataAnalysisIntro/       Introducción al análisis en Power BI
+│├── PowerBiDataAnalysisIntro/       Introducción al análisis en Power BI
 ├── PowerBiAnailisVendas/           Análisis de ventas en Power BI
 ├── Bridge/                         Ejercicios de transición
 ├── ToolBox/                        Utilidades y referencias SQL
@@ -142,7 +142,7 @@ Specialization/
 - Exploración de JSONPlaceholder y de una API pública seleccionada.
 - Consulta del catálogo Open Data BCN y exportación de recursos a CSV.
 
-## 🛠�?Stack técnico
+## 🛠️ Stack técnico
 
 - **Bases de datos:** MySQL, MySQL Workbench y MongoDB.
 - **Programación:** Python.
@@ -154,10 +154,10 @@ Specialization/
 
 ## 🧭 Cómo navegar esta fase
 
-- **Ruta SQL �?* `BasicNotionsSQL �?TableManiputaltionSQL �?DatabaseCreationSQL`.
-- **Ruta NoSQL �?* abre `MongodbQueries/MongodbQueries.pdf` junto con el script `.js`.
-- **Ruta Python �?* `PythonBasics �?PythonPandas �?PythonVisualData �?PythonAPIsREST`.
-- **Vista de negocio �?* abre los informes `.pbix` de las carpetas Power BI.
+- **Ruta SQL →** `BasicNotionsSQL → TableManiputaltionSQL → DatabaseCreationSQL`.
+- **Ruta NoSQL →** abre `MongodbQueries/MongodbQueries.pdf` junto con el script `.js`.
+- **Ruta Python →** `PythonBasics → PythonPandas → PythonVisualData → PythonAPIsREST`.
+- **Vista de negocio →** abre los informes `.pbix` de las carpetas Power BI.
 - Los `.pdf` documentan los enunciados, la ejecución y los resultados; los `.sql`, `.js` e `.ipynb` contienen la implementación.
 
 ---
